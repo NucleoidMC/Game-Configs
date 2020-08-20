@@ -1,0 +1,16 @@
+{
+  "type": "farmy_feud:farmy_feud",
+  "map": "farmy_feud:farmy_feud_1",
+  "players": {
+    "min": 1,
+    "max": 100
+  },
+  "arrow_interval": 200,
+  "teams": [
+    {"key": "red", "display": "Red", "color": "red"},
+    {"key": "yellow", "display": "Yellow", "color": "yellow"},
+    {"key": "green", "display": "Green", "color": "green"},
+    {"key": "blue", "display": "Blue", "color": "blue"}
+  ]
+}
+

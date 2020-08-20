@@ -1,0 +1,26 @@
+{
+  "type": "spleef:spleef",
+  "map": {
+    "shape": {
+      "type": "spleef:donut",
+      "radius": 16
+    },
+    "levels": 8,
+    "level_height": 8,
+    "floor_provider": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "name": "minecraft:tnt",
+      }
+	 }
+    },
+    "radius": 16
+  },
+  "players": {
+    "min": 1,
+    "max": 100
+  },
+  "decay": 5,
+  "level_break_interval": 1200,
+  "tool": {"id": "minecraft:air", "Count": 1}
+}

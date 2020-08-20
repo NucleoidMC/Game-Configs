@@ -1,0 +1,22 @@
+{
+  "type": "plasmid:random",
+  "games": [
+    "loopdeloop:standard",
+    "nucleoid:bedwars_2p19k",
+    "deacoudre:circle_deacoudre",
+    "spleef:standard",
+    "nucleoid:magma_and_blue_ice_spleef",
+    "nucleoid:honey_and_slime_spleef",
+    "nucleoid:quick_arrow_ff",
+    "nucleoid:slime_spleef",
+    "murder_mystery:standard",
+    "wavedefense:standard",
+    "ascension:standard_ascension",
+    "colorswap:standard_color_swap",
+    "electricfloor:standard_electric_floor",
+    "spleef:standard_projectile",
+    "shardthief:standard_shard_thief",
+    "territorybattle:standard_territory_battle",
+    "nucleoid:trapdoor_spleef"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "spleef:spleef",
+  "decay": 60,
+  "map": {
+    "shape": {
+      "type": "spleef:circle",
+      "radius": 16
+    },
+    "levels": 4,
+    "level_height": 5,
+    "floor_provider": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "minecraft:honey_block"
+      }
+    }
+  },
+  "players": {
+    "min": 1,
+    "max": 100
+  },
+  "tool": {"id": "minecraft:shears", "Count": 1}
+}
