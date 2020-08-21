@@ -2,11 +2,8 @@
   "type": "plasmid:random",
   "games": [
     "nucleoid:spleef/random",
-    "nucleoid:bedwars/random",
     "loopdeloop:standard",
     "deacoudre:circle_deacoudre",
-    "murder_mystery:standard",
-    "wavedefense:standard",
     "ascension:standard_ascension",
     "colorswap:standard_color_swap",
     "electricfloor:standard_electric_floor",
