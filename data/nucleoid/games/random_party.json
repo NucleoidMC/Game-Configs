@@ -8,6 +8,7 @@
     "colorswap:standard_color_swap",
     "electricfloor:standard_electric_floor",
     "shardthief:standard_shard_thief",
-    "territorybattle:standard_territory_battle"
+    "territorybattle:standard_territory_battle",
+    "nucleoid:koth/random"
   ]
 }

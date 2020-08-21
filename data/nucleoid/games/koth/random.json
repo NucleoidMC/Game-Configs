@@ -1,0 +1,7 @@
+{
+  "type": "plasmid:random",
+  "games": [
+    "koth:cotton_candy_scored",
+    "koth:skyland"
+  ]
+}
