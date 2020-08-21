@@ -1,0 +1,48 @@
+{
+  "type": "spleef:spleef",
+  "map": {
+    "shape": {
+      "type": "spleef:circle",
+      "radius": 16
+    },
+    "floor_provider": {
+      "type": "minecraft:weighted_state_provider",
+      "name": "minecraft:weighted_state_provider",
+      "entries": [{
+          "weight": 1,
+          "data": {
+            "Name": "minecraft:white_wool"
+          }
+        },
+	{
+          "weight": 1,
+          "data": {
+            "Name": "minecraft:magenta_wool"
+          }
+        },
+
+        {
+          "weight": 1,
+          "data": {
+            "Name": "minecraft:light_blue_wool"
+          }
+        }
+      ]
+    },
+    "levels": 4,
+    "level_height": 5
+  },
+  "players": {
+    "min": 1,
+    "max": 100
+  },
+  "tool": {
+   "id": "minecraft:shears", "Count": 1,
+   "tag": {
+     "Enchantments": [{
+       "id": "minecraft:efficiency",
+       "lvl": 100
+      }]
+    }
+  }
+}
