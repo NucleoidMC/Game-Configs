@@ -5,22 +5,13 @@
     "nucleoid:bedwars_two_teams",
     "nucleoid:bedwars_four_teams",
     "deacoudre:circle_deacoudre",
-    "spleef:standard",
-    "nucleoid:magma_and_blue_ice_spleef",
-    "nucleoid:honey_and_slime_spleef",
-    "nucleoid:quick_arrow_ff",
-    "nucleoid:slime_spleef",
-    "nucleoid:tnt_spleef",
-    "nucleoid:donut_tnt_spleef",
     "murder_mystery:standard",
     "wavedefense:standard",
     "ascension:standard_ascension",
     "colorswap:standard_color_swap",
     "electricfloor:standard_electric_floor",
-    "spleef:standard_projectile",
     "shardthief:standard_shard_thief",
     "territorybattle:standard_territory_battle",
-    "nucleoid:amelia",
-    "nucleoid:trapdoor_spleef"
+	"nucleoid:random_spleef"
   ]
 }
