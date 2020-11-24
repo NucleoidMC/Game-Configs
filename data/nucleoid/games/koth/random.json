@@ -5,7 +5,7 @@
     "nucleoid:koth/cotton_candy",
     "koth:skyland",
     "koth:ice",
-    "koth:deathmatch",
+    "nucleoid:koth/deathmatch",
     "nucleoid:koth/stack"
   ]
 }
