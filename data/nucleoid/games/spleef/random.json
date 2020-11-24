@@ -1,5 +1,6 @@
 {
   "type": "plasmid:random",
+  "name": "Spleef",
   "games": [
     "spleef:standard",
     "spleef:standard_projectile",
