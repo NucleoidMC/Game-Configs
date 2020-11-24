@@ -3,6 +3,7 @@
   "name": "BedWars: 4 Teams",
   "games": [
     "nucleoid:bedwars/four_teams_sky_islands",
-    "bedwars:hellish_nightmare"
+    "bedwars:hellish_nightmare",
+    "bedwars:cubes"
   ]
 }
