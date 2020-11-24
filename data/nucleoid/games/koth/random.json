@@ -1,7 +1,11 @@
 {
   "type": "plasmid:random",
+  "name": "King of the Hill",
   "games": [
-    "koth:cotton_candy_scored",
-    "koth:skyland"
+    "nucleoid:koth/cotton_candy",
+    "koth:skyland",
+    "koth:ice",
+    "koth:deathmatch",
+    "nucleoid:koth/stack"
   ]
 }

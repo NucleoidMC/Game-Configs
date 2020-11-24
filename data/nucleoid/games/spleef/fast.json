@@ -1,5 +1,6 @@
 {
   "type": "spleef:spleef",
+  "name": "Fast Spleef",
   "map": {
     "shape": {
       "type": "spleef:circle",

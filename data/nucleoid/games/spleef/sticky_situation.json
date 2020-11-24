@@ -1,5 +1,6 @@
 {
   "type": "spleef:spleef",
+  "name": "Sticky Situation Spleef",
   "map": {
     "shape": {
       "type": "spleef:circle",

@@ -1,5 +1,6 @@
 {
   "type": "plasmid:random",
+  "name": "BedWars: 4 Teams",
   "games": [
     "nucleoid:bedwars/four_teams_proc",
     "bedwars:hellish_nightmare"

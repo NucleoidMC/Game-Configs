@@ -1,0 +1,9 @@
+{
+  "type": "plasmid:random",
+  "name": "Dé à Coudre",
+  "games": [
+    "deacoudre:circle_deacoudre",
+    "deacoudre:donut_deacoudre",
+    "deacoudre:square_deacoudre"
+  ]
+}

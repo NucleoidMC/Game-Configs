@@ -1,0 +1,20 @@
+{
+  "type": "plasmid:random",
+  "name": "Party Games",
+  "games": [
+    "nucleoid:spleef/random",
+    "nucleoid:koth/random",
+    "nucleoid:deacoudre/random",
+    "nucleoid:loopdeloop/random",
+    "anvildrop:standard_anvil_drop",
+    "ascension:standard_ascension",
+    "codebreaker:standard_codebreaker",
+    "colorswap:standard_color_swap",
+    "cornmaze:standard_corn_maze",
+    "electricfloor:standard_electric_floor",
+    "elytron:standard_elytron",
+    "shardthief:standard_shard_thief",
+    "territorybattle:standard_territory_battle",
+    "totemhunt:standard_totem_hunt"
+  ]
+}

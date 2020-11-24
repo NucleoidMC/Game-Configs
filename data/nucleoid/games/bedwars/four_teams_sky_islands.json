@@ -1,5 +1,6 @@
 {
   "type": "bedwars:bed_wars",
+  "name": "BedWars: Sky Islands - 4 Teams",
   "map": {
     "diamond_generator": {
       "radius": 10,

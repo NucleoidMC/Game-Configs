@@ -1,5 +1,6 @@
 {
   "type": "spleef:spleef",
+  "name": "Spleef: Amelia",
   "map": {
     "shape": {
       "type": "spleef:circle",

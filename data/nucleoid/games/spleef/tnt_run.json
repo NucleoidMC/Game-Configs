@@ -1,5 +1,6 @@
 {
   "type": "spleef:spleef",
+  "name": "TNT Run",
   "map": {
     "shape": {
       "type": "spleef:circle",

@@ -1,5 +1,6 @@
 {
   "type": "spleef:spleef",
+  "name": "Frostburn Spleef",
   "map": {
     "shape": {
       "type": "spleef:circle",

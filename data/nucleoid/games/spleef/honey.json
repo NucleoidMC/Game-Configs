@@ -1,5 +1,6 @@
 {
   "type": "spleef:spleef",
+  "name": "Honey Spleef",
   "decay": 60,
   "map": {
     "shape": {

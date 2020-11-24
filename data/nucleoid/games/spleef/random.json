@@ -2,12 +2,12 @@
   "type": "plasmid:random",
   "games": [
     "spleef:standard",
+    "spleef:standard_projectile",
     "nucleoid:spleef/frostburn",
-    "nucleoid:spleef/honey_and_slime",
+    "nucleoid:spleef/sticky_situation",
     "nucleoid:spleef/slime",
     "nucleoid:spleef/tnt_run",
     "nucleoid:spleef/donut_tnt_run",
-    "spleef:standard_projectile",
     "nucleoid:spleef/amelia",
     "nucleoid:spleef/trapdoor"
   ]

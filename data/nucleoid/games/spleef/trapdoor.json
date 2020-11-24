@@ -1,5 +1,6 @@
 {
   "type": "spleef:spleef",
+  "name": "Trapdoor Spleef",
   "decay": 60,
   "map": {
     "shape": {
