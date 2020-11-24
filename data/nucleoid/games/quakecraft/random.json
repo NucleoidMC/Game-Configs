@@ -1,0 +1,9 @@
+{
+  "type": "plasmid:random",
+  "name": "QuakeCraft",
+  "games": [
+    "quakecraft:2fort",
+    "quakecraft:duel_monastery",
+    "quakecraft:monastery"
+  ]
+}
