@@ -1,6 +1,8 @@
 {
-  "type": "plasmid:random",
+  "type": "plasmid:composite",
   "name": "Party Games",
+  "cyclic": true,
+  "shuffled": true,
   "games": [
     "nucleoid:spleef/random",
     "nucleoid:koth/random",
