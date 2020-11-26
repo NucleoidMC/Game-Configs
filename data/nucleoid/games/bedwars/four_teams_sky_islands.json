@@ -2,6 +2,9 @@
   "type": "bedwars:bed_wars",
   "name": "BedWars: Sky Islands - 4 Teams",
   "map": {
+	"theme": {
+      "type": "bedwars:default"
+    },
     "diamond_generator": {
       "radius": 10,
       "falloff_multiplier": 1.0,
