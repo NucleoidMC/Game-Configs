@@ -2,6 +2,7 @@
   "type": "plasmid:random",
   "name": "BedWars: 2 Teams",
   "games": [
-    "nucleoid:bedwars/two_teams_sky_islands"
+    "nucleoid:bedwars/two_teams_sky_islands",
+    "bedwars:end"
   ]
 }
