@@ -17,6 +17,7 @@
     "elytron:standard_elytron",
     "shardthief:standard_shard_thief",
     "territorybattle:standard_territory_battle",
-    "totemhunt:standard_totem_hunt"
+    "totemhunt:standard_totem_hunt",
+    "downpour:standard_downpour"
   ]
 }
