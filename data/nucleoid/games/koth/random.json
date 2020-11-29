@@ -2,7 +2,6 @@
   "type": "plasmid:random",
   "name": "King of the Hill",
   "games": [
-    "nucleoid:koth/cotton_candy",
     "koth:skyland",
     "koth:ice",
     "nucleoid:koth/deathmatch",
