@@ -1,6 +1,7 @@
 {
   "type": "spleef:spleef",
   "name": "TNT Run",
+  "decay": 2,
   "map": {
     "shape": {
       "type": "spleef:circle",
@@ -13,15 +14,13 @@
       "state": {
         "Name": "minecraft:tnt"
       }
-    },
-    "radius": 16
+    }
   },
   "players": {
     "min": 1,
     "max": 100,
     "threshold": 2
   },
-  "decay": 5,
   "level_break_interval": 1200,
   "tool": {"id": "minecraft:air", "Count": 1}
 }
