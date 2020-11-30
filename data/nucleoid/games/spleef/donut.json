@@ -5,7 +5,7 @@
     "shape": {
       "type": "spleef:circle",
       "radius": 32,
-      "inner_radius": 24
+      "inner_radius": 16
     },
     "levels": 4,
     "level_height": 5,

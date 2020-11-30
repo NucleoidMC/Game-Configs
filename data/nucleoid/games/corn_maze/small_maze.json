@@ -2,8 +2,9 @@
 	"type": "cornmaze:corn_maze",
 	"name": "Small Corn Maze",
 	"map": {
-		"x": 12,
-		"z": 12,
+		"x": 16,
+		"z": 16,
+		"height": 4,
 		"scale": 2
 	},
 	"players": {
