@@ -2,7 +2,11 @@
   "type": "plasmid:random",
   "name": "BedWars",
   "games": [
-    "nucleoid:bedwars/four_teams",
-    "nucleoid:bedwars/two_teams"
+    "nucleoid:bedwars/two_teams",
+    "bedwars:standard_procgen",
+    "bedwars:desert_procgen",
+    "bedwars:end",
+    "bedwars:hellish_nightmare",
+    "bedwars:cubes"
   ]
 }
