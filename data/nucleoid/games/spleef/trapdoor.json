@@ -3,6 +3,7 @@
   "name": "Trapdoor Spleef",
   "decay": 60,
   "map": {
+    "check_block_for_level_delete": true,
     "shape": {
       "type": "spleef:circle",
       "radius": 16
