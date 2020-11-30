@@ -1,0 +1,24 @@
+{
+  "type": "spleef:spleef",
+  "name": "Donut Spleef",
+  "map": {
+    "shape": {
+      "type": "spleef:circle",
+      "radius": 32,
+	  "inner_radius": 24
+    },
+    "levels": 4,
+    "level_height": 5,
+    "floor_provider": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "minecraft:snow_block"
+      }
+    }
+  },
+  "players": {
+    "min": 1,
+    "max": 100,
+    "threshold": 2
+  },
+}

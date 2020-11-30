@@ -5,10 +5,14 @@
     "spleef:standard",
     "spleef:standard_projectile",
     "nucleoid:spleef/frostburn",
+	"nucleoid:spleef/frosty_frontiers",
+	"nucleoid:spleef/leaf",
+	"nucleoid:spleef/tall",
+	"nucleoid:spleef/fast",
     "nucleoid:spleef/sticky_situation",
     "nucleoid:spleef/slime",
     "nucleoid:spleef/tnt_run",
-    "nucleoid:spleef/donut_tnt_run",
+    "nucleoid:spleef/donut",
     "nucleoid:spleef/amelia",
     "nucleoid:spleef/trapdoor"
   ]
