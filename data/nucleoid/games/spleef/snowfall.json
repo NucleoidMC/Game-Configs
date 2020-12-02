@@ -1,0 +1,18 @@
+{
+  "type": "spleef:spleef",
+  "name": "Snowfall Spleef",
+  "decay": 2,
+  "map": {
+    "shape": {
+      "type": "spleef:circle",
+      "radius": 16
+    },
+    "levels": 8,
+    "level_height": 8
+  },
+  "players": {
+    "min": 1,
+    "max": 100,
+    "threshold": 2
+  }
+}
