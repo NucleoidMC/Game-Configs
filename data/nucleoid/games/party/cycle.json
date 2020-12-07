@@ -16,6 +16,7 @@
     "shardthief:standard_shard_thief",
     "territorybattle:standard_territory_battle",
     "totemhunt:standard_totem_hunt",
-    "downpour:standard_downpour"
+    "downpour:standard_downpour",
+    "mineout:standard"
   ]
 }
