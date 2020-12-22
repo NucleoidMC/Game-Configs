@@ -1,10 +1,11 @@
 {
   "type": "spleef:spleef",
-  "name": "Splegg",
+  "name": "Ender Spleef",
   "map": {
     "shape": {
       "type": "spleef:circle",
-      "radius": 16
+      "radius": 16,
+      "inner_radius": 3
     },
     "levels": 4,
     "level_height": 5
