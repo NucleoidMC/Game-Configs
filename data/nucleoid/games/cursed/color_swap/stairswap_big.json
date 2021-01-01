@@ -4,7 +4,7 @@
 	"map": {
 		"x": 32,
 		"z": 32,
-		"tilesize": 2,
+		"tileSize": 2,
 		"platformBlocks": "minecraft:stairs"
 	},
 	"players": {
