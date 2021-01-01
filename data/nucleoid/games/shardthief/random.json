@@ -2,8 +2,8 @@
   "type": "plasmid:random",
   "name": "Shard Thief",
   "games": [
-    "nucleoid:shardthief/block_fort_shard_thief",
-    "nucleoid:shardthief/jungle_temple_shard_thief",
-    "nucleoid:shardthief/oasis_shard_thief"
+    "shardthief:block_fort_shard_thief",
+    "shardthief:jungle_temple_shard_thief",
+    "shardthief:oasis_shard_thief"
   ]
 }
