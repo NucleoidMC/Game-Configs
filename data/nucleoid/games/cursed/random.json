@@ -1,0 +1,13 @@
+{
+  "type": "plasmid:random",
+  "name": "Cursed Games",
+  "games": [
+    "nucleoid:cursed/ascension/hyperthin",
+    "nucleoid:cursed/color_swap/stairswap",
+    "nucleoid:cursed/spleef/omega",
+    "nucleoid:cursed/spleef/trapdoor",
+    "nucleoid:cursed/spleef/cursed_donut",
+    "nucleoid:cursed/territory_battle/coral",
+    "nucleoid:cursed/territory_battle/climb"
+  ]
+}

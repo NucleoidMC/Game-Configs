@@ -1,0 +1,9 @@
+{
+  "type": "plasmid:random",
+  "name": "Ascension",
+  "games": [
+    "ascension:standard_ascension",
+    "nucleoid:shardthief/thin",
+    "nucleoid:shardthief/cave"
+  ]
+}

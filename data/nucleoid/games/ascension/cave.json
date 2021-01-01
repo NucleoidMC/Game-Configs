@@ -1,0 +1,15 @@
+{
+	"type": "ascension:ascension",
+	"name": "Cave Ascension",
+	"map": {
+		"x": 500,
+		"z": 500,
+		"layers": 45,
+		"layer_spacing": 1
+	},
+	"players": {
+		"min": 1,
+		"max": 32,
+		"threshold": 2
+	}
+}
