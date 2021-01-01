@@ -1,0 +1,15 @@
+{
+	"type": "colorswap:color_swap",
+	"name": "Big Stair Swap",
+	"map": {
+		"x": 32,
+		"z": 32,
+		"tilesize": 2,
+		"platformBlocks": "minecraft:stairs"
+	},
+	"players": {
+		"min": 1,
+		"max": 100,
+		"threshold": 2
+	}
+}

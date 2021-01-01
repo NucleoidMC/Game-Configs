@@ -4,9 +4,12 @@
   "games": [
     "nucleoid:cursed/ascension/hyperthin",
     "nucleoid:cursed/color_swap/stairswap",
+    "nucleoid:cursed/color_swap/stairswap_big",
     "nucleoid:cursed/spleef/omega",
     "nucleoid:cursed/spleef/trapdoor",
     "nucleoid:cursed/spleef/cursed_donut",
+    "nucleoid:cursed/corn_maze/omega",
+    "nucleoid:cursed/corn_maze/crunchy",
     "nucleoid:cursed/territory_battle/coral",
     "nucleoid:cursed/territory_battle/climb"
   ]
