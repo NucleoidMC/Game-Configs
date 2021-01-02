@@ -1,0 +1,10 @@
+{
+  "type": "plasmid:random",
+  "name": "Cursed Spleef",
+  "games": [
+    "nucleoid:cursed/spleef/cursed_donut",
+    "nucleoid:cursed/spleef/omega",
+    "nucleoid:cursed/spleef/omega_bleef",
+    "nucleoid:cursed/spleef/trapdoor"
+  ]
+}

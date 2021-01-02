@@ -1,0 +1,15 @@
+{
+	"type": "colorswap:color_swap",
+	"name": "Stair Swap",
+	"map": {
+		"x": 8,
+		"z": 8,
+		"tileSize": 8,
+		"platformBlocks": "minecraft:slabs"
+	},
+	"players": {
+		"min": 1,
+		"max": 100,
+		"threshold": 2
+	}
+}

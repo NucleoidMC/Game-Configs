@@ -1,0 +1,8 @@
+{
+  "type": "plasmid:random",
+  "name": "Cursed Ascension",
+  "games": [
+    "nucleoid:cursed/ascension/hyperthin",
+    "nucleoid:cursed/ascension/long"
+  ]
+}

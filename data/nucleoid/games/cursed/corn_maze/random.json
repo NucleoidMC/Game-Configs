@@ -1,0 +1,8 @@
+{
+  "type": "plasmid:random",
+  "name": "Cursed Corn Maze",
+  "games": [
+    "nucleoid:cursed/corn_maze/omega",
+    "nucleoid:cursed/corn_maze/crunchy"
+  ]
+}
