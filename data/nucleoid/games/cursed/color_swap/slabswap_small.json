@@ -1,10 +1,10 @@
 {
 	"type": "colorswap:color_swap",
-	"name": "Slab Swap",
+	"name": "Small Slab Swap",
 	"map": {
 		"x": 8,
 		"z": 8,
-		"tileSize": 8,
+		"tileSize": 2,
 		"platformBlocks": "minecraft:slabs"
 	},
 	"players": {
