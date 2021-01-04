@@ -4,8 +4,19 @@
 	"map": {
 		"x": 8,
 		"z": 8,
-		"tileSize": 2,
-		"platformBlocks": "minecraft:slabs"
+		"x_scale": 2,
+		"z_scale": 2,
+		"platformBlocks": "minecraft:slabs",
+		"initial_state_provider": {
+			"type": "minecraft:simple_state_provider",
+			"state": { 
+				"Name": "minecraft:smooth_quartz_slab",
+				"Properties": {
+					"type": "bottom",
+					"waterlogged": "false"
+				}
+			}
+		}
 	},
 	"players": {
 		"min": 1,

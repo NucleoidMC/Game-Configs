@@ -4,7 +4,8 @@
 	"map": {
 		"x": 16,
 		"z": 16,
-		"tileSize": 16,
+		"x_scale": 16,
+		"z_scale": 16,
 		"swap_time": 300,
 		"erase_time": 15,
 		"platformBlocks": "colorswap:platform_blocks"
