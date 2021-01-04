@@ -4,7 +4,7 @@
 	"map": {
 		"x": 500,
 		"z": 500,
-		"layers": 45,
+		"layers": 100,
 		"layer_spacing": 1
 	},
 	"players": {
