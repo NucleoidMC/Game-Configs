@@ -1,0 +1,24 @@
+{
+  "type": "creative_party:creative_party",
+  "name": "\"Void\" Party",
+  "map": {
+    "surface_builder": {
+      "type": default,
+      "config": {
+        "top_material":{
+          "Name": "minecraft:barrier"
+        },
+        "under_material":{
+          "Name": "minecraft:air"
+        },
+        "underwater_material":{
+          "Name": "minecraft:air"
+        }
+      }
+	}
+  },
+  "players": {
+    "min": 1,
+    "max": 100
+  }
+}
