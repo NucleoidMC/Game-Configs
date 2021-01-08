@@ -3,7 +3,7 @@
   "name": "\"Void\" Party",
   "map": {
     "surface_builder": {
-      "type": default,
+      "type": "minecraft:default",
       "config": {
         "top_material":{
           "Name": "minecraft:barrier"
