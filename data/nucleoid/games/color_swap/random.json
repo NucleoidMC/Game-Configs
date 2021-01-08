@@ -1,0 +1,8 @@
+{
+  "type": "plasmid:random",
+  "name": "Color Swap",
+  "games": [
+    "colorswap:standard_color_swap",
+	"colorswap:knockback_color_swap"
+  ]
+}

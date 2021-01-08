@@ -1,4 +1,4 @@
 {
   "type": "plasmid:on_demand",
-  "game": "colorswap:standard_color_swap"
+  "game": "nucleoid:color_swap/random"
 }

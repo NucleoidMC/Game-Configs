@@ -1,11 +1,11 @@
 {
 	"type": "ascension:ascension",
-	"name": "Cave Ascension",
+	"name": "Long Ascension",
 	"map": {
-		"x": 500,
-		"z": 500,
-		"layers": 100,
-		"layer_spacing": 1
+		"x": 16,
+		"z": 16,
+		"layers": 150,
+		"layer_spacing": 8
 	},
 	"players": {
 		"min": 1,

@@ -1,0 +1,8 @@
+{
+  "type": "plasmid:random",
+  "name": "Cursed Territory Battle",
+  "games": [
+    "nucleoid:cursed/territory_battle/climb",
+    "nucleoid:cursed/territory_battle/coral"
+  ]
+}

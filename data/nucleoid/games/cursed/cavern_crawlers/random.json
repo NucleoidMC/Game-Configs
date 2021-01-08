@@ -1,0 +1,7 @@
+{
+  "type": "plasmid:random",
+  "name": "Cursed Cavern Crawler",
+  "games": [
+    "nucleoid:cursed/cavern_crawler/geode"
+  ]
+}

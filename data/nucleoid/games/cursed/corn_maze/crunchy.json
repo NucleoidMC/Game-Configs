@@ -4,7 +4,8 @@
 	"map": {
 		"x": 32,
 		"z": 32,
-		"scale": 1,
+		"x_scale": 1,
+		"z_scale": 1,
 		"height": 2
 	},
 	"players": {
