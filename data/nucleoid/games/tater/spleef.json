@@ -1,10 +1,10 @@
 {
   "type": "plasmid:random",
-  "name": "Tater Games",
+  "name": "Tater Spleef",
   "games": [
-    "koth:deathmatch_secret",
     "nucleoid:spleef/tater",
     "nucleoid:spleef/mega_tater",
-    "nucleoid:spleef/tntater"
+    "nucleoid:spleef/tntater",
+    "nucleoid:spleef/explosive/tater",
   ]
 }

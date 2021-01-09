@@ -1,0 +1,9 @@
+{
+  "type": "plasmid:random",
+  "name": "Tater Games",
+  "games": [
+    "koth:deathmatch_secret",
+    "irritaterrun:standard_irritater_run",
+    "nucleoid:tater/spleef"
+  ]
+}
