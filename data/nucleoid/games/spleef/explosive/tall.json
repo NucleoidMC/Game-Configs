@@ -1,0 +1,26 @@
+{
+    "type": "spleef:spleef",
+    "name": "Tall Explosive Spleef",
+    "map": {
+      "shape": {
+        "type": "spleef:circle",
+        "radius": 16
+      },
+      "levels": 6,
+      "level_height": 5,
+      "wall_provider": {
+        "type": "minecraft:simple_state_provider",
+        "state": {
+            "Name": "minecraft:obsidian"
+            }
+        }
+    },
+    "players": {
+      "min": 1,
+      "max": 100,
+      "threshold": 2
+    },
+    "projectile": {"restock_interval":1,"stack":{"id":"minecraft:tnt","Count":1, "tag":{"CanPlaceOn":["minecraft:obsidian","minecraft:snow_block", "minecraft:tnt"]}}},
+    "tool": {"id": "minecraft:flint_and_steel", "Count": 1, "tag":{"CanPlaceOn":["minecraft:tnt"]}},
+    "unstable_tnt": true
+  }
