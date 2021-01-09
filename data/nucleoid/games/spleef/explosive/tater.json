@@ -34,5 +34,6 @@
         "threshold": 2
     },
     "projectile": {"restock_interval":1,"stack":{"id":"minecraft:tnt","Count":1, "tag":{"CanPlaceOn":["minecraft:obsidian","minecraft:snow_block", "minecraft:tnt"]}}},
-    "tool": {"id": "minecraft:flint_and_steel", "Count": 1, "tag":{"CanPlaceOn":["minecraft:tnt"]}}
+    "tool": {"id": "minecraft:flint_and_steel", "Count": 1, "tag":{"CanPlaceOn":["minecraft:tnt"]}},
+    "unstable_tnt": true
 }
