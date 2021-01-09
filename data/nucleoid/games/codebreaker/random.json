@@ -1,0 +1,8 @@
+{
+  "type": "plasmid:random",
+  "name": "Codebreaker",
+  "games": [
+    "codebreaker:large_codebreaker",
+    "codebreaker:standard_codebreaker"
+  ]
+}
