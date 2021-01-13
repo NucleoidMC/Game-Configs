@@ -1,0 +1,9 @@
+{
+	"type": "plasmid:random",
+	"name": "King of the Hill",
+	"games": [
+	  "koth:ice",
+	  "koth:ice_knockoff"
+	]
+  }
+  

@@ -3,6 +3,7 @@
   "name": "King of the Hill",
   "games": [
     "koth:stack",
-    "koth:stack_bow"
+	"koth:stack_bow",
+	"koth:stack_leap"
   ]
 }
