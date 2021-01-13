@@ -1,0 +1,8 @@
+{
+	"type": "plasmid:random",
+	"name": "Sky Wars",
+	"games": [
+	  "skywars:shroomlight"
+	]
+  }
+  
