@@ -1,6 +1,6 @@
 {
   "type": "plasmid:random",
-  "name": "King of the Hill",
+  "name": "KotH: Stack",
   "games": [
     "koth:stack",
 	"koth:stack_bow",
