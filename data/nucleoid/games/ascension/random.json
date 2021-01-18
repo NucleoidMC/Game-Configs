@@ -3,7 +3,7 @@
   "name": "Ascension",
   "games": [
     "ascension:standard_ascension",
-    "nucleoid:shardthief/thin",
-    "nucleoid:shardthief/cave"
+    "nucleoid:ascension/thin",
+    "nucleoid:ascension/cave"
   ]
 }

@@ -3,7 +3,8 @@
   "name": "QuakeCraft",
   "games": [
     "quakecraft:2fort",
-    "quakecraft:duel_monastery",
+    "quakecraft:2fort_invasion",
+    "quakecraft:dungeon",
     "quakecraft:monastery"
   ]
 }

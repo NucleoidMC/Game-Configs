@@ -6,6 +6,12 @@
       "type": "spleef:circle",
       "radius": 128
     },
+    "ceiling_provider": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "minecraft:air"
+      }
+    },
     "levels": 4,
     "level_height": 4
   },

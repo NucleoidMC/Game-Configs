@@ -1,0 +1,10 @@
+{
+  "type": "plasmid:random",
+  "name": "Tater Spleef",
+  "games": [
+    "nucleoid:spleef/tater",
+    "nucleoid:spleef/mega_tater",
+    "nucleoid:spleef/tntater",
+    "nucleoid:spleef/explosive/legacy_tater"
+  ]
+}
