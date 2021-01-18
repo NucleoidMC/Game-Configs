@@ -3,8 +3,7 @@
   "name": "Tater Games",
   "games": [
     "koth:deathmatch_secret",
-    "nucleoid:spleef/tater",
-    "nucleoid:spleef/mega_tater",
-    "nucleoid:spleef/tntater"
+    "irritaterrun:standard_irritater_run",
+    "nucleoid:tater/spleef"
   ]
 }

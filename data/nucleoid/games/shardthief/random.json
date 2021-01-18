@@ -2,8 +2,16 @@
   "type": "plasmid:random",
   "name": "Shard Thief",
   "games": [
+    "nucleoid:shardthief/mud_shard_thief",
+    "shardthief:beacon_tower_shard_thief",
     "shardthief:block_fort_shard_thief",
+    "shardthief:boiling_bastion_shard_thief",
+    "shardthief:dense_forest_shard_thief",
+    "shardthief:hill_fort_shard_thief",
+    "shardthief:ice_fort_shard_thief",
     "shardthief:jungle_temple_shard_thief",
-    "shardthief:oasis_shard_thief"
+    "shardthief:modular_fortress_shard_thief",
+    "shardthief:oasis_shard_thief",
+    "shardthief:stronghold_library_shard_thief"
   ]
 }
