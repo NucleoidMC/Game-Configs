@@ -1,0 +1,9 @@
+{
+	"type": "plasmid:random",
+	"name": "Sky Wars (Duos)",
+	"games": [
+		"skywars:duos/shroomlight",
+		"skywars:duos/coral_reef",
+		"skywars:duos/solar_system"
+	]
+}
