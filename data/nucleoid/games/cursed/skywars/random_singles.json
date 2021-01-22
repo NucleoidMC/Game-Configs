@@ -1,0 +1,9 @@
+{
+  "type": "plasmid:random",
+  "name": "Cursed SkyWars (Singles)",
+  "games": [
+    "nucleoid:cursed/skywars/singles/die_shroomlight",
+    "nucleoid:cursed/skywars/singles/die_solar_system",
+    "nucleoid:cursed/skywars/singles/die_coral_reef",
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "type": "skywars:skywars",
+  "name": "DIEWars Solar System (Singles)",
+  "map": {
+    "id": "skywars:outer_space"
+  },
+  "dimension": "skywars:outer_space",
+  "refills": 1,
+  "refill_mins": 1,
+  "time_limit_mins": 1
+}

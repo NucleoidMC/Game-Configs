@@ -7,6 +7,8 @@
     "nucleoid:cursed/spleef/random",
     "nucleoid:cursed/corn_maze/random",
     "nucleoid:cursed/cavern_crawler/random",
-    "nucleoid:cursed/territory_battle/random"
+    "nucleoid:cursed/territory_battle/random",
+    "nucleoid:cursed/skywars/random_singles",
+    "nucleoid:cursed/skywars/random_duos",
   ]
 }
