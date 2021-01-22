@@ -3,8 +3,6 @@
   "name": "Duels",
   "games": [
     "duels:standard",
-	"duels:standard_quad",
-    "duels:standard_slippery",
-	"duels:standard_trio"
+    "duels:standard_slippery"
   ]
 }
