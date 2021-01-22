@@ -2,7 +2,9 @@
 	"type": "plasmid:random",
 	"name": "Sky Wars",
 	"games": [
-	  "skywars:shroomlight"
+	  "skywars:single/shroomlight",
+	  "skywars:single/coral_reef",
+	  "skywars:single/solar_system"
 	]
-  }
+}
   
