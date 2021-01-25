@@ -9,13 +9,14 @@
     "floor_provider": {
       "type": "minecraft:weighted_state_provider",
       "name": "minecraft:weighted_state_provider",
-      "entries": [{
+      "entries": [
+        {
           "weight": 1,
           "data": {
             "Name": "minecraft:white_wool"
           }
         },
-	{
+        {
           "weight": 1,
           "data": {
             "Name": "minecraft:magenta_wool"
@@ -39,12 +40,14 @@
     "threshold": 2
   },
   "tool": {
-   "id": "minecraft:shears", "Count": 1,
-   "tag": {
-     "Enchantments": [{
-       "id": "minecraft:efficiency",
-       "lvl": 100
-      }]
+    "id": "minecraft:shears", "Count": 1,
+    "tag": {
+      "Enchantments": [
+        {
+          "id": "minecraft:efficiency",
+          "lvl": 100
+        }
+      ]
     }
   }
 }

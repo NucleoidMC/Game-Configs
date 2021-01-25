@@ -9,7 +9,8 @@
     "floor_provider": {
       "type": "minecraft:weighted_state_provider",
       "name": "minecraft:weighted_state_provider",
-      "entries": [{
+      "entries": [
+        {
           "weight": 1,
           "data": {
             "Name": "minecraft:honey_block"

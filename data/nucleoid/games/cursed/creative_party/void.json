@@ -5,17 +5,17 @@
     "surface_builder": {
       "type": "minecraft:default",
       "config": {
-        "top_material":{
+        "top_material": {
           "Name": "minecraft:barrier"
         },
-        "under_material":{
+        "under_material": {
           "Name": "minecraft:air"
         },
-        "underwater_material":{
+        "underwater_material": {
           "Name": "minecraft:air"
         }
       }
-	}
+    }
   },
   "players": {
     "min": 1,

@@ -9,13 +9,14 @@
     "floor_provider": {
       "type": "minecraft:weighted_state_provider",
       "name": "minecraft:weighted_state_provider",
-      "entries": [{
+      "entries": [
+        {
           "weight": 6,
           "data": {
             "Name": "minecraft:ice"
           }
         },
-		{
+        {
           "weight": 4,
           "data": {
             "Name": "minecraft:packed_ice"
@@ -27,7 +28,7 @@
             "Name": "minecraft:blue_ice"
           }
         },
-		{
+        {
           "weight": 1,
           "data": {
             "Name": "minecraft:snow_block"
@@ -44,12 +45,14 @@
     "threshold": 2
   },
   "tool": {
-   "id": "minecraft:diamond_pickaxe", "Count": 1,
-   "tag": {
-     "Enchantments": [{
-       "id": "minecraft:efficiency",
-       "lvl": 100
-      }]
+    "id": "minecraft:diamond_pickaxe", "Count": 1,
+    "tag": {
+      "Enchantments": [
+        {
+          "id": "minecraft:efficiency",
+          "lvl": 100
+        }
+      ]
     }
   }
 }

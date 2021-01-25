@@ -2,7 +2,7 @@
   "type": "bedwars:bed_wars",
   "name": "BedWars: Sky Islands - 4 Teams",
   "map": {
-	"theme": {
+    "theme": {
       "type": "bedwars:default"
     },
     "diamond_generator": {
@@ -44,7 +44,7 @@
     "small_island_cutoff": 25
   },
   "keep_inventory": true,
-  "players": { "min": 1, "max": 100, "threshold": 4 },
+  "players": {"min": 1, "max": 100, "threshold": 4},
   "combat": {
     "old_mechanics": false
   },

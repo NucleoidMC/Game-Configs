@@ -1,16 +1,16 @@
 {
-	"type": "cornmaze:corn_maze",
-	"name": "Crunchy Corn Maze",
-	"map": {
-		"x": 32,
-		"z": 32,
-		"x_scale": 1,
-		"z_scale": 1,
-		"height": 2
-	},
-	"players": {
-		"min": 1,
-		"max": 64,
-		"threshold": 4
-	}
+  "type": "cornmaze:corn_maze",
+  "name": "Crunchy Corn Maze",
+  "map": {
+    "x": 32,
+    "z": 32,
+    "x_scale": 1,
+    "z_scale": 1,
+    "height": 2
+  },
+  "players": {
+    "min": 1,
+    "max": 64,
+    "threshold": 4
+  }
 }

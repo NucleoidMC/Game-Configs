@@ -15,8 +15,8 @@
     "levels": 4,
     "level_height": 5
   },
-  "projectile": {"restock_interval":1,"stack":{"id":"arrow","Count":1},"radius":2},
-  "tool": {"id": "minecraft:bow", "Count": 1, "tag":{"Enchantments":[{"id":"minecraft:infinity","lvl":1}]}},
+  "projectile": {"restock_interval": 1, "stack": {"id": "arrow", "Count": 1}, "radius": 2},
+  "tool": {"id": "minecraft:bow", "Count": 1, "tag": {"Enchantments": [{"id": "minecraft:infinity", "lvl": 1}]}},
   "players": {
     "min": 1,
     "max": 100,

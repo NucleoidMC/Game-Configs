@@ -3,13 +3,13 @@
   "name": "King of the Hill",
   "games": [
     "koth:skyland",
-	"nucleoid:koth/ice",
+    "nucleoid:koth/ice",
     "nucleoid:koth/deathmatch",
-	"nucleoid:koth/stack",
-	"koth:buttons",
-	"koth:diamond",
-	"koth:end_city",
-	"koth:island",
-	"koth:monolith"
+    "nucleoid:koth/stack",
+    "koth:buttons",
+    "koth:diamond",
+    "koth:end_city",
+    "koth:island",
+    "koth:monolith"
   ]
 }

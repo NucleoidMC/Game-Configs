@@ -1,8 +1,10 @@
 {
-	"type": "vacuole:vacuole",
-	"name": "Vacuole Beta",
-	"map": "vacuole:cloud",
-	"treasures": [{
-		"type": "vacuole:empty"
-	}]
+  "type": "vacuole:vacuole",
+  "name": "Vacuole Beta",
+  "map": "vacuole:cloud",
+  "treasures": [
+    {
+      "type": "vacuole:empty"
+    }
+  ]
 }

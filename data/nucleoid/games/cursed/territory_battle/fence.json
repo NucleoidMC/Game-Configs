@@ -1,14 +1,14 @@
 {
-	"type": "territorybattle:territory_battle",
-	"name": "Fence Battle",
-	"map": {
-		"x": 24,
-		"z": 24
-	},
-	"players": {
-		"min": 1,
-		"max": 32,
-		"threshold": 2
-	},
-	"playerBlocks": "minecraft:fences"
+  "type": "territorybattle:territory_battle",
+  "name": "Fence Battle",
+  "map": {
+    "x": 24,
+    "z": 24
+  },
+  "players": {
+    "min": 1,
+    "max": 32,
+    "threshold": 2
+  },
+  "playerBlocks": "minecraft:fences"
 }

@@ -1,9 +1,9 @@
 {
-	"type": "plasmid:random",
-	"name": "SkyWars (Duos)",
-	"games": [
-		"skywars:duos/shroomlight",
-		"skywars:duos/coral_reef",
-		"skywars:duos/solar_system"
-	]
+  "type": "plasmid:random",
+  "name": "SkyWars (Duos)",
+  "games": [
+    "skywars:duos/shroomlight",
+    "skywars:duos/coral_reef",
+    "skywars:duos/solar_system"
+  ]
 }

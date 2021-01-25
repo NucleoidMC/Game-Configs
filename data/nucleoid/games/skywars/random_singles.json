@@ -1,10 +1,10 @@
 {
-	"type": "plasmid:random",
-	"name": "SkyWars (Singles)",
-	"games": [
-	  "skywars:single/shroomlight",
-	  "skywars:single/coral_reef",
-	  "skywars:single/solar_system"
-	]
+  "type": "plasmid:random",
+  "name": "SkyWars (Singles)",
+  "games": [
+    "skywars:single/shroomlight",
+    "skywars:single/coral_reef",
+    "skywars:single/solar_system"
+  ]
 }
   
