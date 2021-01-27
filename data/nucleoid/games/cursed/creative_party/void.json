@@ -16,10 +16,10 @@
           "state": {
             "Name": "minecraft:barrier"
           },
-          "start_y": 64
+          "start_y": 60
         }
       ],
-      "max_y": 64
+      "max_y": 60
 	}
   },
   "players": {
