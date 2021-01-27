@@ -46,6 +46,6 @@
     "Count": 1,
     "tag": {"CanPlaceOn": ["minecraft:tnt"]}
   },
-  "level_break_interval": 200,
+  "level_break_interval": 400,
   "unstable_tnt": true
 }
