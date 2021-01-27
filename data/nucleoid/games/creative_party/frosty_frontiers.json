@@ -22,7 +22,7 @@
           "state": {
             "Name": "minecraft:dirt"
           },
-          "start_y": 57
+          "start_y": 60
         },
         {
           "state": {
@@ -31,7 +31,7 @@
               "snowy": "true"
             }
           },
-          "start_y": 60
+          "start_y": 63
         },
         {
           "state": {
@@ -40,10 +40,10 @@
               "layers": 1
             }
           },
-          "start_y": 61
+          "start_y": 64
         }
       ],
-      "max_y": 61
+      "max_y": 64
 	}
   },
   "players": {
