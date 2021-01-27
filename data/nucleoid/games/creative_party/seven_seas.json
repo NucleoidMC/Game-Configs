@@ -34,7 +34,7 @@
           "state": {
             "Name": "minecraft:water",
             "Properties": {
-              "falling": "false"
+              "level": 01
             }
           },
           "start_y": 33

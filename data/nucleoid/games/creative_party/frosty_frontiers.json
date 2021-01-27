@@ -37,7 +37,7 @@
           "state": {
             "Name": "minecraft:snow",
             "Properties": {
-              "layers": 1
+              "layers": 01
             }
           },
           "start_y": 64
