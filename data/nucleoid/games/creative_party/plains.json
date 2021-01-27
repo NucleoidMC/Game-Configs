@@ -26,7 +26,10 @@
         },
         {
           "state": {
-            "Name": "minecraft:grass_block"
+            "Name": "minecraft:grass_block",
+            "Properties": {
+              "snowy": "false"
+            }
           },
           "start_y": 60
         },
