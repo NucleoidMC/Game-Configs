@@ -1,0 +1,30 @@
+{
+  "type": "creative_party:creative_party",
+  "name": "Creative Party: Redstone Ready!",
+  "map": {
+    "map_type": {
+      "type": "creative_party:layered",
+      "biome": "minecraft:the_void",
+      "layers": [
+        {
+          "state": {
+            "Name": "minecraft:bedrock"
+          },
+          "start_y": 0
+        },
+        {
+          "state": {
+            "Name": "minecraft:sandstone"
+          },
+          "start_y": 1
+        }
+      ],
+      "max_y": 55
+	}
+  },
+  "players": {
+    "min": 1,
+    "max": 100,
+    "threshold": 1
+  }
+}
