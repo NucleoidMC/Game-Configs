@@ -1,7 +1,8 @@
 {
   "type": "creative_party:creative_party",
-  "name": "\"Void\" Party",
+  "name": "Void Party",
   "map": {
+<<<<<<< Updated upstream
     "surface_builder": {
       "type": "minecraft:default",
       "config": {
@@ -16,9 +17,31 @@
         }
       }
     }
+=======
+    "map_type": {
+      "type": "creative_party:layered",
+      "biome": "minecraft:the_void",
+      "layers": [
+        {
+          "state": {
+            "Name": "minecraft:air"
+          },
+          "start_y": 0
+        },
+        {
+          "state": {
+            "Name": "minecraft:barrier"
+          },
+          "start_y": 64
+        }
+      ],
+      "max_y": 64
+	}
+>>>>>>> Stashed changes
   },
   "players": {
     "min": 1,
-    "max": 100
+    "max": 100,
+    "threshold": 1
   }
 }
