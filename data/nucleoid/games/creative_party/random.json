@@ -2,7 +2,8 @@
   "type": "plasmid:random",
   "name": "Creative Party",
   "games": [
-    "nucleoid:creative_party/plains",
+    "nucleoid:creative_party/the_plains",
+    "nucleoid:creative_party/the_tundra",
     "nucleoid:creative_party/redstone_ready",
     "nucleoid:creative_party/magic_powder"
   ]
