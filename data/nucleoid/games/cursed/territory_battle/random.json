@@ -2,7 +2,7 @@
   "type": "plasmid:random",
   "name": "Cursed Territory Battle",
   "games": [
-    "nucleoid:cursed/territory_battle/fence",
+    "nucleoid:cursed/territory_battle/slab",
     "nucleoid:cursed/territory_battle/coral"
   ]
 }

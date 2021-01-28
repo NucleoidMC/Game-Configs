@@ -1,6 +1,6 @@
 {
   "type": "territorybattle:territory_battle",
-  "name": "Fence Battle",
+  "name": "Slab Battle",
   "map": {
     "x": 24,
     "z": 24
@@ -10,5 +10,5 @@
     "max": 32,
     "threshold": 2
   },
-  "playerBlocks": "minecraft:fences"
+  "playerBlocks": "minecraft:slabs"
 }
