@@ -1,9 +1,11 @@
 {
   "type": "plasmid:random",
-  "name": "SkyWars (Duos)",
+  "translation": "game.nucleoid.skywars.duo",
   "games": [
     "skywars:duos/shroomlight",
     "skywars:duos/coral_reef",
-    "skywars:duos/solar_system"
+    "skywars:duos/solar_system",
+    "skywars:duos/hive",
+    "skywars:duos/woodland"
   ]
 }

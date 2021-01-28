@@ -1,6 +1,6 @@
 {
   "type": "plasmid:random",
-  "name": "QuakeCraft",
+  "translation": "game.nucleoid.quakecraft",
   "games": [
     "quakecraft:2fort",
     "quakecraft:2fort_invasion",

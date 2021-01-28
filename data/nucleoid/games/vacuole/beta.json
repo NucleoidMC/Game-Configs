@@ -1,6 +1,6 @@
 {
   "type": "vacuole:vacuole",
-  "name": "Vacuole Beta",
+  "translation": "game.nucleoid.vacuole.beta",
   "map": "vacuole:cloud",
   "treasures": [
     {

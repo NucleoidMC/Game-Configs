@@ -1,6 +1,6 @@
 {
   "type": "plasmid:random",
-  "name": "Party Games",
+  "translation": "game.nucleoid.party",
   "games": [
     "nucleoid:spleef/random",
     "nucleoid:koth/random",

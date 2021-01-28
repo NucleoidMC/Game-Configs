@@ -1,6 +1,6 @@
 {
   "type": "plasmid:random",
-  "name": "Tater Games",
+  "translation": "game.nucleoid.tater",
   "games": [
     "koth:deathmatch_secret",
     "irritaterrun:standard_irritater_run",

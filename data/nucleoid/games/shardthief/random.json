@@ -1,6 +1,6 @@
 {
   "type": "plasmid:random",
-  "name": "Shard Thief",
+  "translation": "game.nucleoid.shardthief",
   "games": [
     "nucleoid:shardthief/mud_shard_thief",
     "shardthief:beacon_tower_shard_thief",

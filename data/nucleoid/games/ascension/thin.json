@@ -2,9 +2,9 @@
   "type": "ascension:ascension",
   "translation": "game.nucleoid.ascension.thin",
   "map": {
-    "x": 18,
-    "z": 18,
-    "layers": 18,
+    "x": 15,
+    "z": 15,
+    "layers": 80,
     "layer_spacing": 8
   },
   "players": {

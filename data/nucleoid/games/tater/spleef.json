@@ -1,6 +1,6 @@
 {
   "type": "plasmid:random",
-  "name": "Tater Spleef",
+  "translation": "game.nucleoid.tater.spleef",
   "games": [
     "nucleoid:spleef/tater",
     "nucleoid:spleef/mega_tater",

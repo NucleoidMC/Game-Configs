@@ -1,7 +1,7 @@
 {
   "game.nucleoid.ascension": "Ascension",
   "game.nucleoid.ascension.cave": "Cave Ascension",
-  "game.nucleoid.ascension.thin": "Half Ascension",
+  "game.nucleoid.ascension.thin": "Thin Ascension",
 
   "game.nucleoid.beacon_breakers": "Beacon Breakers",
 
@@ -36,6 +36,21 @@
   "game.nucleoid.koth.ice": "KotH: Ice",
   "game.nucleoid.koth.stack": "KotH: Stack",
 
-  "game.nucleoid.loopdeloop": "Loop-de-Loop"
-
+  "game.nucleoid.loopdeloop": "Loop-de-Loop",
+  
+  "game.nucleoid.microbattle": "Micro Battle",
+  
+  "game.nucleoid.party": "Party Games",
+  
+  "game.nucleoid.quakecraft": "Quakecraft",
+  
+  "game.nucleoid.shardthief": "Shard Thief",
+  
+  "game.nucleoid.skywars.singles": "Skywars (Singles)",
+  "game.nucleoid.skywars.duos": "Skywars (Duos)",
+  
+  "game.nucleoid.tater": "Tater Games",
+  "game.nucleoid.tater.spleef": "Tater Spleef",
+  
+  "game.nucleoid.vacuole.beta": "Vacuole Beta"
 }

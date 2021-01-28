@@ -1,6 +1,6 @@
 {
   "type": "plasmid:random",
-  "name": "Micro Battle",
+  "translation": "game.nucleoid.microbattle",
   "games": [
     "microbattle:soul_micro_battle",
     "microbattle:standard_micro_battle"
