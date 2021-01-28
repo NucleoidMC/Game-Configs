@@ -1,6 +1,6 @@
 {
   "type": "bedwars:bed_wars",
-  "name": "BedWars: Sky Islands (Swamp)",
+  "translation": "game.nucleoid.bedwars.sky.swamp",
   "map": {
     "theme": {
       "type": "bedwars:swamp"
@@ -57,5 +57,8 @@
     {"key": "green", "display": "Green", "color": "green"},
     {"key": "blue", "display": "Blue", "color": "blue"},
     {"key": "red", "display": "Red", "color": "red"}
-  ]
+  ],
+  "custom": {
+    "gamegui:icon": "minecraft:oak_sapling"
+  }
 }

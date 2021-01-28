@@ -1,6 +1,6 @@
 {
   "type": "creative_party:creative_party",
-  "name": "Creative Party: Seven Seas!",
+  "translation": "game.nucleoid.creative_party.seven_seas",
   "map": {
     "map_type": {
       "type": "creative_party:layered",
@@ -47,5 +47,8 @@
     "min": 1,
     "max": 100,
     "threshold": 1
+  },
+  "custom": {
+    "gamegui:icon": "minecraft:water_bucket"
   }
 }

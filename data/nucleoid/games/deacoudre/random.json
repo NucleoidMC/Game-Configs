@@ -1,9 +1,12 @@
 {
   "type": "plasmid:random",
-  "name": "Dé à Coudre",
+  "translation": "game.nucleoid.deacoudre",
   "games": [
     "deacoudre:circle_deacoudre",
     "deacoudre:donut_deacoudre",
     "deacoudre:square_deacoudre"
-  ]
+  ],
+  "custom": {
+    "gamegui:icon": "minecraft:water_bucket"
+  }
 }

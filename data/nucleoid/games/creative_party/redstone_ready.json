@@ -1,6 +1,6 @@
 {
   "type": "creative_party:creative_party",
-  "name": "Creative Party: Redstone Ready!",
+  "translation": "game.nucleoid.creative_party.redstone_ready",
   "map": {
     "map_type": {
       "type": "creative_party:layered",
@@ -26,5 +26,8 @@
     "min": 1,
     "max": 100,
     "threshold": 1
+  },
+  "custom": {
+    "gamegui:icon": "minecraft:redstone_block"
   }
 }

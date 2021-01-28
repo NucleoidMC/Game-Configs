@@ -1,8 +1,11 @@
 {
   "type": "plasmid:random",
-  "name": "Codebreaker",
+  "translation": "game.nucleoid.codebreaker",
   "games": [
     "codebreaker:large_codebreaker",
     "codebreaker:standard_codebreaker"
-  ]
+  ],
+  "custom": {
+    "gamegui:icon": "minecraft:command_block"
+  }
 }

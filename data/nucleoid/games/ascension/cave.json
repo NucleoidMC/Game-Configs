@@ -1,6 +1,6 @@
 {
   "type": "ascension:ascension",
-  "name": "Cave Ascension",
+  "translation": "game.nucleoid.ascension.cave",
   "map": {
     "x": 500,
     "z": 500,
@@ -11,5 +11,8 @@
     "min": 1,
     "max": 32,
     "threshold": 2
+  },
+  "custom": {
+    "gamegui:icon": "minecraft:gray_wool"
   }
 }

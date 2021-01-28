@@ -1,6 +1,6 @@
 {
   "type": "ascension:ascension",
-  "name": "Half Ascension",
+  "translation": "game.nucleoid.ascension.thin",
   "map": {
     "x": 18,
     "z": 18,
@@ -11,5 +11,8 @@
     "min": 1,
     "max": 32,
     "threshold": 2
+  },
+  "custom": {
+    "gamegui:icon": "minecraft:yellow_wool"
   }
 }

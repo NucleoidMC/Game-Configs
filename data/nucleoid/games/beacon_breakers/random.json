@@ -1,9 +1,12 @@
 {
   "type": "plasmid:random",
-  "name": "Beacon Breakers",
+  "translation": "game.nucleoid.beacon_breakers",
   "games": [
     "beaconbreakers:standard_beacon_breakers",
     "beaconbreakers:standard_beacon_breakers_tiny",
     "beaconbreakers:standard_beacon_breakers_keep_inventory"
-  ]
+  ],
+  "custom": {
+    "gamegui:icon": "minecraft:beacon"
+  }
 }

@@ -1,7 +1,10 @@
 {
   "type": "plasmid:random",
-  "name": "Destroy The Monument",
+  "translation": "game.nucleoid.destroy_the_monument",
   "games": [
     "destroythemonument:cubes"
-  ]
+  ],
+  "custom": {
+    "gamegui:icon": "minecraft:beacon"
+  }
 }

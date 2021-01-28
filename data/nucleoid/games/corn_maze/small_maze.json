@@ -1,6 +1,6 @@
 {
   "type": "cornmaze:corn_maze",
-  "name": "Small Corn Maze",
+  "translation": "game.nucleoid.corn_maze.small",
   "map": {
     "x": 16,
     "z": 16,
@@ -12,5 +12,8 @@
     "min": 1,
     "max": 64,
     "threshold": 4
+  },
+  "custom": {
+    "gamegui:icon": "minecraft:hay_bale"
   }
 }

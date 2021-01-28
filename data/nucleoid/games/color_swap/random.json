@@ -1,8 +1,11 @@
 {
   "type": "plasmid:random",
-  "name": "Color Swap",
+  "translation": "game.nucleoid.color_swap",
   "games": [
     "colorswap:standard_color_swap",
     "colorswap:knockback_color_swap"
-  ]
+  ],
+  "custom": {
+    "gamegui:icon": "minecraft:orange_wool"
+  }
 }

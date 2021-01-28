@@ -1,6 +1,6 @@
 {
   "type": "plasmid:random",
-  "name": "BedWars: 4 Teams",
+  "translation": "game.nucleoid.bedwars.4",
   "games": [
     "nucleoid:bedwars/four_teams_sky_islands",
     "bedwars:hellish_nightmare",
@@ -9,5 +9,8 @@
     "nucleoid:bedwars/aspen_forest_procgen",
     "nucleoid:bedwars/taiga_forest_procgen",
     "nucleoid:bedwars/swamp_procgen"
-  ]
+  ],
+  "custom": {
+    "gamegui:icon": "minecraft:red_bed"
+  }
 }

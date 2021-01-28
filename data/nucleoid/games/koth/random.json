@@ -1,6 +1,6 @@
 {
   "type": "plasmid:random",
-  "name": "King of the Hill",
+  "translation": "game.nucleoid.koth",
   "games": [
     "koth:skyland",
     "nucleoid:koth/ice",
@@ -11,5 +11,17 @@
     "koth:end_city",
     "koth:island",
     "koth:monolith"
-  ]
+  ],
+  "custom": {
+    "gamegui:icon": {
+      "id": "minecraft:stick",
+      "Count": 1,
+      "Enchantments": [
+        {
+          "id": "minecraft:knockback",
+          "lvl": 1
+        }
+      ]
+    }
+  }
 }

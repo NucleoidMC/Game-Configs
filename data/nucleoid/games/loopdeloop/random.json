@@ -1,7 +1,10 @@
 {
   "type": "plasmid:random",
-  "name": "Loop de Loop",
+  "translation": "game.nucleoid.loopdeloop",
   "games": [
     "loopdeloop:standard"
-  ]
+  ],
+  "custom": {
+    "gamegui:icon": "minecraft:elytra"
+  }
 }

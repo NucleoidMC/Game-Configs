@@ -1,6 +1,6 @@
 {
   "type": "plasmid:random",
-  "name": "BedWars",
+  "translation": "game.nucleoid.bedwars",
   "games": [
     "nucleoid:bedwars/two_teams",
     "bedwars:standard_procgen",
@@ -13,5 +13,8 @@
     "nucleoid:bedwars/aspen_forest_procgen",
     "nucleoid:bedwars/taiga_forest_procgen",
     "nucleoid:bedwars/swamp_procgen"
-  ]
+  ],
+  "custom": {
+    "gamegui:icon": "minecraft:red_bed"
+  }
 }

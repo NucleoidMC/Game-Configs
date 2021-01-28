@@ -1,9 +1,21 @@
 {
   "type": "plasmid:random",
-  "name": "KotH: Stack",
+  "translation": "game.nucleoid.koth.stack",
   "games": [
     "koth:stack",
     "koth:stack_bow",
     "koth:stack_leap"
-  ]
+  ],
+  "custom": {
+    "gamegui:icon": {
+      "id": "minecraft:stick",
+      "Count": 1,
+      "Enchantments": [
+        {
+          "id": "minecraft:knockback",
+          "lvl": 1
+        }
+      ]
+    }
+  }
 }

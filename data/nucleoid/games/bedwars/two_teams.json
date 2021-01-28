@@ -1,8 +1,11 @@
 {
   "type": "plasmid:random",
-  "name": "BedWars: 2 Teams",
+  "translation": "game.nucleoid.bedwars.2",
   "games": [
     "nucleoid:bedwars/two_teams_sky_islands",
     "bedwars:end"
-  ]
+  ],
+  "custom": {
+    "gamegui:icon": "minecraft:red_bed"
+  }
 }
