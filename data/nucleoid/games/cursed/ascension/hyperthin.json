@@ -1,6 +1,6 @@
 {
   "type": "ascension:ascension",
-  "name": "Hyperthin Ascension",
+  "translation": "game.nucleoid.cursed.ascension.hyperthin",
   "map": {
     "x": 5,
     "z": 5,

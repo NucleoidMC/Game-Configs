@@ -1,6 +1,6 @@
 {
   "type": "colorswap:color_swap",
-  "name": "Quick Swap",
+  "translation": "game.nucleoid.cursed.color_swap.quick",
   "map": {
     "x": 4,
     "z": 4,

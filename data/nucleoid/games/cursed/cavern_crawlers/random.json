@@ -1,6 +1,6 @@
 {
   "type": "plasmid:random",
-  "name": "Cursed Cavern Crawler",
+  "translation": "game.nucleoid.cursed.caverncrawler",
   "games": [
     "nucleoid:cursed/cavern_crawler/geode"
   ]

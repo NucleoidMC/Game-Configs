@@ -1,6 +1,6 @@
 {
   "type": "spleef:spleef",
-  "name": "Cursed Donut Spleef",
+  "translation": "game.nucleoid.cursed.spleef.donut",
   "map": {
     "shape": {
       "type": "spleef:circle",

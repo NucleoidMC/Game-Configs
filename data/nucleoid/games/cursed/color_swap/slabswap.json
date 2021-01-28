@@ -1,6 +1,6 @@
 {
   "type": "colorswap:color_swap",
-  "name": "Slab Swap",
+  "translation": "game.nucleoid.cursed.color_swap.slab",
   "map": {
     "x": 8,
     "z": 8,

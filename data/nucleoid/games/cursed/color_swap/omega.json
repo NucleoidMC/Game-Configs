@@ -1,6 +1,6 @@
 {
   "type": "colorswap:color_swap",
-  "name": "Omega Swap",
+  "translation": "game.nucleoid.cursed.color_swap.omega",
   "map": {
     "x": 16,
     "z": 16,

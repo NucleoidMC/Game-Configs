@@ -1,10 +1,11 @@
 {
   "type": "skywars:skywars",
-  "name": "DIEWars Coral Reef (Singles)",
+  "translation": "game.nucleoid.cursed.skywars.singles.die_coral_reef",
   "map": {
     "id": "skywars:coral_reef"
   },
   "refills": 1,
   "refill_mins": 1,
-  "time_limit_mins": 1
+  "time_limit_mins": 1,
+  "kits": true
 }

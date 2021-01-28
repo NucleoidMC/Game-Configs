@@ -1,6 +1,6 @@
 {
   "type": "cornmaze:corn_maze",
-  "name": "Omega Corn Maze",
+  "translation": "game.nucleoid.cursed.corn_maze.omega",
   "map": {
     "x": 12,
     "z": 12,

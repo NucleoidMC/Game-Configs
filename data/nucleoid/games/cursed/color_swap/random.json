@@ -1,6 +1,6 @@
 {
   "type": "plasmid:random",
-  "name": "Cursed Color Swap",
+  "translation": "game.nucleoid.cursed.color_swap",
   "games": [
     "nucleoid:cursed/color_swap/slabswap",
     "nucleoid:cursed/color_swap/slabswap_small",

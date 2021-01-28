@@ -1,6 +1,6 @@
 {
   "type": "territorybattle:territory_battle",
-  "name": "Slab Battle",
+  "translation": "game.nucleoid.cursed.territory_battle.slab",
   "map": {
     "x": 24,
     "z": 24

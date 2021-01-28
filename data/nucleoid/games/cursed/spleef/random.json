@@ -1,6 +1,6 @@
 {
   "type": "plasmid:random",
-  "name": "Cursed Spleef",
+  "translation": "game.nucleoid.cursed.spleef",
   "games": [
     "nucleoid:cursed/spleef/cursed_donut",
     "nucleoid:cursed/spleef/omega",

@@ -1,10 +1,9 @@
 {
   "type": "skywars:skywars",
-  "translation": "game.nucleoid.cursed.skywars.duos.die_outer_space",
+  "translation": "game.nucleoid.cursed.skywars.duos.die_hive",
   "map": {
-    "id": "skywars:outer_space"
+    "id": "skywars:hive"
   },
-  "dimension": "skywars:outer_space",
   "refills": 1,
   "refill_mins": 1,
   "time_limit_mins": 1,

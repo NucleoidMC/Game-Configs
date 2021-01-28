@@ -1,8 +1,8 @@
 {
   "type": "skywars:skywars",
-  "translation": "game.nucleoid.cursed.skywars.singles.die_shroomlight",
+  "translation": "game.nucleoid.cursed.skywars.singles.die_woodland",
   "map": {
-    "id": "skywars:shroomlight"
+    "id": "skywars:woodland"
   },
   "refills": 1,
   "refill_mins": 1,
