@@ -4,6 +4,7 @@
   "games": [
     "koth:deathmatch_secret",
     "irritaterrun:standard_irritater_run",
-    "nucleoid:tater/spleef"
+    "nucleoid:tater/spleef",
+    "skywars:single/tinytater"
   ]
 }
