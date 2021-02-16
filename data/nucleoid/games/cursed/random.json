@@ -1,6 +1,6 @@
 {
   "type": "plasmid:random",
-  "name": "Cursed Games",
+  "translation": "Cursed Games",
   "games": [
     "nucleoid:cursed/ascension/random",
     "nucleoid:cursed/color_swap/random",

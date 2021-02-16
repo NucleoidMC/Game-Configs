@@ -1,0 +1,18 @@
+{
+  "type": "spleef:spleef",
+  "translation": "game.nucleoid.cursed.spleef.donut",
+  "map": {
+    "shape": {
+      "type": "spleef:circle",
+      "radius": 10,
+      "inner_radius": 7
+    },
+    "levels": 7,
+    "level_height": 7
+  },
+  "players": {
+    "min": 1,
+    "max": 100,
+    "threshold": 2
+  }
+}
