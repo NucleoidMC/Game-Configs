@@ -1,8 +1,0 @@
-{
-  "type": "plasmid:random",
-  "translation": "game.nucleoid.cursed.corn_maze",
-  "games": [
-    "nucleoid:cursed/corn_maze/omega",
-    "nucleoid:cursed/corn_maze/crunchy"
-  ]
-}

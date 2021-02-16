@@ -1,7 +1,0 @@
-{
-  "type": "plasmid:random",
-  "translation": "game.nucleoid.cursed.caverncrawler",
-  "games": [
-    "nucleoid:cursed/cavern_crawler/geode"
-  ]
-}
