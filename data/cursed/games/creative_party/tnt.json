@@ -8,12 +8,21 @@
       "layers": [
         {
           "state": {
-            "Name": "minecraft:tnt"
+            "Name": "minecraft:air"
           },
           "start_y": 0
+        },
+        {
+          "state": {
+            "Name": "minecraft:tnt",
+            "Properties": {
+              "unstable": "false"
+            }
+          },
+          "start_y": 32
         }
       ],
-      "max_y": 32
+      "max_y": 64
 	}
   },
   "players": {

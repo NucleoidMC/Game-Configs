@@ -1,4 +1,4 @@
 {
   "type": "plasmid:on_demand",
-  "game": "cakewars:laboratory_cake_wars"
+  "game": "nucleoid:cake_wars/random"
 }
