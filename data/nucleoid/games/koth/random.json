@@ -6,8 +6,6 @@
     "nucleoid:koth/ice",
     "nucleoid:koth/deathmatch",
     "nucleoid:koth/stack",
-    "koth:buttons",
-    "koth:diamond",
     "koth:end_city",
     "koth:island",
     "koth:monolith"
