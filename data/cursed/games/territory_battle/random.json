@@ -1,6 +1,6 @@
 {
   "type": "plasmid:random",
-  "translation": "game.nucleoid.cursed.territory_battle",
+  "translation": "game.cursed.territory_battle",
   "games": [
     "cursed:territory_battle/slab",
     "cursed:territory_battle/coral"

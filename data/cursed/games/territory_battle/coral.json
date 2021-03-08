@@ -1,6 +1,6 @@
 {
   "type": "territorybattle:territory_battle",
-  "translation": "game.nucleoid.cursed.territory_battle.coral",
+  "translation": "game.cursed.territory_battle.coral",
   "map": {
     "x": 36,
     "z": 36

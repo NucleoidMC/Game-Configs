@@ -1,6 +1,6 @@
 {
   "type": "spleef:spleef",
-  "translation": "game.nucleoid.cursed.spleef.trapdoor",
+  "translation": "game.cursed.spleef.trapdoor",
   "decay": 60,
   "map": {
     "check_block_for_level_delete": true,

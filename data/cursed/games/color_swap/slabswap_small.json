@@ -1,6 +1,6 @@
 {
   "type": "colorswap:color_swap",
-  "translation": "game.nucleoid.cursed.color_swap.small_slab",
+  "translation": "game.cursed.color_swap.small_slab",
   "map": {
     "x": 8,
     "z": 8,

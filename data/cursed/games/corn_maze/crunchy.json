@@ -1,6 +1,6 @@
 {
   "type": "cornmaze:corn_maze",
-  "translation": "game.nucleoid.cursed.corn_maze.crunchy",
+  "translation": "game.cursed.corn_maze.crunchy",
   "map": {
     "x": 32,
     "z": 32,

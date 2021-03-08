@@ -1,6 +1,6 @@
 {
   "type": "creative_party:creative_party",
-  "translation": "game.nucleoid.cursed.creative_party.tnt",
+  "translation": "game.cursed.creative_party.tnt",
   "map": {
     "map_type": {
       "type": "creative_party:layered",

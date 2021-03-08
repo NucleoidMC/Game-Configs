@@ -1,6 +1,6 @@
 {
   "type": "spleef:spleef",
-  "translation": "game.nucleoid.cursed.spleef.omega",
+  "translation": "game.cursed.spleef.omega",
   "map": {
     "shape": {
       "type": "spleef:circle",

@@ -1,6 +1,6 @@
 {
   "type": "colorswap:color_swap",
-  "translation": "game.nucleoid.cursed.color_swap.stair",
+  "translation": "game.cursed.color_swap.stair",
   "map": {
     "x": 8,
     "z": 8,

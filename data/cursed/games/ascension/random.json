@@ -1,6 +1,6 @@
 {
   "type": "plasmid:random",
-  "translation": "game.nucleoid.cursed.ascension",
+  "translation": "game.cursed.ascension",
   "games": [
     "cursed:ascension/hyperthin"
   ]

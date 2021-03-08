@@ -1,6 +1,6 @@
 {
   "type": "caverncrawler:caverncrawler",
-  "translation": "game.nucleoid.cursed.caverncrawler.geode",
+  "translation": "game.cursed.caverncrawler.geode",
   "ores": [
     {
       "name": "minecraft:coal_ore",
