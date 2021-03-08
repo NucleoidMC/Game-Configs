@@ -6,7 +6,7 @@
     "z": 30,
     "x_scale": 18,
     "z_scale": 18,
-    "decay": 0.33
+    "decay": 0.8
   },
   "players": {
     "min": 1,
