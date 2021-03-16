@@ -2,17 +2,8 @@
   "type": "plasmid:random",
   "translation": "game.nucleoid.bedwars",
   "games": [
-    "nucleoid:bedwars/two_teams",
-    "bedwars:standard_procgen",
-    "bedwars:desert_procgen",
-    "bedwars:end",
-    "bedwars:roadway",
-    "bedwars:hellish_nightmare",
-    "bedwars:cubes",
-    "nucleoid:bedwars/forest_procgen",
-    "nucleoid:bedwars/aspen_forest_procgen",
-    "nucleoid:bedwars/taiga_forest_procgen",
-    "nucleoid:bedwars/swamp_procgen"
+    "nucleoid:bedwars/random_two_teams",
+    "nucleoid:bedwars/random_four_teams"
   ],
   "custom": {
     "gamegui:icon": "minecraft:red_bed"

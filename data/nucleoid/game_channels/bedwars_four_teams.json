@@ -1,4 +1,4 @@
 {
   "type": "plasmid:on_demand",
-  "game": "nucleoid:bedwars/four_teams"
+  "game": "nucleoid:bedwars/random_four_teams"
 }
