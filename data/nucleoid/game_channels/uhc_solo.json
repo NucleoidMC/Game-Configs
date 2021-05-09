@@ -1,4 +1,4 @@
 {
   "type": "plasmid:on_demand",
-  "game": "nucleoid:uhc/uhc/random_solo"
+  "game": "uhc:uhc/solo/random"
 }
