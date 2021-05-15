@@ -46,11 +46,37 @@
   
   "game.nucleoid.shardthief": "Shard Thief",
   
+  "game.nucleoid.spleef": "Spleef",
+  "game.nucleoid.spleef.amelia": "Spleef: Amelia",
+  "game.nucleoid.spleef.bleef": "Bleef",
+  "game.nucleoid.spleef.donut": "Donut Spleef",
+  "game.nucleoid.spleef.ender": "Ender Spleef",
+  "game.nucleoid.spleef.fast": "Quickspleef",
+  "game.nucleoid.spleef.frosty_frontiers": "Frosty Spleef",
+  "game.nucleoid.spleef.frostburn": "Frostburn Spleef",
+  "game.nucleoid.spleef.honey": "Honey Spleef",
+  "game.nucleoid.spleef.leaf": "Spleaf",
+  "game.nucleoid.spleef.mega_tater": "Mega Tater Spleef",
+  "game.nucleoid.spleef.slime": "Slimey Spleef",
+  "game.nucleoid.spleef.snowfall": "Snowfall Spleef",
+  "game.nucleoid.spleef.splegg": "Splegg",
+  "game.nucleoid.spleef.sticky_situation": "Spleef: Sticky Situation",
+  "game.nucleoid.spleef.tater": "Tater Spleef",
+  "game.nucleoid.spleef.tnt_run": "TNT Run",
+  "game.nucleoid.spleef.tntater": "TNTater",
+  "game.nucleoid.spleef.tower": "Tower Spleef",
+  
+  "game.nucleoid.spleef.explosive.alt_tater": "Explosive Tater Spleef (alt)",
+  "game.nucleoid.spleef.explosive.donut": "Explosive Donut Spleef",
+  "game.nucleoid.spleef.explosive.fast": "Explosive Quickspleef",
+  "game.nucleoid.spleef.explosive.tall": "Explosive Tall Spleef",
+  "game.nucleoid.spleef.explosive.tater": "Explosive Tater Spleef",
+  
   "game.nucleoid.skywars.singles": "Skywars (Singles)",
   "game.nucleoid.skywars.duos": "Skywars (Duos)",
   
   "game.nucleoid.tater": "Tater Games",
   "game.nucleoid.tater.spleef": "Tater Spleef",
   
-  "game.nucleoid.vacuole.beta": "Vacuole Beta"
+  "game.nucleoid.vacuole.beta": "Vacuole (Beta)"
 }

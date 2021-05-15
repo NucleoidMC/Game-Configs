@@ -1,6 +1,6 @@
 {
   "type": "spleef:spleef",
-  "name": "Legacy Tatersplosion Spleef",
+  "translation": "game.nucleoid.spleef.explosive.alt_tater",
   "map": {
     "shape": {
       "type": "spleef:pattern",

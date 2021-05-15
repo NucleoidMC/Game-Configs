@@ -1,6 +1,6 @@
 {
   "type": "spleef:spleef",
-  "name": "Frosty Spleef",
+  "translation": "game.nucleoid.spleef.frosty_frontiers",
   "map": {
     "shape": {
       "type": "spleef:circle",

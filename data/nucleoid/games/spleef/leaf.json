@@ -1,6 +1,6 @@
 {
   "type": "spleef:spleef",
-  "name": "Leafy Spleef",
+  "translation": "game.nucleoid.spleef.leaf",
   "decay": 60,
   "map": {
     "shape": {

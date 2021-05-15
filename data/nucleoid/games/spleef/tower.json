@@ -1,6 +1,6 @@
 {
   "type": "spleef:spleef",
-  "name": "Tall Spleef",
+  "translation": "game.nucleoid.spleef.tower",
   "map": {
     "shape": {
       "type": "spleef:circle",

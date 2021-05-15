@@ -1,6 +1,6 @@
 {
   "type": "spleef:spleef",
-  "name": "Mega Tater Spleef",
+  "translation": "game.nucleoid.spleef.mega_tater",
   "map": {
     "shape": {
       "type": "spleef:pattern",

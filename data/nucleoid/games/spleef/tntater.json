@@ -1,6 +1,6 @@
 {
   "type": "spleef:spleef",
-  "name": "TNTater",
+  "translation": "game.nucleoid.spleef.tntater",
   "decay": 2,
   "map": {
     "shape": {

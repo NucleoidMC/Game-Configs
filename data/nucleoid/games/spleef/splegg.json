@@ -1,6 +1,6 @@
 {
   "type": "spleef:spleef",
-  "name": "Splegg",
+  "translation": "game.nucleoid.spleef.splegg",
   "map": {
     "shape": {
       "type": "spleef:circle",

@@ -1,6 +1,6 @@
 {
   "type": "spleef:spleef",
-  "name": "Slimey Spleef",
+  "translation": "game.nucleoid.spleef.slime",
   "decay": 60,
   "map": {
     "shape": {

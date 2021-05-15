@@ -1,6 +1,6 @@
 {
   "type": "spleef:spleef",
-  "name": "Honey Spleef",
+  "translation": "game.nucleoid.spleef.honey",
   "decay": 60,
   "map": {
     "shape": {

@@ -1,6 +1,6 @@
 {
   "type": "spleef:spleef",
-  "name": "Frostburn Spleef",
+  "translation": "game.nucleoid.spleef.frostburn",
   "map": {
     "shape": {
       "type": "spleef:circle",

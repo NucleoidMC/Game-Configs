@@ -1,6 +1,6 @@
 {
   "type": "spleef:spleef",
-  "name": "Sticky Situation Spleef",
+  "translation": "game.nucleoid.spleef.sticky_situation",
   "map": {
     "shape": {
       "type": "spleef:circle",

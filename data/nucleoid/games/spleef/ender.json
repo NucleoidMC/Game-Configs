@@ -1,6 +1,6 @@
 {
   "type": "spleef:spleef",
-  "name": "Ender Spleef",
+  "translation": "game.nucleoid.spleef.ender",
   "map": {
     "shape": {
       "type": "spleef:circle",

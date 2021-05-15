@@ -1,6 +1,6 @@
 {
   "type": "spleef:spleef",
-  "name": "Tall Explosive Spleef",
+  "translation": "game.nucleoid.spleef.explosive.tall",
   "map": {
     "shape": {
       "type": "spleef:circle",

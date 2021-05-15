@@ -1,6 +1,6 @@
 {
   "type": "spleef:spleef",
-  "name": "Snowfall Spleef",
+  "translation": "game.nucleoid.spleef.snowfall",
   "decay": 2,
   "map": {
     "shape": {

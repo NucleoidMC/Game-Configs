@@ -1,6 +1,6 @@
 {
   "type": "spleef:spleef",
-  "name": "Donut Explosive Spleef",
+  "translation": "game.nucleoid.spleef.explosive.donut",
   "map": {
     "shape": {
       "type": "spleef:circle",

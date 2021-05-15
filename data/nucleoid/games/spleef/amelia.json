@@ -1,6 +1,6 @@
 {
   "type": "spleef:spleef",
-  "name": "Spleef: Amelia",
+  "translation": "game.nucleoid.spleef.amelia",
   "map": {
     "shape": {
       "type": "spleef:circle",

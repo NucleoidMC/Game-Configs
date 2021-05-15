@@ -1,6 +1,6 @@
 {
   "type": "spleef:spleef",
-  "name": "Fast Spleef",
+  "translation": "game.nucleoid.spleef.fast",
   "map": {
     "shape": {
       "type": "spleef:circle",

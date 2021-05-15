@@ -1,13 +1,13 @@
 {
   "type": "plasmid:random",
-  "name": "Spleef",
+  "translation": "game.nucleoid.spleef",
   "games": [
     "spleef:standard",
     "spleef:standard_projectile",
     "nucleoid:spleef/frostburn",
     "nucleoid:spleef/frosty_frontiers",
     "nucleoid:spleef/leaf",
-    "nucleoid:spleef/tall",
+    "nucleoid:spleef/tower",
     "nucleoid:spleef/fast",
     "nucleoid:spleef/sticky_situation",
     "nucleoid:spleef/slime",
