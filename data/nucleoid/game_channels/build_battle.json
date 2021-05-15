@@ -1,4 +1,18 @@
 {
-  "type": "plasmid:on_demand",
-  "game": "buildbattle:standard"
+  "type": "plasmid:menu",
+  "translation": "game.nucleoid.build_battle",
+  "games": [
+    {
+      "game": "buildbattle:standard",
+      "icon": "minecraft:brick"
+    },
+    {
+      "game": "buildbattle:mini",
+      "icon": "minecraft:red_tulip"
+    },
+    {
+      "game": "buildbattle:team2",
+      "icon": "minecraft:bricks"
+    }
+  ]
 }

@@ -1,4 +1,14 @@
 {
-  "type": "plasmid:on_demand",
-  "game": "nucleoid:destroy_the_monument/random"
+  "type": "plasmid:menu",
+  "translation": "game.nucleoid.destroy_the_monument",
+  "games": [
+    {
+      "game": "destroythemonument:cubes",
+      "icon": "minecraft:red_wool"
+    },
+    {
+      "game": "destroythemonument:forest4",
+      "icon": "minecraft:oak_sapling"
+    }
+  ]
 }
