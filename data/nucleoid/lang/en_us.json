@@ -13,7 +13,8 @@
   "game.nucleoid.codebreaker": "Codebreaker",
   "game.nucleoid.color_swap": "Color Swap",
   "game.nucleoid.corn_maze.small": "Small Corn Maze",
-  
+
+  "game.nucleoid.cake_wars": "Cake Wars",
   "game.nucleoid.cake_wars.four_teams": "Cake Wars: 4 Teams",
   "game.nucleoid.cake_wars.two_teams": "Cake Wars: 2 Teams",
 
@@ -71,7 +72,8 @@
   "game.nucleoid.spleef.explosive.fast": "Explosive Quickspleef",
   "game.nucleoid.spleef.explosive.tall": "Explosive Tall Spleef",
   "game.nucleoid.spleef.explosive.tater": "Explosive Tater Spleef",
-  
+
+  "game.nucleoid.skywars": "Skywars",
   "game.nucleoid.skywars.singles": "Skywars (Singles)",
   "game.nucleoid.skywars.duos": "Skywars (Duos)",
   

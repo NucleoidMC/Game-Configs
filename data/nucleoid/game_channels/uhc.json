@@ -1,0 +1,14 @@
+{
+  "type": "plasmid:menu",
+  "translation": "game.uhc.uhc",
+  "games": [
+    {
+      "game": "uhc:uhc/solo/random",
+      "icon": "minecraft:golden_apple"
+    },
+    {
+      "game": "uhc:uhcrun/solo/random",
+      "icon": "minecraft:enchanted_golden_apple"
+    }
+  ]
+}
