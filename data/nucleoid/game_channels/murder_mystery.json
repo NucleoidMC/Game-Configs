@@ -1,4 +1,14 @@
 {
-  "type": "plasmid:on_demand",
-  "game": "nucleoid:murder_mystery/random"
+  "type": "plasmid:menu",
+  "translation": "game.nucleoid.murder_mystery",
+  "games": [
+    {
+      "game": "murder_mystery:mansion",
+      "icon": "minecraft:dark_oak_planks"
+    },
+    {
+      "game": "murder_mystery:metro",
+      "icon": "minecraft:andesite"
+    }
+  ]
 }

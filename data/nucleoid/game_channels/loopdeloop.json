@@ -1,4 +1,29 @@
 {
-  "type": "plasmid:on_demand",
-  "game": "nucleoid:loopdeloop/random"
+  "type": "plasmid:menu",
+  "translation": "game.nucleoid.loopdeloop",
+  "games": [
+    {
+      "game": "nucleoid:loopdeloop/random",
+      "icon": "minecraft:elytra"
+    },
+    {
+      "game": "loopdeloop:ridiculous",
+      "icon": {
+        "id": "minecraft:elytra",
+        "Count": 1,
+        "tag": {
+          "Enchantments": [
+            {
+              "id": "minecraft:infinity",
+              "lvl": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "game": "loopdeloop:flappy_standard",
+      "icon": "minecraft:feather"
+    }
+  ]
 }

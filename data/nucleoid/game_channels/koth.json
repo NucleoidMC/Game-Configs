@@ -1,4 +1,37 @@
 {
-  "type": "plasmid:on_demand",
-  "game": "nucleoid:koth/random"
+  "type": "plasmid:menu",
+  "translation": "game.nucleoid.koth",
+  "games": [
+    {
+      "game": "nucleoid:koth/random",
+      "icon": {
+        "id": "minecraft:stick",
+        "Count": 1,
+        "tag": {
+          "Enchantments": [
+            {
+              "id": "minecraft:knockback",
+              "lvl": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "game": "nucleoid:koth/cotton_candy",
+      "icon": "minecraft:pink_wool"
+    },
+    {
+      "game": "nucleoid:koth/deathmatch",
+      "icon": "minecraft:netherite_sword"
+    },
+    {
+      "game": "nucleoid:koth/ice",
+      "icon": "minecraft:packed_ice"
+    },
+    {
+      "game": "nucleoid:koth/stack",
+      "icon": "minecraft:oak_slab"
+    }
+  ]
 }
