@@ -3,11 +3,11 @@
   "translation": "game.nucleoid.cake_wars",
   "games": [
     {
-      "game": "nucleoid:cake_wars/random_four_teams",
+      "game": "nucleoid:cake_wars/random_two_teams",
       "icon": "minecraft:cake"
     },
     {
-      "game": "nucleoid:cake_wars/random_two_teams",
+      "game": "nucleoid:cake_wars/random_four_teams",
       "icon": "minecraft:cake"
     }
   ]

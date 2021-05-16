@@ -1,6 +1,6 @@
 {
   "type": "cornmaze:corn_maze",
-  "translation": "game.nucleoid.corn_maze.small",
+  "translation": "game.nucleoid.cornmaze.small",
   "map": {
     "x": 16,
     "z": 16,

@@ -7,12 +7,12 @@
       "icon": "minecraft:red_bed"
     },
     {
-      "game": "nucleoid:bedwars/random_four_teams",
-      "icon": "minecraft:yellow_bed"
-    },
-    {
       "game": "nucleoid:bedwars/random_two_teams",
       "icon": "minecraft:blue_bed"
+    },
+    {
+      "game": "nucleoid:bedwars/random_four_teams",
+      "icon": "minecraft:yellow_bed"
     }
   ]
 }

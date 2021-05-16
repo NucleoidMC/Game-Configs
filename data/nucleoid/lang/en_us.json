@@ -1,20 +1,22 @@
 {
+  "game.nucleoid.anvil_drop": "Anvil Drop",
+ 
   "game.nucleoid.ascension": "Ascension",
   "game.nucleoid.ascension.cave": "Cave Ascension",
-  "game.nucleoid.ascension.thin": "Thin Ascension",
 
   "game.nucleoid.beacon_breakers": "Beacon Breakers",
   "game.nucleoid.bow_battle": "Bow Battle",
 
   "game.nucleoid.bedwars": "Bed Wars",
-  "game.nucleoid.bedwars.four_teams": "Bed Wars: 4 Teams",
   "game.nucleoid.bedwars.two_teams": "Bed Wars: 2 Teams",
+  "game.nucleoid.bedwars.four_teams": "Bed Wars: 4 Teams",
 
   "game.nucleoid.build_battle": "Build Battle",
 
   "game.nucleoid.codebreaker": "Codebreaker",
   "game.nucleoid.color_swap": "Color Swap",
-  "game.nucleoid.corn_maze.small": "Small Corn Maze",
+  "game.nucleoid.cornmaze": "Corn Maze",
+  "game.nucleoid.cornmaze.small": "Small Corn Maze",
 
   "game.nucleoid.cake_wars": "Cake Wars",
   "game.nucleoid.cake_wars.four_teams": "Cake Wars: 4 Teams",
@@ -39,7 +41,7 @@
 
   "game.nucleoid.loopdeloop": "Loop-de-Loop",
   
-  "game.nucleoid.microbattle": "Micro Battle",
+  "game.nucleoid.micro_battle": "Micro Battle",
 
   "game.nucleoid.murder_mystery": "Murder Mystery",
   
@@ -60,6 +62,7 @@
   "game.nucleoid.spleef.honey": "Honey Spleef",
   "game.nucleoid.spleef.leaf": "Spleaf",
   "game.nucleoid.spleef.mega_tater": "Mega Tater Spleef",
+  "game.nucleoid.spleef.run": "Spleef: Run!",
   "game.nucleoid.spleef.slime": "Slimey Spleef",
   "game.nucleoid.spleef.snowfall": "Snowfall Spleef",
   "game.nucleoid.spleef.splegg": "Splegg",
@@ -84,5 +87,7 @@
   
   "game.nucleoid.vacuole.beta": "Vacuole (Beta)",
   
-  "game.werewolf.werewolf": "Werewolf"
+  "game.werewolf.werewolf": "Werewolf",
+  
+  "game.werewolf.withersweeper": "Withersweeper"
 }

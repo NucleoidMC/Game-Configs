@@ -3,7 +3,6 @@
   "translation": "game.nucleoid.ascension",
   "games": [
     "ascension:standard_ascension",
-    "nucleoid:ascension/thin",
     "nucleoid:ascension/cave"
   ],
   "custom": {

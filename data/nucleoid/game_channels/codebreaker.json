@@ -1,4 +1,14 @@
 {
-  "type": "plasmid:on_demand",
-  "game": "nucleoid:codebreaker/random"
+  "type": "plasmid:menu",
+  "translation": "game.nucleoid.codebreaker",
+  "games": [
+    {
+      "game": "codebreaker:small_codebreaker",
+      "icon": "minecraft:iron_ingot"
+    },
+    {
+      "game": "codebreaker:large_codebreaker",
+      "icon": "minecraft:iron_block"
+    }
+  ]
 }

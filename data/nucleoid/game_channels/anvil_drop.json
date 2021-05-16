@@ -1,4 +1,14 @@
 {
-  "type": "plasmid:on_demand",
-  "game": "anvildrop:standard_anvil_drop"
+  "type": "plasmid:menu",
+  "translation": "game.nucleoid.anvil_drop",
+  "games": [
+    {
+      "game": "anvildrop:standard_anvil_drop",
+      "icon": "minecraft:anvil"
+    },
+    {
+      "game": "anvildrop:standard_breaking_anvil_drop",
+      "icon": "minecraft:damaged_anvil"
+    }
+  ]
 }

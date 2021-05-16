@@ -14,10 +14,11 @@
         "tag": {
           "Enchantments": [
             {
-              "id": "minecraft:infinity",
+              "id": "minecraft:mending",
               "lvl": 1
             }
-          ]
+          ],
+          "HideFlags": 1
         }
       }
     },
