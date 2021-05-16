@@ -1,16 +1,21 @@
-name: Validate
+name: JSON check
 
 on:
   push:
     branches:
       - master
+    paths:
+      - '**.json'
   pull_request:
 
 jobs:
-  build:
+  test:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v2
-
-      - run: "jq . data/**/*.json > /dev/null"
+      - name: json-syntax-check
+        uses: limitusus/json-syntax-check@v1
+        with:
+          pattern: "\\.json$"
+        env:
+          BASE: data

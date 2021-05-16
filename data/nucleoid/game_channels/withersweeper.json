@@ -9,9 +9,10 @@
     {
       "game": "withersweeper:intermediate_withersweeper",
       "icon": "minecraft:wither_skeleton_skull"
+    },
     {
       "game": "withersweeper:expert_withersweeper",
       "icon": "minecraft:nether_star"
-    },
+    }
   ]
 }
