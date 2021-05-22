@@ -1,13 +1,37 @@
 {
   "type": "plasmid:menu",
-  "translation": "game.uhc.uhc",
+  "translation": "game.nucleoid.uhc",
   "games": [
     {
-      "game": "uhc:uhc/solo/random",
+      "game": "nucleoid:uhc/random_solo",
       "icon": "minecraft:golden_apple"
     },
     {
-      "game": "uhc:uhcrun/solo/random",
+      "game": "nucleoid:uhc/random_duos",
+      "icon": "minecraft:golden_apple"
+    },
+    {
+      "game": "nucleoid:uhc/random_trios",
+      "icon": "minecraft:golden_apple"
+    },
+    {
+      "game": "nucleoid:uhc/random_squads",
+      "icon": "minecraft:golden_apple"
+    },
+    {
+      "game": "nucleoid:uhcrun/random_solo",
+      "icon": "minecraft:enchanted_golden_apple"
+    },
+    {
+      "game": "nucleoid:uhcrun/random_duos",
+      "icon": "minecraft:enchanted_golden_apple"
+    },
+    {
+      "game": "nucleoid:uhcrun/random_trios",
+      "icon": "minecraft:enchanted_golden_apple"
+    },
+    {
+      "game": "nucleoid:uhcrun/random_squads",
       "icon": "minecraft:enchanted_golden_apple"
     }
   ]

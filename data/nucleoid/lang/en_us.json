@@ -84,6 +84,18 @@
   
   "game.nucleoid.tater": "Tater Games",
   "game.nucleoid.tater.spleef": "Tater Spleef",
+
+  "game.nucleoid.uhc": "UHC",
+  "game.nucleoid.uhc.solo": "UHC (Solo)",
+  "game.nucleoid.uhc.duos": "UHC (Duos)",
+  "game.nucleoid.uhc.trios": "UHC (Trios)",
+  "game.nucleoid.uhc.squads": "UHC (Squads)",
+
+  "game.nucleoid.uhcrun": "UHCRun",
+  "game.nucleoid.uhcrun.solo": "UHCRun (Solo)",
+  "game.nucleoid.uhcrun.duos": "UHCRun (Duos)",
+  "game.nucleoid.uhcrun.trios": "UHCRun (Trios)",
+  "game.nucleoid.uhcrun.squads": "UHCRun (Squads)",
   
   "game.nucleoid.vacuole.beta": "Vacuole (Beta)",
   
