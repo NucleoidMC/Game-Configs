@@ -6,9 +6,7 @@
     "cursed:color_swap/random",
     "cursed:spleef/random",
     "cursed:corn_maze/random",
-    "cursed:cavern_crawler/random",
-    "cursed:territory_battle/random",
-    "cursed:skywars/random_singles",
-    "cursed:skywars/random_duos"
+    "cursed:cavern_crawlers/random",
+    "cursed:territory_battle/random"
   ]
 }
