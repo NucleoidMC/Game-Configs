@@ -1,6 +1,6 @@
 {
   "type": "plasmid:random",
-  "translation": "game.nucleoid.bedwars.four_teams",
+  "translation": "game.nucleoid.four_teams",
   "games": [
     "bedwars:four_teams/aspen_forest",
     "bedwars:four_teams/desert",
@@ -15,6 +15,6 @@
     "bedwars:four_teams/roadway"
   ],
   "custom": {
-    "gamegui:icon": "minecraft:red_bed"
+    "gamegui:icon": "minecraft:blue_bed"
   }
 }

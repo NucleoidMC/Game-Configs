@@ -1,0 +1,12 @@
+{
+  "type": "plasmid:random",
+  "translation": "game.nucleoid.chaotic",
+  "games": [
+    "deacoudre:circle_deacoudre_chaotic",
+    "deacoudre:donut_deacoudre_chaotic",
+    "deacoudre:square_deacoudre_chaotic"
+  ],
+  "custom": {
+    "gamegui:icon": "minecraft:lava_bucket"
+  }
+}

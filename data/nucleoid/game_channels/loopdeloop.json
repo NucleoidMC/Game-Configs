@@ -3,7 +3,7 @@
   "translation": "game.nucleoid.loopdeloop",
   "games": [
     {
-      "game": "nucleoid:loopdeloop/random",
+      "game": "loopdeloop:standard",
       "icon": "minecraft:elytra"
     },
     {
@@ -21,6 +21,10 @@
           "HideFlags": 1
         }
       }
+    },
+    {
+      "game": "loopdeloop:quick",
+      "icon": "minecraft:sugar"
     },
     {
       "game": "loopdeloop:flappy_standard",

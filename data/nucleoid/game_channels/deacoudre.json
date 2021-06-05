@@ -1,4 +1,14 @@
 {
-  "type": "plasmid:on_demand",
-  "game": "nucleoid:deacoudre/random"
+  "type": "plasmid:menu",
+  "translation": "game.nucleoid.deacoudre",
+  "games": [
+    {
+      "game": "nucleoid:deacoudre/standard",
+      "icon": "minecraft:water_bucket"
+    },
+    {
+      "game": "nucleoid:deacoudre/chaotic",
+      "icon": "minecraft:lava_bucket"
+    }
+  ]
 }

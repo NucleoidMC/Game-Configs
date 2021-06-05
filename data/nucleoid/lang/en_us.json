@@ -1,4 +1,11 @@
 {
+  "game.nucleoid.chaotic": "Chaotic",
+  "game.nucleoid.four_teams": "Four Teams",
+  "game.nucleoid.random": "Random",
+  "game.nucleoid.random_old_combat": "Random (Old Combat)",
+  "game.nucleoid.standard": "Standard",
+  "game.nucleoid.two_teams": "Two Teams",
+  
   "game.nucleoid.anvil_drop": "Anvil Drop",
  
   "game.nucleoid.ascension": "Ascension",
@@ -8,8 +15,6 @@
   "game.nucleoid.bow_battle": "Bow Battle",
 
   "game.nucleoid.bedwars": "Bed Wars",
-  "game.nucleoid.bedwars.two_teams": "Bed Wars: 2 Teams",
-  "game.nucleoid.bedwars.four_teams": "Bed Wars: 4 Teams",
 
   "game.nucleoid.build_battle": "Build Battle",
 
@@ -19,8 +24,6 @@
   "game.nucleoid.cornmaze.small": "Small Corn Maze",
 
   "game.nucleoid.cake_wars": "Cake Wars",
-  "game.nucleoid.cake_wars.four_teams": "Cake Wars: 4 Teams",
-  "game.nucleoid.cake_wars.two_teams": "Cake Wars: 2 Teams",
 
   "game.nucleoid.creative_party": "Creative Party",
   "game.nucleoid.creative_party.frosty_frontiers": "Creative Party: Frosty Frontiers!",
@@ -46,9 +49,6 @@
   "game.nucleoid.murder_mystery": "Murder Mystery",
   
   "game.nucleoid.party": "Party Games",
-  
-  "game.nucleoid.random": "Random",
-  "game.nucleoid.random_old_combat": "Random (Old Combat)",
   
   "game.nucleoid.quakecraft": "Quakecraft",
   
