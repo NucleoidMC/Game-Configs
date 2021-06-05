@@ -15,6 +15,10 @@
       "icon": "minecraft:beacon"
     },
     {
+      "game": "nucleoid:micro_battle/random",
+      "icon": "minecraft:netherite_axe"
+    },
+    {
       "game": "microbattle:old_combat_standard_micro_battle",
       "icon": "minecraft:diamond_sword"
     },
@@ -25,6 +29,10 @@
     {
       "game": "microbattle:old_combat_respawner_micro_battle",
       "icon": "minecraft:nether_star"
+    },
+    {
+      "game": "nucleoid:micro_battle/random_old_combat",
+      "icon": "minecraft:diamond_axe"
     }
   ]
 }

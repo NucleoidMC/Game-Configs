@@ -1,0 +1,13 @@
+{
+  "type": "plasmid:random",
+  "translation": "game.nucleoid.death_swap",
+  "games": [
+    "deathswap:death_swap",
+    "deathswap:tiny_death_swap",
+    "deathswap:amplified_death_swap",
+    "deathswap:tiny_amplified_death_swap"
+  ],
+  "custom": {
+    "gamegui:icon": "minecraft:wither_skeleton_skull"
+  }
+}

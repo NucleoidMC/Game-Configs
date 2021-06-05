@@ -4,7 +4,8 @@
   "games": [
     "beaconbreakers:standard_beacon_breakers",
     "beaconbreakers:standard_beacon_breakers_tiny",
-    "beaconbreakers:standard_beacon_breakers_keep_inventory"
+    "beaconbreakers:amplified_beacon_breakers",
+    "beaconbreakers:amplified_beacon_breakers_tiny"
   ],
   "custom": {
     "gamegui:icon": "minecraft:beacon"

@@ -3,21 +3,6 @@
   "translation": "game.nucleoid.koth",
   "games": [
     {
-      "game": "nucleoid:koth/random",
-      "icon": {
-        "id": "minecraft:stick",
-        "Count": 1,
-        "tag": {
-          "Enchantments": [
-            {
-              "id": "minecraft:knockback",
-              "lvl": 1
-            }
-          ]
-        }
-      }
-    },
-    {
       "game": "nucleoid:koth/cotton_candy",
       "icon": "minecraft:pink_wool"
     },
@@ -32,6 +17,21 @@
     {
       "game": "nucleoid:koth/stack",
       "icon": "minecraft:oak_slab"
+    },
+    {
+      "game": "nucleoid:koth/random",
+      "icon": {
+        "id": "minecraft:stick",
+        "Count": 1,
+        "tag": {
+          "Enchantments": [
+            {
+              "id": "minecraft:knockback",
+              "lvl": 1
+            }
+          ]
+        }
+      }
     }
   ]
 }
