@@ -29,7 +29,8 @@
               "id": "minecraft:knockback",
               "lvl": 1
             }
-          ]
+          ],
+          "HideFlags": 1
         }
       }
     }
