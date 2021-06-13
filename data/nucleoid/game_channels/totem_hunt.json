@@ -1,4 +1,4 @@
 {
   "type": "plasmid:on_demand",
-  "game": "totemhunt:standard_totem_hunt"
+  "game": "nucleoid:totem_hunt/random"
 }
