@@ -1,0 +1,30 @@
+{
+  "type": "plasmid:menu",
+  "translation": "game.nucleoid.destroy_the_monument",
+  "games": [
+    {
+      "game": "destroy_the_monument:cubes",
+      "icon": "minecraft:red_wool"
+    },
+	{
+		"game": "destroy_the_monument:kuber",
+		"icon": "minecraft:light_blue_wool"
+	},
+    {
+      "game": "destroy_the_monument:forest4",
+      "icon": "minecraft:oak_sapling"
+    },
+    {
+      "game": "destroy_the_monument:honey",
+      "icon": "minecraft:honeycomb"
+    },
+    {
+      "game": "destroy_the_monument:kupol",
+      "icon": "minecraft:prismarine_bricks"
+    },
+    {
+      "game": "destroy_the_monument:kupol_duels",
+      "icon": "minecraft:prismarine"
+    }
+  ]
+}
