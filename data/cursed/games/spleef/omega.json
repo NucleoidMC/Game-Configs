@@ -1,6 +1,5 @@
 {
   "type": "spleef:spleef",
-  "translation": "game.cursed.spleef.omega",
   "map": {
     "shape": {
       "type": "spleef:circle",
@@ -13,5 +12,8 @@
     "min": 1,
     "max": 100,
     "threshold": 2
+  },
+  "name": {
+    "translate": "game.cursed.spleef.omega"
   }
 }

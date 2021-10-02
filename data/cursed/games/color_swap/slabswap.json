@@ -1,6 +1,5 @@
 {
   "type": "colorswap:color_swap",
-  "translation": "game.cursed.color_swap.slab",
   "map": {
     "x": 8,
     "z": 8,
@@ -22,5 +21,8 @@
     "min": 1,
     "max": 100,
     "threshold": 2
+  },
+  "name": {
+    "translate": "game.cursed.color_swap.slab"
   }
 }

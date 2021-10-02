@@ -1,6 +1,5 @@
 {
   "type": "spleef:spleef",
-  "translation": "game.nucleoid.spleef.leaf",
   "decay": 60,
   "map": {
     "shape": {
@@ -25,5 +24,11 @@
     "max": 100,
     "threshold": 2
   },
-  "tool": {"id": "minecraft:shears", "Count": 1}
+  "tool": {
+    "id": "minecraft:shears",
+    "Count": 1
+  },
+  "name": {
+    "translate": "game.nucleoid.spleef.leaf"
+  }
 }

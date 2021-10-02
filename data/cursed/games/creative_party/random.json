@@ -1,8 +1,10 @@
 {
   "type": "plasmid:random",
-  "translation": "game.cursed.creative_party",
   "games": [
     "cursed:creative_party/void",
     "cursed:creative_party/tnt"
-  ]
+  ],
+  "name": {
+    "translate": "game.cursed.creative_party"
+  }
 }

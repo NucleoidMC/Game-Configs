@@ -1,6 +1,5 @@
 {
   "type": "spleef:spleef",
-  "translation": "game.nucleoid.spleef.mega_tater",
   "map": {
     "shape": {
       "type": "spleef:pattern",
@@ -32,5 +31,8 @@
     "min": 1,
     "max": 100,
     "threshold": 2
+  },
+  "name": {
+    "translate": "game.nucleoid.spleef.mega_tater"
   }
 }

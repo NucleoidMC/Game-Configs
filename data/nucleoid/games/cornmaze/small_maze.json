@@ -1,6 +1,5 @@
 {
   "type": "cornmaze:corn_maze",
-  "translation": "game.nucleoid.cornmaze.small",
   "map": {
     "x": 16,
     "z": 16,
@@ -15,5 +14,8 @@
   },
   "custom": {
     "gamegui:icon": "minecraft:hay_bale"
+  },
+  "name": {
+    "translate": "game.nucleoid.cornmaze.small"
   }
 }

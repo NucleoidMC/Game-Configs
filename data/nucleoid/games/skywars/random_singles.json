@@ -1,6 +1,5 @@
 {
   "type": "plasmid:random",
-  "translation": "game.nucleoid.skywars.singles",
   "games": [
     "skywars:single/shroomlight",
     "skywars:single/coral_reef",
@@ -9,6 +8,8 @@
     "skywars:single/woodland",
     "skywars:single/tinytater",
     "skywars:single/baba"
-  ]
+  ],
+  "name": {
+    "translate": "game.nucleoid.skywars.singles"
+  }
 }
-  

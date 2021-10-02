@@ -1,6 +1,5 @@
 {
   "type": "plasmid:random",
-  "translation": "game.nucleoid.koth.stack",
   "games": [
     "koth:stack",
     "koth:stack_bow",
@@ -17,5 +16,8 @@
         }
       ]
     }
+  },
+  "name": {
+    "translate": "game.nucleoid.koth.stack"
   }
 }

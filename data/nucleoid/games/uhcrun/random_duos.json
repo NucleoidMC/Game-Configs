@@ -1,7 +1,9 @@
 {
-	"type": "plasmid:random",
-	"translation": "game.nucleoid.uhcrun.duos",
-	"games": [
-		"uhcrun:vanilla/duos"
-	]
+  "type": "plasmid:random",
+  "games": [
+    "uhcrun:vanilla/duos"
+  ],
+  "name": {
+    "translate": "game.nucleoid.uhcrun.duos"
+  }
 }

@@ -1,38 +1,16 @@
 {
   "type": "plasmid:menu",
-  "translation": "game.nucleoid.micro_battle",
   "games": [
-    {
-      "game": "microbattle:standard_micro_battle",
-      "icon": "minecraft:netherite_sword"
-    },
-    {
-      "game": "microbattle:soul_micro_battle",
-      "icon": "minecraft:soul_soil"
-    },
-    {
-      "game": "microbattle:respawner_micro_battle",
-      "icon": "minecraft:beacon"
-    },
-    {
-      "game": "nucleoid:micro_battle/random",
-      "icon": "minecraft:netherite_axe"
-    },
-    {
-      "game": "microbattle:old_combat_standard_micro_battle",
-      "icon": "minecraft:diamond_sword"
-    },
-    {
-      "game": "microbattle:old_combat_soul_micro_battle",
-      "icon": "minecraft:soul_sand"
-    },
-    {
-      "game": "microbattle:old_combat_respawner_micro_battle",
-      "icon": "minecraft:nether_star"
-    },
-    {
-      "game": "nucleoid:micro_battle/random_old_combat",
-      "icon": "minecraft:diamond_axe"
-    }
-  ]
+    "microbattle:standard_micro_battle",
+    "microbattle:soul_micro_battle",
+    "microbattle:respawner_micro_battle",
+    "nucleoid:micro_battle/random",
+    "microbattle:old_combat_standard_micro_battle",
+    "microbattle:old_combat_soul_micro_battle",
+    "microbattle:old_combat_respawner_micro_battle",
+    "nucleoid:micro_battle/random_old_combat"
+  ],
+  "name": {
+    "translate": "game.nucleoid.micro_battle"
+  }
 }

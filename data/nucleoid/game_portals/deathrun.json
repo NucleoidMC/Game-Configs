@@ -1,14 +1,10 @@
 {
-	"type": "plasmid:menu",
-	"translation": "game.nucleoid.deathrun",
-	"games": [
-	  {
-		"game": "deathrun:gardens",
-		"icon": "minecraft:flowering_azalea"
-	  },
-	  {
-		"game": "deathrun:gardens_runners",
-		"icon": "minecraft:azalea"
-	  }
-	]
+  "type": "plasmid:menu",
+  "games": [
+    "deathrun:gardens",
+    "deathrun:gardens_runners"
+  ],
+  "name": {
+    "translate": "game.nucleoid.deathrun"
   }
+}

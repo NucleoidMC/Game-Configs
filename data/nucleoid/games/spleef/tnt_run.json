@@ -1,6 +1,5 @@
 {
   "type": "spleef:spleef",
-  "translation": "game.nucleoid.spleef.tnt_run",
   "decay": 2,
   "map": {
     "shape": {
@@ -25,5 +24,11 @@
     "threshold": 2
   },
   "level_break_interval": 1200,
-  "tool": {"id": "minecraft:air", "Count": 1}
+  "tool": {
+    "id": "minecraft:air",
+    "Count": 1
+  },
+  "name": {
+    "translate": "game.nucleoid.spleef.tnt_run"
+  }
 }

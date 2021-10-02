@@ -1,6 +1,5 @@
 {
   "type": "spleef:spleef",
-  "translation": "game.nucleoid.spleef.donut",
   "map": {
     "shape": {
       "type": "spleef:circle",
@@ -20,5 +19,8 @@
     "min": 1,
     "max": 100,
     "threshold": 2
+  },
+  "name": {
+    "translate": "game.nucleoid.spleef.donut"
   }
 }

@@ -1,14 +1,10 @@
 {
   "type": "plasmid:menu",
-  "translation": "game.nucleoid.skywars",
   "games": [
-    {
-      "game": "nucleoid:skywars/random_singles",
-      "icon": "minecraft:feather"
-    },
-    {
-      "game": "nucleoid:skywars/random_duos",
-      "icon": "minecraft:elytra"
-    }
-  ]
+    "nucleoid:skywars/random_singles",
+    "nucleoid:skywars/random_duos"
+  ],
+  "name": {
+    "translate": "game.nucleoid.skywars"
+  }
 }

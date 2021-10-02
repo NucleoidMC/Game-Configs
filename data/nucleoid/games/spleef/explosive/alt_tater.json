@@ -1,6 +1,5 @@
 {
   "type": "spleef:spleef",
-  "translation": "game.nucleoid.spleef.explosive.alt_tater",
   "map": {
     "shape": {
       "type": "spleef:pattern",
@@ -36,19 +35,33 @@
   "projectile": {
     "restock_interval": 1,
     "stack": {
-      "id": "minecraft:tnt", "Count": 1,
-      "tag": {"CanPlaceOn": ["minecraft:obsidian", "minecraft:snow_block", "minecraft:tnt"]}
+      "id": "minecraft:tnt",
+      "Count": 1,
+      "tag": {
+        "CanPlaceOn": [
+          "minecraft:obsidian",
+          "minecraft:snow_block",
+          "minecraft:tnt"
+        ]
+      }
     }
   },
   "tool": {
     "id": "minecraft:flint_and_steel",
     "Count": 1,
-    "tag": {"CanPlaceOn": ["minecraft:tnt"]}
+    "tag": {
+      "CanPlaceOn": [
+        "minecraft:tnt"
+      ]
+    }
   },
   "lava_rise": {
     "ticks_per_level": 60,
     "maximum_height": 10
   },
   "level_break_interval": 400,
-  "unstable_tnt": false
+  "unstable_tnt": false,
+  "name": {
+    "translate": "game.nucleoid.spleef.explosive.alt_tater"
+  }
 }

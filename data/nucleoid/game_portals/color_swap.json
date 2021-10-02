@@ -1,30 +1,11 @@
 {
   "type": "plasmid:menu",
-  "translation": "game.nucleoid.color_swap",
   "games": [
-    {
-      "game": "colorswap:standard_color_swap",
-      "icon": "minecraft:white_wool"
-    },
-    {
-      "game": "colorswap:knockback_color_swap",
-      "icon": {
-        "id": "minecraft:stick",
-        "Count": 1,
-        "tag": {
-          "Enchantments": [
-            {
-              "id": "minecraft:knockback",
-              "lvl": 2
-            }
-          ],
-          "HideFlags": 1
-        }
-      }
-    },
-    {
-      "game": "nucleoid:color_swap/random",
-      "icon": "minecraft:orange_wool"
-    }
-  ]
+    "colorswap:standard_color_swap",
+    "colorswap:knockback_color_swap",
+    "nucleoid:color_swap/random"
+  ],
+  "name": {
+    "translate": "game.nucleoid.color_swap"
+  }
 }

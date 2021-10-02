@@ -1,6 +1,5 @@
 {
   "type": "spleef:spleef",
-  "translation": "game.cursed.spleef.trapdoor",
   "decay": 60,
   "map": {
     "check_block_for_level_delete": true,
@@ -29,5 +28,11 @@
     "max": 100,
     "threshold": 2
   },
-  "tool": {"id": "minecraft:netherite_axe", "Count": 1}
+  "tool": {
+    "id": "minecraft:netherite_axe",
+    "Count": 1
+  },
+  "name": {
+    "translate": "game.cursed.spleef.trapdoor"
+  }
 }

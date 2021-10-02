@@ -1,6 +1,5 @@
 {
   "type": "caverncrawler:caverncrawler",
-  "translation": "game.cursed.caverncrawler.geode",
   "ores": [
     {
       "name": "minecraft:coal_ore",
@@ -50,5 +49,8 @@
     "min": 1,
     "max": 16,
     "threshold": 4
+  },
+  "name": {
+    "translate": "game.cursed.caverncrawler.geode"
   }
 }

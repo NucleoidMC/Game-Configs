@@ -1,6 +1,5 @@
 {
   "type": "cornmaze:corn_maze",
-  "translation": "game.cursed.corn_maze.crunchy",
   "map": {
     "x": 32,
     "z": 32,
@@ -12,5 +11,8 @@
     "min": 1,
     "max": 64,
     "threshold": 4
+  },
+  "name": {
+    "translate": "game.cursed.corn_maze.crunchy"
   }
 }

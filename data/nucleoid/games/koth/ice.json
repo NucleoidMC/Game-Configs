@@ -1,11 +1,13 @@
 {
   "type": "plasmid:random",
-  "translation": "game.nucleoid.koth.ice",
   "games": [
     "koth:ice",
     "koth:ice_knockoff"
   ],
   "custom": {
     "gamegui:icon": "minecraft:packed_ice"
+  },
+  "name": {
+    "translate": "game.nucleoid.koth.ice"
   }
 }

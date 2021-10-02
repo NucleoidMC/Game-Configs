@@ -1,6 +1,5 @@
 {
   "type": "spleef:spleef",
-  "translation": "game.nucleoid.spleef.tntater",
   "decay": 2,
   "map": {
     "shape": {
@@ -43,5 +42,11 @@
     "max": 100,
     "threshold": 2
   },
-  "tool": {"id": "minecraft:air", "Count": 1}
+  "tool": {
+    "id": "minecraft:air",
+    "Count": 1
+  },
+  "name": {
+    "translate": "game.nucleoid.spleef.tntater"
+  }
 }

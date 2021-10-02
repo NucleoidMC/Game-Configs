@@ -1,34 +1,12 @@
 {
   "type": "plasmid:menu",
-  "translation": "game.nucleoid.loopdeloop",
   "games": [
-    {
-      "game": "loopdeloop:standard",
-      "icon": "minecraft:elytra"
-    },
-    {
-      "game": "loopdeloop:ridiculous",
-      "icon": {
-        "id": "minecraft:elytra",
-        "Count": 1,
-        "tag": {
-          "Enchantments": [
-            {
-              "id": "minecraft:mending",
-              "lvl": 1
-            }
-          ],
-          "HideFlags": 1
-        }
-      }
-    },
-    {
-      "game": "loopdeloop:quick",
-      "icon": "minecraft:sugar"
-    },
-    {
-      "game": "loopdeloop:flappy_standard",
-      "icon": "minecraft:feather"
-    }
-  ]
+    "loopdeloop:standard",
+    "loopdeloop:ridiculous",
+    "loopdeloop:quick",
+    "loopdeloop:flappy_standard"
+  ],
+  "name": {
+    "translate": "game.nucleoid.loopdeloop"
+  }
 }

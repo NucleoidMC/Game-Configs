@@ -1,14 +1,10 @@
 {
   "type": "plasmid:menu",
-  "translation": "game.nucleoid.cake_wars",
   "games": [
-    {
-      "game": "nucleoid:cake_wars/two_teams",
-      "icon": "minecraft:cake"
-    },
-    {
-      "game": "nucleoid:cake_wars/four_teams",
-      "icon": "minecraft:cake"
-    }
-  ]
+    "nucleoid:cake_wars/two_teams",
+    "nucleoid:cake_wars/four_teams"
+  ],
+  "name": {
+    "translate": "game.nucleoid.cake_wars"
+  }
 }

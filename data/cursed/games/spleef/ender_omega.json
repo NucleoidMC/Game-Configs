@@ -1,6 +1,5 @@
 {
   "type": "spleef:spleef",
-  "translation": "game.cursed.spleef.ender_omega",
   "map": {
     "shape": {
       "type": "spleef:circle",
@@ -15,10 +14,20 @@
     "levels": 4,
     "level_height": 4
   },
-  "projectile": {"restock_interval": 20, "stack": {"id": "ender_pearl", "Count": 1}, "radius": 0},
+  "projectile": {
+    "restock_interval": 20,
+    "stack": {
+      "id": "ender_pearl",
+      "Count": 1
+    },
+    "radius": 0
+  },
   "players": {
     "min": 1,
     "max": 100,
     "threshold": 2
+  },
+  "name": {
+    "translate": "game.cursed.spleef.ender_omega"
   }
 }

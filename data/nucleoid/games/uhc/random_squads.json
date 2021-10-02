@@ -1,7 +1,9 @@
 {
-	"type": "plasmid:random",
-	"translation": "game.nucleoid.uhc.squads",
-	"games": [
-		"uhc:vanilla/squads"
-	]
+  "type": "plasmid:random",
+  "games": [
+    "uhc:vanilla/squads"
+  ],
+  "name": {
+    "translate": "game.nucleoid.uhc.squads"
+  }
 }

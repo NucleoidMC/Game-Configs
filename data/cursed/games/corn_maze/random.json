@@ -1,8 +1,10 @@
 {
   "type": "plasmid:random",
-  "translation": "game.cursed.corn_maze",
   "games": [
     "cursed:corn_maze/omega",
     "cursed:corn_maze/crunchy"
-  ]
+  ],
+  "name": {
+    "translate": "game.cursed.corn_maze"
+  }
 }

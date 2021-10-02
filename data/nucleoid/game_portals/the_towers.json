@@ -1,14 +1,10 @@
 {
-	"type": "plasmid:menu",
-	"translation": "game.nucleoid.the_towers",
-	"games": [
-	  {
-		"game": "the_towers:classic/two_teams",
-		"icon": "minecraft:smooth_stone"
-	  },
-	  {
-		"game": "the_towers:classic/four_teams",
-		"icon": "minecraft:iron_block"
-	  }
-	]
+  "type": "plasmid:menu",
+  "games": [
+    "the_towers:classic/two_teams",
+    "the_towers:classic/four_teams"
+  ],
+  "name": {
+    "translate": "game.nucleoid.the_towers"
   }
+}

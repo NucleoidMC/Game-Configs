@@ -1,6 +1,5 @@
 {
   "type": "creative_party:creative_party",
-  "translation": "game.cursed.creative_party.tnt",
   "map": {
     "map_type": {
       "type": "creative_party:layered",
@@ -23,11 +22,14 @@
         }
       ],
       "max_y": 64
-	}
+    }
   },
   "players": {
     "min": 1,
     "max": 100,
     "threshold": 1
+  },
+  "name": {
+    "translate": "game.cursed.creative_party.tnt"
   }
 }

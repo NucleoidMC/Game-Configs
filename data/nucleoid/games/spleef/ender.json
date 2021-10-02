@@ -1,6 +1,5 @@
 {
   "type": "spleef:spleef",
-  "translation": "game.nucleoid.spleef.ender",
   "map": {
     "shape": {
       "type": "spleef:circle",
@@ -10,10 +9,19 @@
     "levels": 4,
     "level_height": 5
   },
-  "projectile": {"restock_interval": 300, "stack": {"id": "ender_pearl", "Count": 1}},
+  "projectile": {
+    "restock_interval": 300,
+    "stack": {
+      "id": "ender_pearl",
+      "Count": 1
+    }
+  },
   "players": {
     "min": 1,
     "max": 100,
     "threshold": 2
+  },
+  "name": {
+    "translate": "game.nucleoid.spleef.ender"
   }
 }

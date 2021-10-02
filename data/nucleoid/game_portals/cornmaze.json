@@ -1,14 +1,10 @@
 {
   "type": "plasmid:menu",
-  "translation": "game.nucleoid.cornmaze",
   "games": [
-    {
-      "game": "cornmaze:standard_corn_maze",
-      "icon": "minecraft:hay_bale"
-    },
-    {
-      "game": "nucleoid:cornmaze/small_corn_maze",
-      "icon": "minecraft:wheat"
-    }
-  ]
+    "cornmaze:standard_corn_maze",
+    "nucleoid:cornmaze/small_corn_maze"
+  ],
+  "name": {
+    "translate": "game.nucleoid.cornmaze"
+  }
 }

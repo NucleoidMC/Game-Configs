@@ -1,6 +1,5 @@
 {
   "type": "territorybattle:territory_battle",
-  "translation": "game.cursed.territory_battle.slab",
   "map": {
     "x": 24,
     "z": 24
@@ -10,5 +9,8 @@
     "max": 32,
     "threshold": 2
   },
-  "playerBlocks": "minecraft:slabs"
+  "playerBlocks": "minecraft:slabs",
+  "name": {
+    "translate": "game.cursed.territory_battle.slab"
+  }
 }

@@ -1,6 +1,5 @@
 {
   "type": "creative_party:creative_party",
-  "translation": "game.nucleoid.creative_party.magic_powder",
   "map": {
     "map_type": {
       "type": "creative_party:layered",
@@ -50,7 +49,7 @@
         }
       ],
       "max_y": 48
-	}
+    }
   },
   "players": {
     "min": 1,
@@ -59,5 +58,8 @@
   },
   "custom": {
     "gamegui:icon": "minecraft:purple_concrete_powder"
+  },
+  "name": {
+    "translate": "game.nucleoid.creative_party.magic_powder"
   }
 }

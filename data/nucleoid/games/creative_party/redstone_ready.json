@@ -1,6 +1,5 @@
 {
   "type": "creative_party:creative_party",
-  "translation": "game.nucleoid.creative_party.redstone_ready",
   "map": {
     "map_type": {
       "type": "creative_party:layered",
@@ -20,7 +19,7 @@
         }
       ],
       "max_y": 55
-	}
+    }
   },
   "players": {
     "min": 1,
@@ -29,5 +28,8 @@
   },
   "custom": {
     "gamegui:icon": "minecraft:redstone_block"
+  },
+  "name": {
+    "translate": "game.nucleoid.creative_party.redstone_ready"
   }
 }

@@ -1,6 +1,5 @@
 {
   "type": "plasmid:random",
-  "translation": "game.nucleoid.party",
   "games": [
     "nucleoid:spleef/random",
     "nucleoid:koth/random",
@@ -17,5 +16,8 @@
     "downpour:standard_downpour",
     "cabinfever:standard_cabin_fever",
     "mineout:standard"
-  ]
+  ],
+  "name": {
+    "translate": "game.nucleoid.party"
+  }
 }

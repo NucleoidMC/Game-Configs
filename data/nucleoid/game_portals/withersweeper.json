@@ -1,18 +1,11 @@
 {
   "type": "plasmid:menu",
-  "translation": "game.nucleoid.withersweeper",
   "games": [
-    {
-      "game": "withersweeper:beginner_withersweeper",
-      "icon": "minecraft:soul_sand"
-    },
-    {
-      "game": "withersweeper:intermediate_withersweeper",
-      "icon": "minecraft:wither_skeleton_skull"
-    },
-    {
-      "game": "withersweeper:expert_withersweeper",
-      "icon": "minecraft:nether_star"
-    }
-  ]
+    "withersweeper:beginner_withersweeper",
+    "withersweeper:intermediate_withersweeper",
+    "withersweeper:expert_withersweeper"
+  ],
+  "name": {
+    "translate": "game.nucleoid.withersweeper"
+  }
 }

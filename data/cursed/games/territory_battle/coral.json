@@ -1,6 +1,5 @@
 {
   "type": "territorybattle:territory_battle",
-  "translation": "game.cursed.territory_battle.coral",
   "map": {
     "x": 36,
     "z": 36
@@ -10,5 +9,8 @@
     "max": 32,
     "threshold": 2
   },
-  "playerBlocks": "minecraft:coral_blocks"
+  "playerBlocks": "minecraft:coral_blocks",
+  "name": {
+    "translate": "game.cursed.territory_battle.coral"
+  }
 }

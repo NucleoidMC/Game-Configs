@@ -1,11 +1,13 @@
 {
   "type": "plasmid:random",
-  "translation": "game.nucleoid.ascension",
   "games": [
     "ascension:standard_ascension",
     "nucleoid:ascension/cave"
   ],
   "custom": {
     "gamegui:icon": "minecraft:red_wool"
+  },
+  "name": {
+    "translate": "game.nucleoid.ascension"
   }
 }

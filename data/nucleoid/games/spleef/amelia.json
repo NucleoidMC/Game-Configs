@@ -1,6 +1,5 @@
 {
   "type": "spleef:spleef",
-  "translation": "game.nucleoid.spleef.amelia",
   "map": {
     "shape": {
       "type": "spleef:circle",
@@ -22,7 +21,6 @@
             "Name": "minecraft:magenta_wool"
           }
         },
-
         {
           "weight": 1,
           "data": {
@@ -40,7 +38,8 @@
     "threshold": 2
   },
   "tool": {
-    "id": "minecraft:shears", "Count": 1,
+    "id": "minecraft:shears",
+    "Count": 1,
     "tag": {
       "Enchantments": [
         {
@@ -49,5 +48,8 @@
         }
       ]
     }
+  },
+  "name": {
+    "translate": "game.nucleoid.spleef.amelia"
   }
 }

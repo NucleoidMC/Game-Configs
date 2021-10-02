@@ -1,7 +1,9 @@
 {
   "type": "plasmid:random",
-  "translation": "game.cursed.caverncrawler",
   "games": [
     "cursed:cavern_crawler/geode"
-  ]
+  ],
+  "name": {
+    "translate": "game.cursed.caverncrawler"
+  }
 }

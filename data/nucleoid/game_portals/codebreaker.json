@@ -1,14 +1,10 @@
 {
   "type": "plasmid:menu",
-  "translation": "game.nucleoid.codebreaker",
   "games": [
-    {
-      "game": "codebreaker:small_codebreaker",
-      "icon": "minecraft:iron_ingot"
-    },
-    {
-      "game": "codebreaker:large_codebreaker",
-      "icon": "minecraft:iron_block"
-    }
-  ]
+    "codebreaker:small_codebreaker",
+    "codebreaker:large_codebreaker"
+  ],
+  "name": {
+    "translate": "game.nucleoid.codebreaker"
+  }
 }

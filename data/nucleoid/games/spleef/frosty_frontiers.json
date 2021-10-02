@@ -1,6 +1,5 @@
 {
   "type": "spleef:spleef",
-  "translation": "game.nucleoid.spleef.frosty_frontiers",
   "map": {
     "shape": {
       "type": "spleef:circle",
@@ -45,7 +44,8 @@
     "threshold": 2
   },
   "tool": {
-    "id": "minecraft:diamond_pickaxe", "Count": 1,
+    "id": "minecraft:diamond_pickaxe",
+    "Count": 1,
     "tag": {
       "Enchantments": [
         {
@@ -54,5 +54,8 @@
         }
       ]
     }
+  },
+  "name": {
+    "translate": "game.nucleoid.spleef.frosty_frontiers"
   }
 }

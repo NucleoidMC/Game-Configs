@@ -1,6 +1,5 @@
 {
   "type": "spleef:spleef",
-  "translation": "game.nucleoid.spleef.explosive.fast",
   "map": {
     "shape": {
       "type": "spleef:circle",
@@ -26,13 +25,26 @@
     "stack": {
       "id": "minecraft:tnt",
       "Count": 1,
-      "tag": {"CanPlaceOn": ["minecraft:obsidian", "minecraft:snow_block", "minecraft:tnt"]}
+      "tag": {
+        "CanPlaceOn": [
+          "minecraft:obsidian",
+          "minecraft:snow_block",
+          "minecraft:tnt"
+        ]
+      }
     }
   },
   "tool": {
     "id": "minecraft:flint_and_steel",
     "Count": 1,
-    "tag": {"CanPlaceOn": ["minecraft:tnt"]}
+    "tag": {
+      "CanPlaceOn": [
+        "minecraft:tnt"
+      ]
+    }
   },
-  "unstable_tnt": true
+  "unstable_tnt": true,
+  "name": {
+    "translate": "game.nucleoid.spleef.explosive.fast"
+  }
 }

@@ -1,6 +1,5 @@
 {
   "type": "plasmid:random",
-  "translation": "game.nucleoid.spleef",
   "games": [
     "spleef:standard",
     "spleef:standard_projectile",
@@ -19,5 +18,8 @@
     "nucleoid:spleef/splegg",
     "nucleoid:spleef/tatersplosion",
     "nucleoid:spleef/ender"
-  ]
+  ],
+  "name": {
+    "translate": "game.nucleoid.spleef"
+  }
 }

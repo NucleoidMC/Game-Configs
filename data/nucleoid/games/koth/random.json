@@ -1,6 +1,5 @@
 {
   "type": "plasmid:random",
-  "translation": "game.nucleoid.random",
   "games": [
     "koth:skyland",
     "nucleoid:koth/ice",
@@ -21,5 +20,8 @@
         }
       ]
     }
+  },
+  "name": {
+    "translate": "game.nucleoid.random"
   }
 }
