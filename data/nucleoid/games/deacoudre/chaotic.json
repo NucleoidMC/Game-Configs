@@ -5,10 +5,8 @@
     "deacoudre:donut_deacoudre_chaotic",
     "deacoudre:square_deacoudre_chaotic"
   ],
-  "custom": {
-    "gamegui:icon": "minecraft:lava_bucket"
-  },
   "name": {
     "translate": "game.nucleoid.chaotic"
-  }
+  },
+  "icon": "minecraft:lava_bucket"
 }

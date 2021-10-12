@@ -34,5 +34,6 @@
   },
   "name": {
     "translate": "game.nucleoid.spleef.tater"
-  }
+  },
+  "icon": "nucleoid_extras:tiny_potato"
 }

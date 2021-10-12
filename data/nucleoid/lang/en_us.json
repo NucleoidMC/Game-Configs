@@ -39,8 +39,10 @@
 
   "game.nucleoid.koth": "King of the Hill",
   "game.nucleoid.koth.cotton_candy": "KotH: Cotton Candy",
+  "game.nucleoid.koth.classic": "KotH: Classic",
   "game.nucleoid.koth.deathmatch": "KotH: Deathmatch",
   "game.nucleoid.koth.ice": "KotH: Ice",
+  "game.nucleoid.koth.knockoff": "KotH: Knock Off!",
   "game.nucleoid.koth.stack": "KotH: Stack",
 
   "game.nucleoid.loopdeloop": "Loop-de-Loop",
@@ -76,11 +78,11 @@
   "game.nucleoid.spleef.tntater": "TNTater",
   "game.nucleoid.spleef.tower": "Tower Spleef",
   
-  "game.nucleoid.spleef.explosive.alt_tater": "Explosive Tater Spleef (alt)",
+  "game.nucleoid.spleef.explosive.alt_tater": "Explosive Tater Spleef (Classic)",
   "game.nucleoid.spleef.explosive.donut": "Explosive Donut Spleef",
   "game.nucleoid.spleef.explosive.fast": "Explosive Quickspleef",
   "game.nucleoid.spleef.explosive.tall": "Explosive Tall Spleef",
-  "game.nucleoid.spleef.explosive.tater": "Explosive Tater Spleef",
+  "game.nucleoid.spleef.explosive.tater": "Explosive Tater Spleef (Automatic)",
 
   "game.nucleoid.skywars": "Skywars",
   "game.nucleoid.skywars.singles": "Skywars (Singles)",

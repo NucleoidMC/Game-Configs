@@ -12,5 +12,6 @@
   "playerBlocks": "minecraft:slabs",
   "name": {
     "translate": "game.cursed.territory_battle.slab"
-  }
+  },
+  "icon": "smooth_stone_slab"
 }

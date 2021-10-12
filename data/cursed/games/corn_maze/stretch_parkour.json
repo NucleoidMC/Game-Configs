@@ -14,5 +14,6 @@
   },
   "name": {
     "translate": "game.cursed.corn_maze.stretch_parkour"
-  }
+  },
+  "icon": "hay_block"
 }

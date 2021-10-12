@@ -11,5 +11,6 @@
   ],
   "name": {
     "translate": "game.cursed.cursed"
-  }
+  },
+  "icon": "enchantment_book"
 }

@@ -4,10 +4,8 @@
     "ascension:standard_ascension",
     "nucleoid:ascension/cave"
   ],
-  "custom": {
-    "gamegui:icon": "minecraft:red_wool"
-  },
   "name": {
     "translate": "game.nucleoid.ascension"
-  }
+  },
+  "icon": "minecraft:red_wool"
 }

@@ -6,5 +6,6 @@
   ],
   "name": {
     "translate": "game.nucleoid.murder_mystery"
-  }
+  },
+  "icon": "minecraft:iron_sword"
 }

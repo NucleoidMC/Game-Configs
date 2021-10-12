@@ -1,0 +1,9 @@
+{
+  "type": "plasmid:menu",
+  "name": {
+    "translate": "gameType.paintball.paintball"
+  },
+  "games": [
+    "paintball:garden_paintball"
+  ]
+}

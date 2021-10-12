@@ -8,5 +8,6 @@
   ],
   "name": {
     "translate": "game.cursed.color_swap"
-  }
+  },
+  "icon": "red_wool"
 }

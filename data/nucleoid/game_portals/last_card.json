@@ -1,4 +1,4 @@
 {
   "type": "plasmid:on_demand",
-  "game": "last_card:standard_last_card"
+  "game": "lastcard:standard_last_card"
 }

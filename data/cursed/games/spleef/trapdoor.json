@@ -34,5 +34,6 @@
   },
   "name": {
     "translate": "game.cursed.spleef.trapdoor"
-  }
+  },
+  "icon": "wooden_shovel"
 }

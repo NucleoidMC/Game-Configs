@@ -33,5 +33,6 @@
   },
   "name": {
     "translate": "game.nucleoid.spleef.sticky_situation"
-  }
+  },
+  "icon": "iron_shovel"
 }

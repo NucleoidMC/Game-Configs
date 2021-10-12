@@ -59,5 +59,6 @@
   "unstable_tnt": true,
   "name": {
     "translate": "game.nucleoid.spleef.explosive.tater"
-  }
+  },
+  "icon": "nucleoid_extras:irritater"
 }

@@ -52,5 +52,6 @@
   },
   "name": {
     "translate": "game.cursed.caverncrawler.geode"
-  }
+  },
+  "icon": "iron_pickaxe"
 }

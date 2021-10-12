@@ -12,10 +12,8 @@
     "max": 64,
     "threshold": 4
   },
-  "custom": {
-    "gamegui:icon": "minecraft:hay_bale"
-  },
   "name": {
     "translate": "game.nucleoid.cornmaze.small"
-  }
+  },
+  "icon": "minecraft:hay_bale"
 }

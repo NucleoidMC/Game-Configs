@@ -1,0 +1,15 @@
+{
+  "type": "plasmid:random",
+  "games": [
+    "nucleoid:koth/cotton_candy",
+    "nucleoid:koth/stack",
+    "koth:buttons",
+	"koth:skyland",
+	"koth:dynasty",
+    "koth:monolith"
+  ],
+  "name": {
+    "translate": "game.nucleoid.koth.classic"
+  },
+  "icon": "minecraft:debug_stick"
+}

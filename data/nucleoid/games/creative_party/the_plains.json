@@ -47,10 +47,8 @@
     "max": 100,
     "threshold": 1
   },
-  "custom": {
-    "gamegui:icon": "minecraft:grass_block"
-  },
   "name": {
     "translate": "game.nucleoid.creative_party.the_plains"
-  }
+  },
+  "icon": "minecraft:grass_block"
 }

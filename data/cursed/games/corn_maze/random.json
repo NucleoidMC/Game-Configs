@@ -6,5 +6,6 @@
   ],
   "name": {
     "translate": "game.cursed.corn_maze"
-  }
+  },
+  "icon": "hay_block"
 }

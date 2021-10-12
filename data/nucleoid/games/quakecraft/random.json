@@ -8,5 +8,6 @@
   ],
   "name": {
     "translate": "game.nucleoid.quakecraft"
-  }
+  },
+  "icon": "iron_hoe"
 }

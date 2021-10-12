@@ -6,5 +6,6 @@
   ],
   "name": {
     "translate": "game.cursed.territory_battle"
-  }
+  },
+  "icon": "smooth_stone_slab"
 }

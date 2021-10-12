@@ -7,10 +7,8 @@
     "nucleoid:creative_party/seven_seas",
     "nucleoid:creative_party/magic_powder"
   ],
-  "custom": {
-    "gamegui:icon": "minecraft:diamond_block"
-  },
   "name": {
     "translate": "game.nucleoid.creative_party"
-  }
+  },
+  "icon": "minecraft:diamond_block"
 }

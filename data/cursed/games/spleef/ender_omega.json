@@ -29,5 +29,6 @@
   },
   "name": {
     "translate": "game.cursed.spleef.ender_omega"
-  }
+  },
+  "icon": "ender_pearl"
 }

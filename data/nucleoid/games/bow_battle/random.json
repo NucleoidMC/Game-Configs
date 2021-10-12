@@ -6,5 +6,6 @@
   ],
   "name": {
     "translate": "game.nucleoid.bow_battle"
-  }
+  },
+  "icon": "bow"
 }

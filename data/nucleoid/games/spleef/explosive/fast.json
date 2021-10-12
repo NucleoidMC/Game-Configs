@@ -46,5 +46,6 @@
   "unstable_tnt": true,
   "name": {
     "translate": "game.nucleoid.spleef.explosive.fast"
-  }
+  },
+  "icon": "tnt"
 }

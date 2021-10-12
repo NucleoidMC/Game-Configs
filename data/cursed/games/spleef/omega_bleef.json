@@ -41,5 +41,6 @@
   },
   "name": {
     "translate": "game.cursed.spleef.omega_bleef"
-  }
+  },
+  "icon": "bow"
 }

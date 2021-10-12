@@ -5,10 +5,8 @@
     "microbattle:soul_micro_battle",
     "microbattle:respawner_micro_battle"
   ],
-  "custom": {
-    "gamegui:icon": "minecraft:netherite_axe"
-  },
   "name": {
     "translate": "game.nucleoid.random"
-  }
+  },
+  "icon": "minecraft:netherite_axe"
 }

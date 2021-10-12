@@ -1,27 +1,21 @@
 {
   "type": "plasmid:random",
   "games": [
-    "koth:skyland",
     "nucleoid:koth/ice",
     "nucleoid:koth/deathmatch",
-    "nucleoid:koth/stack",
-    "koth:end_city",
-    "koth:island",
-    "koth:monolith"
+    "nucleoid:koth/classic"
   ],
-  "custom": {
-    "gamegui:icon": {
-      "id": "minecraft:stick",
-      "Count": 1,
-      "Enchantments": [
-        {
-          "id": "minecraft:knockback",
-          "lvl": 1
-        }
-      ]
-    }
-  },
   "name": {
     "translate": "game.nucleoid.random"
+  },
+  "icon": {
+    "id": "minecraft:stick",
+    "Count": 1,
+    "Enchantments": [
+      {
+        "id": "minecraft:knockback",
+        "lvl": 1
+      }
+    ]
   }
 }

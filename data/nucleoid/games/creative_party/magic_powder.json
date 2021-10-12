@@ -56,10 +56,8 @@
     "max": 100,
     "threshold": 1
   },
-  "custom": {
-    "gamegui:icon": "minecraft:purple_concrete_powder"
-  },
   "name": {
     "translate": "game.nucleoid.creative_party.magic_powder"
-  }
+  },
+  "icon": "minecraft:purple_concrete_powder"
 }

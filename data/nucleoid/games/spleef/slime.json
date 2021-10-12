@@ -26,5 +26,6 @@
   },
   "name": {
     "translate": "game.nucleoid.spleef.slime"
-  }
+  },
+  "icon": "iron_shovel"
 }

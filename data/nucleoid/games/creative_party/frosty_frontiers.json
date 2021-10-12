@@ -50,10 +50,8 @@
     "max": 100,
     "threshold": 1
   },
-  "custom": {
-    "gamegui:icon": "minecraft:snow_block"
-  },
   "name": {
     "translate": "game.nucleoid.creative_party.frosty_frontiers"
-  }
+  },
+  "icon": "minecraft:snow_block"
 }

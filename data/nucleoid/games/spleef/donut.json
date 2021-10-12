@@ -22,5 +22,6 @@
   },
   "name": {
     "translate": "game.nucleoid.spleef.donut"
-  }
+  },
+  "icon": "iron_shovel"
 }

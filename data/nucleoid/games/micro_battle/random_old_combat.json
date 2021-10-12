@@ -5,10 +5,8 @@
     "microbattle:old_combat_soul_micro_battle",
     "microbattle:old_combat_respawner_micro_battle"
   ],
-  "custom": {
-    "gamegui:icon": "minecraft:diamond_axe"
-  },
   "name": {
     "translate": "game.nucleoid.random_old_combat"
-  }
+  },
+  "icon": "minecraft:diamond_axe"
 }

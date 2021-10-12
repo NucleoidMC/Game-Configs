@@ -14,8 +14,6 @@ for (const entry of walkSync('./data')) {
 		if ("games" in obj && entry.path.includes("game_portals")) {
 			const newGames = [];
 
-			console.log(obj["games"])
-
 			for (const game of obj["games"]) {
 				if (game == null) {
 					continue;
@@ -26,6 +24,19 @@ for (const entry of walkSync('./data')) {
 
 			obj["games"] = newGames
 		}
+
+		if ("custom" in obj) {
+			const custom = obj["custom"];
+			if ("gamegui:icon" in custom) {
+				obj["icon"] = custom["gamegui:icon"];
+				delete custom["gamegui:icon"];
+			}
+
+			if (Object.values(custom).length == 0) {
+				delete obj["custom"];
+			} 
+		}
+
 		Deno.writeTextFileSync(entry.path, JSON.stringify(obj, null, 2))
 	}
 }

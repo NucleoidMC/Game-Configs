@@ -6,10 +6,8 @@
     "beaconbreakers:amplified_beacon_breakers",
     "beaconbreakers:amplified_beacon_breakers_tiny"
   ],
-  "custom": {
-    "gamegui:icon": "minecraft:beacon"
-  },
   "name": {
     "translate": "game.nucleoid.beacon_breakers"
-  }
+  },
+  "icon": "minecraft:beacon"
 }

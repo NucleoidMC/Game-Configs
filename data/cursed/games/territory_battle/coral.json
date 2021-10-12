@@ -12,5 +12,6 @@
   "playerBlocks": "minecraft:coral_blocks",
   "name": {
     "translate": "game.cursed.territory_battle.coral"
-  }
+  },
+  "icon": "brain_coral_block"
 }

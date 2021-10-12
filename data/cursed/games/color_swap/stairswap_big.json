@@ -26,5 +26,6 @@
   },
   "name": {
     "translate": "game.cursed.color_swap.big_stair"
-  }
+  },
+  "icon": "stone_stair"
 }

@@ -8,5 +8,6 @@
   ],
   "name": {
     "translate": "game.nucleoid.tater.spleef"
-  }
+  },
+  "icon": "nucleoid_extras:tiny_potato"
 }

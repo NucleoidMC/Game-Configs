@@ -13,5 +13,6 @@
   },
   "name": {
     "translate": "game.cursed.corn_maze.omega"
-  }
+  },
+  "icon": "hay_block"
 }

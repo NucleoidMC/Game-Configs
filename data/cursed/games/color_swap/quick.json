@@ -16,5 +16,6 @@
   },
   "name": {
     "translate": "game.cursed.color_swap.quick"
-  }
+  },
+  "icon": "red_wool"
 }

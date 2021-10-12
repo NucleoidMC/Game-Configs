@@ -41,5 +41,17 @@
   },
   "name": {
     "translate": "game.nucleoid.spleef.bleef"
+  },
+  "icon": {
+    "id": "minecraft:bow",
+    "Count": 1,
+    "tag": {
+      "Enchantments": [
+        {
+          "id": "minecraft:infinity",
+          "lvl": 1
+        }
+      ]
+    }
   }
 }

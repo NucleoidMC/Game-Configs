@@ -4,10 +4,8 @@
     "totemhunt:coral_mall_totem_hunt",
     "totemhunt:lost_cavern_totem_hunt"
   ],
-  "custom": {
-    "gamegui:icon": "minecraft:totem_of_undying"
-  },
   "name": {
     "translate": "game.nucleoid.totem_hunt"
-  }
+  },
+  "icon": "minecraft:totem_of_undying"
 }

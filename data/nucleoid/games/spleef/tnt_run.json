@@ -30,5 +30,6 @@
   },
   "name": {
     "translate": "game.nucleoid.spleef.tnt_run"
-  }
+  },
+  "icon": "tnt"
 }

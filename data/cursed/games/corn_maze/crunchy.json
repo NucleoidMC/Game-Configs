@@ -14,5 +14,6 @@
   },
   "name": {
     "translate": "game.cursed.corn_maze.crunchy"
-  }
+  },
+  "icon": "hay_block"
 }

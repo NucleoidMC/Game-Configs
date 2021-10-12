@@ -15,5 +15,6 @@
   },
   "name": {
     "translate": "game.nucleoid.spleef.tower"
-  }
+  },
+  "icon": "iron_shovel"
 }

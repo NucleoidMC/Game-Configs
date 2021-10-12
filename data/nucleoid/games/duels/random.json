@@ -4,10 +4,8 @@
     "duels:standard",
     "duels:standard_slippery"
   ],
-  "custom": {
-    "gamegui:icon": "minecraft:diamond_sword"
-  },
   "name": {
     "translate": "game.nucleoid.duels"
-  }
+  },
+  "icon": "minecraft:diamond_sword"
 }

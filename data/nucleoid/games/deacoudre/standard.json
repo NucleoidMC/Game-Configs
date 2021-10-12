@@ -5,10 +5,8 @@
     "deacoudre:donut_deacoudre",
     "deacoudre:square_deacoudre"
   ],
-  "custom": {
-    "gamegui:icon": "minecraft:water_bucket"
-  },
   "name": {
     "translate": "game.nucleoid.standard"
-  }
+  },
+  "icon": "minecraft:water_bucket"
 }

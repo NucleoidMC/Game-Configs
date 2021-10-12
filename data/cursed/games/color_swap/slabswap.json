@@ -24,5 +24,6 @@
   },
   "name": {
     "translate": "game.cursed.color_swap.slab"
-  }
+  },
+  "icon": "smooth_stone_slab"
 }

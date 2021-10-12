@@ -26,10 +26,8 @@
     "max": 100,
     "threshold": 1
   },
-  "custom": {
-    "gamegui:icon": "minecraft:redstone_block"
-  },
   "name": {
     "translate": "game.nucleoid.creative_party.redstone_ready"
-  }
+  },
+  "icon": "minecraft:redstone_block"
 }

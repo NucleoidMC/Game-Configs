@@ -5,19 +5,17 @@
     "koth:stack_bow",
     "koth:stack_leap"
   ],
-  "custom": {
-    "gamegui:icon": {
-      "id": "minecraft:stick",
-      "Count": 1,
-      "Enchantments": [
-        {
-          "id": "minecraft:knockback",
-          "lvl": 1
-        }
-      ]
-    }
-  },
   "name": {
     "translate": "game.nucleoid.koth.stack"
+  },
+  "icon": {
+    "id": "minecraft:stick",
+    "Count": 1,
+    "Enchantments": [
+      {
+        "id": "minecraft:knockback",
+        "lvl": 1
+      }
+    ]
   }
 }

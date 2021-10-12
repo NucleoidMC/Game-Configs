@@ -52,5 +52,6 @@
   "unstable_tnt": true,
   "name": {
     "translate": "game.nucleoid.spleef.explosive.donut"
-  }
+  },
+  "icon": "tnt"
 }
