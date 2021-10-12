@@ -2,7 +2,8 @@
   "type": "plasmid:menu",
   "games": [
     "nucleoid:bedwars/two_teams",
-    "nucleoid:bedwars/four_teams"
+    "nucleoid:bedwars/four_teams",
+    "nucleoid:bedwars/eight_teams"
   ],
   "name": {
     "translate": "game.nucleoid.bedwars"

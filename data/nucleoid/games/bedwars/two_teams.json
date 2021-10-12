@@ -10,7 +10,7 @@
     "bedwars:two_teams/end"
   ],
   "name": {
-    "translate": "game.nucleoid.two_teams"
+    "translate": "game.nucleoid.bedwars.two_teams"
   },
   "icon": "minecraft:red_bed"
 }

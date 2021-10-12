@@ -1,4 +1,12 @@
 {
-  "type": "plasmid:on_demand",
-  "game": "siege:villagers_vs_pillagers"
+  "type": "plasmid:menu",
+  "name": {
+    "translate": "gameType.siege.siege"
+  },
+  "games": [
+	  "siege:villagers_vs_pillagers",
+	  "siege:villagers_vs_pillagers_recapture",
+	  "siege:jungle",
+	  "siege:jungle_recapture"
+	]
 }

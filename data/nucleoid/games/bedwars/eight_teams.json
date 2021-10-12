@@ -1,0 +1,10 @@
+{
+  "type": "plasmid:random",
+  "games": [
+    "bedwars:eight_teams/beach"
+  ],
+  "name": {
+    "translate": "game.nucleoid.bedwars.eight_teams"
+  },
+  "icon": "minecraft:blue_bed"
+}

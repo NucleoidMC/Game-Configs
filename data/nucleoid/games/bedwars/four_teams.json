@@ -14,7 +14,7 @@
     "bedwars:four_teams/roadway"
   ],
   "name": {
-    "translate": "game.nucleoid.four_teams"
+    "translate": "game.nucleoid.bedwars.four_teams"
   },
   "icon": "minecraft:blue_bed"
 }
