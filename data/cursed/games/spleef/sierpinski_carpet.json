@@ -1,0 +1,31 @@
+{
+  "type": "spleef:spleef",
+  "map": {
+    "shape": {
+      "type": "spleef:sierpinski_carpet",
+      "order": 6,
+      "wall_order": 5
+    },
+    "levels": 3,
+    "level_height": 3,
+    "floor_provider": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "minecraft:lime_carpet"
+      }
+    }
+  },
+  "players": {
+    "min": 1,
+    "max": 100,
+    "threshold": 2
+  },
+  "tool": {
+    "id": "minecraft:shears", 
+    "Count": 1
+  },
+  "name": {
+    "translate": "game.cursed.spleef.sierpinski_carpet"
+  },
+  "icon": "lime_carpet"
+}

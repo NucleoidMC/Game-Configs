@@ -3,21 +3,21 @@
   "games": [
     "spleef:standard",
     "spleef:standard_projectile",
+    "nucleoid:spleef/amelia",
+    "nucleoid:spleef/big_tater",
+    "nucleoid:spleef/bleef",
+    "nucleoid:spleef/donut",
+    "nucleoid:spleef/ender",
+    "nucleoid:spleef/fast",
     "nucleoid:spleef/frostburn",
     "nucleoid:spleef/frosty_frontiers",
     "nucleoid:spleef/leaf",
-    "nucleoid:spleef/tower",
-    "nucleoid:spleef/fast",
-    "nucleoid:spleef/sticky_situation",
+    "nucleoid:spleef/sierpinski",
     "nucleoid:spleef/slime",
-    "nucleoid:spleef/donut",
-    "nucleoid:spleef/amelia",
-    "nucleoid:spleef/tater",
-    "nucleoid:spleef/mega_tater",
-    "nucleoid:spleef/bleef",
     "nucleoid:spleef/splegg",
-    "nucleoid:spleef/tatersplosion",
-    "nucleoid:spleef/ender"
+    "nucleoid:spleef/sticky_situation",
+    "nucleoid:spleef/tater",
+    "nucleoid:spleef/tower"
   ],
   "name": {
     "translate": "game.nucleoid.spleef"
