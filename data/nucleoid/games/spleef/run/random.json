@@ -1,0 +1,9 @@
+{
+  "type": "plasmid:random",
+  "translation": "game.nucleoid.spleef.run",
+  "games": [
+    "nucleoid:spleef/run/tnt_run",
+    "nucleoid:spleef/run/tntater",
+    "nucleoid:spleef/run/snowfall"
+  ]
+}

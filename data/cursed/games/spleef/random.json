@@ -3,9 +3,10 @@
   "translation": "game.cursed.spleef",
   "games": [
     "cursed:spleef/cursed_donut",
+    "cursed:spleef/ender_omega",
     "cursed:spleef/omega",
     "cursed:spleef/omega_bleef",
-    "cursed:spleef/ender_omega",
+    "cursed:spleef/sierpinski_carpet",
     "cursed:spleef/trapdoor"
   ]
 }

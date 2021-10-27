@@ -63,6 +63,7 @@
   "game.nucleoid.spleef.frosty_frontiers": "Frosty Spleef",
   "game.nucleoid.spleef.frostburn": "Frostburn Spleef",
   "game.nucleoid.spleef.honey": "Honey Spleef",
+  "game.nucleoid.spleef.sierpinski": "Sierpinski Spleef",
   "game.nucleoid.spleef.leaf": "Spleaf",
   "game.nucleoid.spleef.mega_tater": "Mega Tater Spleef",
   "game.nucleoid.spleef.run": "Spleef: Run!",
@@ -75,7 +76,7 @@
   "game.nucleoid.spleef.tntater": "TNTater",
   "game.nucleoid.spleef.tower": "Tower Spleef",
   
-  "game.nucleoid.spleef.explosive.alt_tater": "Explosive Tater Spleef (alt)",
+  "game.nucleoid.spleef.explosive.alt_tater": "Explosive Tater Spleef (Original)",
   "game.nucleoid.spleef.explosive.donut": "Explosive Donut Spleef",
   "game.nucleoid.spleef.explosive.fast": "Explosive Quickspleef",
   "game.nucleoid.spleef.explosive.tall": "Explosive Tall Spleef",
