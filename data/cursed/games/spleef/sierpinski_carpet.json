@@ -3,8 +3,8 @@
   "map": {
     "shape": {
       "type": "spleef:sierpinski_carpet",
-      "order": 6,
-      "wall_order": 5
+      "order": 5,
+      "wall_order": 4
     },
     "levels": 3,
     "level_height": 3,
