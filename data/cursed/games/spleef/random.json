@@ -2,10 +2,10 @@
   "type": "plasmid:random",
   "translation": "game.cursed.spleef",
   "games": [
-    "cursed:spleef/cursed_donut",
-    "cursed:spleef/ender_omega",
     "cursed:spleef/omega",
     "cursed:spleef/omega_bleef",
+    "cursed:spleef/omega_ender",
+    "cursed:spleef/ring",
     "cursed:spleef/trapdoor"
   ]
 }
