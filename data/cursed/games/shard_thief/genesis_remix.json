@@ -9,8 +9,5 @@
     "min": 1,
     "max": 32
   },
-  "name": {
-    "translate": "game.cursed.shard_thief.genesis_remix"
-  },
   "icon": "prismarine_shard"
 }

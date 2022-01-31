@@ -5,9 +5,6 @@
     "koth:stack_bow",
     "koth:stack_leap"
   ],
-  "name": {
-    "translate": "game.nucleoid.koth.stack"
-  },
   "icon": {
     "id": "minecraft:stick",
     "Count": 1,

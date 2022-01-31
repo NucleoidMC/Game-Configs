@@ -9,8 +9,5 @@
     "bedwars:two_teams/taiga",
     "bedwars:two_teams/end"
   ],
-  "name": {
-    "translate": "game.nucleoid.bedwars.two_teams"
-  },
   "icon": "minecraft:red_bed"
 }

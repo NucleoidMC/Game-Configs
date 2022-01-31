@@ -47,8 +47,5 @@
     "max": 100,
     "threshold": 1
   },
-  "name": {
-    "translate": "game.nucleoid.creative_party.seven_seas"
-  },
   "icon": "minecraft:water_bucket"
 }

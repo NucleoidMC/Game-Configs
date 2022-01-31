@@ -5,7 +5,7 @@
     "totemhunt:lost_cavern_totem_hunt"
   ],
   "name": {
-    "translate": "game.nucleoid.totem_hunt"
+    "translate": "gameType.totemhunt.totem_hunt"
   },
   "icon": "minecraft:totem_of_undying"
 }

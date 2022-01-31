@@ -1,4 +1,7 @@
 {
   "type": "plasmid:on_demand",
-  "game": "electricfloor:standard_electric_floor"
+  "game": "electricfloor:standard_electric_floor",
+  "name": {
+    "translate": "gameType.electricfloor.electric_floor"
+  }
 }

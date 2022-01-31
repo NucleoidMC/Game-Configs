@@ -1,4 +1,7 @@
 {
   "type": "plasmid:on_demand",
-  "game": "survivalgames:standard"
+  "game": "survivalgames:standard",
+  "name": {
+    "translate": "gameType.survivalgames.survival_games"
+  }
 }

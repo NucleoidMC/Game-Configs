@@ -5,7 +5,7 @@
     "nucleoid:ascension/cave"
   ],
   "name": {
-    "translate": "game.nucleoid.ascension"
+    "translate": "gameType.ascension.ascension"
   },
   "icon": "minecraft:red_wool"
 }

@@ -14,8 +14,5 @@
     "max": 100,
     "threshold": 2
   },
-  "name": {
-    "translate": "game.nucleoid.spleef.snowfall"
-  },
   "icon": "iron_shovel"
 }

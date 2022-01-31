@@ -6,6 +6,6 @@
     "nucleoid:color_swap/random"
   ],
   "name": {
-    "translate": "game.nucleoid.color_swap"
+    "translate": "gameType.colorswap.color_swap"
   }
 }

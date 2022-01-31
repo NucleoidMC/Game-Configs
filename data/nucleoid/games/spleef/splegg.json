@@ -24,8 +24,5 @@
     "max": 100,
     "threshold": 2
   },
-  "name": {
-    "translate": "game.nucleoid.spleef.splegg"
-  },
   "icon": "egg"
 }

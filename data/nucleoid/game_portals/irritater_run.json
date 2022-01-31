@@ -1,4 +1,7 @@
 {
   "type": "plasmid:on_demand",
-  "game": "irritaterrun:standard_irritater_run"
+  "game": "irritaterrun:standard_irritater_run",
+  "name": {
+    "translate": "gameType.irritaterrun.irritater_run"
+  }
 }

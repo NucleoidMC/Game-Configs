@@ -3,8 +3,5 @@
   "games": [
     "koth:ice_knockoff"
   ],
-  "name": {
-    "translate": "game.nucleoid.koth.knockoff"
-  },
   "icon": "minecraft:blue_ice"
 }

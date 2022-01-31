@@ -6,8 +6,5 @@
     "koth:cotton_candy_scored_leap",
     "koth:cotton_candy_scored_wta"
   ],
-  "name": {
-    "translate": "game.nucleoid.koth.cotton_candy"
-  },
   "icon": "minecraft:pink_stained_glass"
 }

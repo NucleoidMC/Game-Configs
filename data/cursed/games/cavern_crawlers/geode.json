@@ -50,8 +50,5 @@
     "max": 16,
     "threshold": 4
   },
-  "name": {
-    "translate": "game.cursed.caverncrawler.geode"
-  },
   "icon": "iron_pickaxe"
 }

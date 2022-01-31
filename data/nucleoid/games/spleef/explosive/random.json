@@ -1,0 +1,14 @@
+{
+  "type": "plasmid:random",
+  "games": [
+    "nucleoid:spleef/explosive/donut",
+    "nucleoid:spleef/explosive/fast",
+    "nucleoid:spleef/explosive/original_tater",
+    "nucleoid:spleef/explosive/tall",
+    "nucleoid:spleef/explosive/tater"
+  ],
+  "name": {
+    "translate": "game.nucleoid.spleef.explosive"
+  },
+  "icon": "iron_shovel"
+}

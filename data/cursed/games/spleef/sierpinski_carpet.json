@@ -24,8 +24,5 @@
     "id": "minecraft:shears", 
     "Count": 1
   },
-  "name": {
-    "translate": "game.cursed.spleef.sierpinski_carpet"
-  },
   "icon": "moss_carpet"
 }

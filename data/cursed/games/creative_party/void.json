@@ -26,7 +26,4 @@
     "max": 100,
     "threshold": 1
   },
-  "name": {
-    "translate": "game.cursed.creative_party.void"
-  }
 }

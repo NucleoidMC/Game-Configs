@@ -22,8 +22,5 @@
     "max": 100,
     "threshold": 2
   },
-  "name": {
-    "translate": "game.cursed.color_swap.slab"
-  },
   "icon": "smooth_stone_slab"
 }

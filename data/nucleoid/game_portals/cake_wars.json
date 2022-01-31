@@ -5,6 +5,6 @@
     "nucleoid:cake_wars/four_teams"
   ],
   "name": {
-    "translate": "game.nucleoid.cake_wars"
+    "translate": "gameType.cakewars.cake_wars"
   }
 }

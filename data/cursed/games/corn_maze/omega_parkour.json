@@ -12,8 +12,5 @@
     "max": 64,
     "threshold": 4
   },
-  "name": {
-    "translate": "game.cursed.corn_maze.omega_parkour"
-  },
   "icon": "hay_block"
 }

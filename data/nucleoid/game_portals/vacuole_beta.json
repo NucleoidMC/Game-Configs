@@ -1,4 +1,7 @@
 {
   "type": "plasmid:on_demand",
-  "game": "nucleoid:vacuole/beta"
+  "game": "nucleoid:vacuole/beta",
+  "name": {
+    "translate": "gameType.vacuole.vacuole"
+  }
 }

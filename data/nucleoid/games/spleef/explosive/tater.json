@@ -57,8 +57,5 @@
   },
   "level_break_interval": 400,
   "unstable_tnt": true,
-  "name": {
-    "translate": "game.nucleoid.spleef.explosive.tater"
-  },
   "icon": "nucleoid_extras:irritater"
 }

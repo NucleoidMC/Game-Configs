@@ -11,8 +11,5 @@
     "max": 32,
     "threshold": 2
   },
-  "icon": "minecraft:gray_wool",
-  "name": {
-    "translate": "game.nucleoid.ascension.cave"
-  }
+  "icon": "minecraft:gray_wool"
 }

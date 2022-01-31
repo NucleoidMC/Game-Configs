@@ -7,7 +7,7 @@
     "quakecraft:monastery"
   ],
   "name": {
-    "translate": "game.nucleoid.quakecraft"
+    "translate": "gameType.quakecraft.quakecraft"
   },
   "icon": "iron_hoe"
 }

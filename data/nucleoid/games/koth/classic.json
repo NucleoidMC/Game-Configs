@@ -8,8 +8,5 @@
 	"koth:dynasty",
     "koth:monolith"
   ],
-  "name": {
-    "translate": "game.nucleoid.koth.classic"
-  },
   "icon": "minecraft:debug_stick"
 }

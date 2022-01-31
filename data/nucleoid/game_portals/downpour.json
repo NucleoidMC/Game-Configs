@@ -1,4 +1,7 @@
 {
   "type": "plasmid:on_demand",
-  "game": "downpour:standard_downpour"
+  "game": "downpour:standard_downpour",
+  "name": {
+    "translate": "gameType.downpour.downpour"
+  }
 }

@@ -4,8 +4,5 @@
     "cakewars:beehive_cake_wars",
     "cakewars:skylands_cake_wars"
   ],
-  "name": {
-    "translate": "game.nucleoid.two_teams"
-  },
   "icon": "minecraft:cake"
 }

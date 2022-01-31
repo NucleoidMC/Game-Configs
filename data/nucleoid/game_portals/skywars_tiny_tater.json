@@ -1,4 +1,7 @@
 {
   "type": "plasmid:on_demand",
-  "game": "skywars:single/tinytater"
+  "game": "skywars:single/tinytater",
+  "name": {
+    "translate": "game.skywars.tinytater"
+  }
 }

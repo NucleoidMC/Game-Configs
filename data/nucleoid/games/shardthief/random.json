@@ -14,7 +14,7 @@
     "shardthief:stronghold_library_shard_thief"
   ],
   "name": {
-    "translate": "game.nucleoid.shardthief"
+    "translate": "gameType.shardthief.shardthief"
   },
   "icon": "prismarine_shard"
 }

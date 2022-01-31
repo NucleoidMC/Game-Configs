@@ -1,4 +1,7 @@
 {
   "type": "plasmid:on_demand",
-  "game": "farmy_feud:standard"
+  "game": "farmy_feud:standard",
+  "name": {
+    "translate": "gameType.farmy_feud.farmy_feud"
+  }
 }

@@ -28,8 +28,5 @@
     "id": "minecraft:air",
     "Count": 1
   },
-  "name": {
-    "translate": "game.nucleoid.spleef.tnt_run"
-  },
   "icon": "tnt"
 }

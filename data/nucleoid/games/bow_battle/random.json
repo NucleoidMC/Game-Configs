@@ -5,7 +5,7 @@
     "bowbattle:nether"
   ],
   "name": {
-    "translate": "game.nucleoid.bow_battle"
+    "translate": "game.bowbattle.bow_battle"
   },
   "icon": "bow"
 }

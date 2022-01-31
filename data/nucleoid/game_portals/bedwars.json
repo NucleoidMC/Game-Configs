@@ -6,6 +6,6 @@
     "nucleoid:bedwars/eight_teams"
   ],
   "name": {
-    "translate": "game.nucleoid.bedwars"
+    "translate": "gameType.bedwars.bedwars"
   }
 }

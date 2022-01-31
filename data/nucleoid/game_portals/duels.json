@@ -1,5 +1,8 @@
 {
   "type": "plasmid:on_demand",
   "game": "nucleoid:duels/random",
-  "continuous": true
+  "continuous": true,
+  "name": {
+    "translate": "gameType.duels.duels"
+  }
 }

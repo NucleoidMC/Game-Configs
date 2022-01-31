@@ -6,8 +6,5 @@
       "type": "vacuole:empty"
     }
   ],
-  "name": {
-    "translate": "game.nucleoid.vacuole.beta"
-  },
   "icon": "nucleoid_extras:tiny_potato"
 }

@@ -11,8 +11,5 @@
     "max": 64,
     "threshold": 4
   },
-  "name": {
-    "translate": "game.cursed.corn_maze.omega"
-  },
   "icon": "hay_block"
 }

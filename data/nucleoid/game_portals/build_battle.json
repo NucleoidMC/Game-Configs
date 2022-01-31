@@ -6,6 +6,6 @@
     "buildbattle:team2"
   ],
   "name": {
-    "translate": "game.nucleoid.build_battle"
+    "translate": "gameType.buildbattle.build_battle"
   }
 }

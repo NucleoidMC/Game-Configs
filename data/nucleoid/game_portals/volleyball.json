@@ -1,4 +1,7 @@
 {
   "type": "plasmid:on_demand",
-  "game": "volleyball:standard_volleyball"
+  "game": "volleyball:standard_volleyball",
+  "name": {
+    "translate": "gameType.volleyball.volleyball"
+  }
 }

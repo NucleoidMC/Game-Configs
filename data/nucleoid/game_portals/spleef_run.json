@@ -1,4 +1,7 @@
 {
   "type": "plasmid:on_demand",
-  "game": "nucleoid:spleef/run/random"
+  "game": "nucleoid:spleef/run/random",
+  "name": {
+    "translate": "game.nucleoid.spleef.run"
+  }
 }

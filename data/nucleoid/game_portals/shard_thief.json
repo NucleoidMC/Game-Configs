@@ -1,4 +1,7 @@
 {
   "type": "plasmid:on_demand",
-  "game": "nucleoid:shardthief/random"
+  "game": "nucleoid:shardthief/random",
+  "name": {
+    "translate": "gameType.shardthief.shard_thief"
+  },
 }

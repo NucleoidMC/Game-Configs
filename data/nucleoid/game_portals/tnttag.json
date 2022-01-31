@@ -1,4 +1,7 @@
 {
   "type": "plasmid:on_demand",
-  "game": "tnttag:standard"
+  "game": "tnttag:standard",
+  "name": {
+    "translate": "gameType.tnttag.tnttag"
+  }
 }

@@ -32,8 +32,5 @@
     "id": "minecraft:netherite_axe",
     "Count": 1
   },
-  "name": {
-    "translate": "game.cursed.spleef.trapdoor"
-  },
   "icon": "wooden_shovel"
 }

@@ -8,7 +8,7 @@
     "nucleoid:creative_party/magic_powder"
   ],
   "name": {
-    "translate": "game.nucleoid.creative_party"
+    "translate": "gameType.creative_party.creative_party"
   },
   "icon": "minecraft:diamond_block"
 }

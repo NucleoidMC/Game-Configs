@@ -12,8 +12,5 @@
     "max": 64,
     "threshold": 4
   },
-  "name": {
-    "translate": "game.cursed.corn_maze.crunchy"
-  },
   "icon": "hay_block"
 }

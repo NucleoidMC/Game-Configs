@@ -4,8 +4,5 @@
     "cakewars:laboratory_cake_wars",
     "cakewars:meow_mountain_cake_wars"
   ],
-  "name": {
-    "translate": "game.nucleoid.four_teams"
-  },
   "icon": "minecraft:cake"
 }

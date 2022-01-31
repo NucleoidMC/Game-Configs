@@ -9,6 +9,6 @@
     "destroy_the_monument:kupol_duels"
   ],
   "name": {
-    "translate": "game.nucleoid.destroy_the_monument"
+    "translate": "gameType.destroy_the_monument.destroy_the_monument"
   }
 }

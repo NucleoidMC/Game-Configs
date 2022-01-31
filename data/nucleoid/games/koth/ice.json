@@ -4,8 +4,5 @@
     "koth:ice",
     "koth:ice_knockoff"
   ],
-  "name": {
-    "translate": "game.nucleoid.koth.ice"
-  },
   "icon": "minecraft:packed_ice"
 }

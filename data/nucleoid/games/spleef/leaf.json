@@ -28,8 +28,5 @@
     "id": "minecraft:shears",
     "Count": 1
   },
-  "name": {
-    "translate": "game.nucleoid.spleef.leaf"
-  },
   "icon": "iron_shovel"
 }

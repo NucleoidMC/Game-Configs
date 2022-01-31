@@ -5,6 +5,6 @@
     "anvildrop:standard_breaking_anvil_drop"
   ],
   "name": {
-    "translate": "game.nucleoid.anvil_drop"
+    "translate": "gameType.anvildrop.anvil_drop"
   }
 }

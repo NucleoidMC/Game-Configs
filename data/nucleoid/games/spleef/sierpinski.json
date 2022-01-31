@@ -24,8 +24,5 @@
     "id": "minecraft:diamond_shovel", 
     "Count": 1
   },
-  "name": {
-    "translate": "game.nucleoid.spleef.sierpinski"
-  },
   "icon": "white_carpet"
 }

@@ -1,4 +1,7 @@
 {
   "type": "plasmid:on_demand",
-  "game": "nucleoid:totem_hunt/random"
+  "game": "nucleoid:totem_hunt/random",
+  "name": {
+    "translate": "gameType.totem_hunt.totem_hunt"
+  }
 }

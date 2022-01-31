@@ -4,7 +4,7 @@
     "cursed:cavern_crawler/geode"
   ],
   "name": {
-    "translate": "game.cursed.caverncrawler"
+    "translate": "game.cursed.cavern_crawlers"
   },
   "icon": "iron_pickaxe"
 }

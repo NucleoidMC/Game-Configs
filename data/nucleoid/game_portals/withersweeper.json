@@ -4,8 +4,8 @@
     "withersweeper:beginner_withersweeper",
     "withersweeper:intermediate_withersweeper",
     "withersweeper:expert_withersweeper"
-  ],
+  ],,
   "name": {
-    "translate": "game.nucleoid.withersweeper"
+    "translate": "gameType.withersweeper.withersweeper"
   }
 }

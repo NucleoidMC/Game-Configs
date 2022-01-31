@@ -5,7 +5,7 @@
     "murder_mystery:metro"
   ],
   "name": {
-    "translate": "game.nucleoid.murder_mystery"
+    "translate": "gameType.murder_mystery.murder_mystery"
   },
   "icon": "minecraft:iron_sword"
 }

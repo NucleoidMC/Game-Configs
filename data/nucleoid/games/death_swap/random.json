@@ -7,7 +7,7 @@
     "deathswap:tiny_amplified_death_swap"
   ],
   "name": {
-    "translate": "game.nucleoid.death_swap"
+    "translate": "gameType.deathswap.death_swap"
   },
   "icon": "minecraft:wither_skeleton_skull"
 }

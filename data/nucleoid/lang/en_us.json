@@ -6,62 +6,27 @@
   "game.nucleoid.standard": "Standard",
   "game.nucleoid.two_teams": "Two Teams",
   
-  "game.nucleoid.anvil_drop": "Anvil Drop",
- 
-  "game.nucleoid.ascension": "Ascension",
   "game.nucleoid.ascension.cave": "Cave Ascension",
-
-  "game.nucleoid.beacon_breakers": "Beacon Breakers",
-  "game.nucleoid.bow_battle": "Bow Battle",
-
-  "game.nucleoid.bedwars": "Bed Wars",
+  
   "game.nucleoid.bedwars.two_teams": "Bed Wars: Two Teams",
   "game.nucleoid.bedwars.four_teams": "Bed Wars: Four Teams",
   "game.nucleoid.bedwars.eight_teams": "Bed Wars: Eight Teams",
 
-
-  "game.nucleoid.build_battle": "Build Battle",
-
-  "game.nucleoid.codebreaker": "Codebreaker",
-  "game.nucleoid.color_swap": "Color Swap",
-  "game.nucleoid.cornmaze": "Corn Maze",
-  "game.nucleoid.cornmaze.small": "Small Corn Maze",
-
-  "game.nucleoid.cake_wars": "Cake Wars",
-
-  "game.nucleoid.creative_party": "Creative Party",
   "game.nucleoid.creative_party.frosty_frontiers": "Creative Party: Frosty Frontiers!",
   "game.nucleoid.creative_party.magic_powder": "Creative Party: Magic Powder!",
   "game.nucleoid.creative_party.redstone_ready": "Creative Party: Redstone Ready!",
   "game.nucleoid.creative_party.seven_seas": "Creative Party: Seven Seas!",
   "game.nucleoid.creative_party.the_plains": "Creative Party: The Plains!",
-  
-  "game.nucleoid.deacoudre": "Dé à Coudre",
-  "game.nucleoid.deathrun": "Death Run",
-  "game.nucleoid.destroy_the_monument": "Destroy The Monument",
-  "game.nucleoid.duels": "Duels",
 
-  "game.nucleoid.koth": "King of the Hill",
   "game.nucleoid.koth.cotton_candy": "KotH: Cotton Candy",
   "game.nucleoid.koth.classic": "KotH: Classic",
   "game.nucleoid.koth.deathmatch": "KotH: Deathmatch",
   "game.nucleoid.koth.ice": "KotH: Ice",
   "game.nucleoid.koth.knockoff": "KotH: Knock Off!",
   "game.nucleoid.koth.stack": "KotH: Stack",
-
-  "game.nucleoid.loopdeloop": "Loop-de-Loop",
-  
-  "game.nucleoid.micro_battle": "Micro Battle",
-
-  "game.nucleoid.murder_mystery": "Murder Mystery",
   
   "game.nucleoid.party": "Party Games",
   
-  "game.nucleoid.quakecraft": "Quakecraft",
-  
-  "game.nucleoid.shardthief": "Shard Thief",
-  
-  "game.nucleoid.spleef": "Spleef",
   "game.nucleoid.spleef.amelia": "Spleef: Amelia",
   "game.nucleoid.spleef.big_tater": "Big Tater Spleef",
   "game.nucleoid.spleef.bleef": "Bleef",
@@ -72,49 +37,38 @@
   "game.nucleoid.spleef.frostburn": "Frostburn Spleef",
   "game.nucleoid.spleef.honey": "Honey Spleef",
   "game.nucleoid.spleef.leaf": "Spleaf",
-  "game.nucleoid.spleef.run": "Spleef: Run!",
   "game.nucleoid.spleef.sierpinski": "Sierpinski Spleef",
   "game.nucleoid.spleef.slime": "Slimey Spleef",
-  "game.nucleoid.spleef.snowfall": "Snowfall Spleef",
   "game.nucleoid.spleef.splegg": "Splegg",
   "game.nucleoid.spleef.sticky_situation": "Spleef: Sticky Situation",
   "game.nucleoid.spleef.tater": "Tater Spleef",
-  "game.nucleoid.spleef.tnt_run": "TNT Run",
-  "game.nucleoid.spleef.tntater": "TNTater",
   "game.nucleoid.spleef.tower": "Tower Spleef",
   
-  "game.nucleoid.spleef.explosive.original_tater": "Explosive Tater Spleef (Original)",
+  "game.nucleoid.spleef.run": "Spleef: Run!",
+  "game.nucleoid.spleef.snowfall": "Snowfall Spleef",
+  "game.nucleoid.spleef.run.tnt_run": "TNT Run",
+  "game.nucleoid.spleef.run.tntater": "TNTater",
+  
+  "game.nucleoid.spleef.explosive": "Explosive Spleef",
   "game.nucleoid.spleef.explosive.donut": "Explosive Donut Spleef",
   "game.nucleoid.spleef.explosive.fast": "Explosive Quickspleef",
+  "game.nucleoid.spleef.explosive.original_tater": "Explosive Tater Spleef (Original)",
   "game.nucleoid.spleef.explosive.tall": "Explosive Tall Spleef",
   "game.nucleoid.spleef.explosive.tater": "Explosive Tater Spleef (Automatic)",
 
-  "game.nucleoid.skywars": "Skywars",
   "game.nucleoid.skywars.singles": "Skywars (Singles)",
   "game.nucleoid.skywars.duos": "Skywars (Duos)",
   
   "game.nucleoid.tater": "Tater Games",
   "game.nucleoid.tater.spleef": "Tater Spleef",
-  
-  "game.nucleoid.the_towers": "The Towers",
 
-  "game.nucleoid.totem_hunt": "Totem Hunt",
-
-  "game.nucleoid.uhc": "UHC",
   "game.nucleoid.uhc.solo": "UHC (Solo)",
   "game.nucleoid.uhc.duos": "UHC (Duos)",
   "game.nucleoid.uhc.trios": "UHC (Trios)",
   "game.nucleoid.uhc.squads": "UHC (Squads)",
 
-  "game.nucleoid.uhcrun": "UHCRun",
   "game.nucleoid.uhcrun.solo": "UHCRun (Solo)",
   "game.nucleoid.uhcrun.duos": "UHCRun (Duos)",
   "game.nucleoid.uhcrun.trios": "UHCRun (Trios)",
-  "game.nucleoid.uhcrun.squads": "UHCRun (Squads)",
-  
-  "game.nucleoid.vacuole.beta": "Vacuole (Beta)",
-  
-  "game.werewolf.werewolf": "Werewolf",
-  
-  "game.werewolf.withersweeper": "Withersweeper"
+  "game.nucleoid.uhcrun.squads": "UHCRun (Squads)"
 }

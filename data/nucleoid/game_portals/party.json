@@ -1,5 +1,8 @@
 {
   "type": "plasmid:on_demand",
   "game": "nucleoid:party/random",
-  "continuous": true
+  "continuous": true,
+  "name": {
+    "translate": "game.nucleoid.party"
+  }
 }

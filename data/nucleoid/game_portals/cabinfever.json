@@ -1,4 +1,7 @@
 {
   "type": "plasmid:on_demand",
-  "game": "cabinfever:standard_cabin_fever"
+  "game": "cabinfever:standard_cabin_fever",
+  "name": {
+    "translate": "gameType.cabinfever.cabin_fever"
+  }
 }

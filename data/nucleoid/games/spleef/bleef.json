@@ -39,9 +39,6 @@
     "max": 100,
     "threshold": 2
   },
-  "name": {
-    "translate": "game.nucleoid.spleef.bleef"
-  },
   "icon": {
     "id": "minecraft:bow",
     "Count": 1,

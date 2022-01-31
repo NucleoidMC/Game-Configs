@@ -1,4 +1,7 @@
 {
   "type": "plasmid:on_demand",
-  "game": "caverncrawler:standard"
+  "game": "caverncrawler:standard",
+  "name": {
+    "translate": "gameType.caverncrawler.cavern_crawler"
+  }
 }
