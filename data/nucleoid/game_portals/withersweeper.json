@@ -4,7 +4,7 @@
     "withersweeper:beginner_withersweeper",
     "withersweeper:intermediate_withersweeper",
     "withersweeper:expert_withersweeper"
-  ],,
+  ],
   "name": {
     "translate": "gameType.withersweeper.withersweeper"
   }
