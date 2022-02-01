@@ -2,7 +2,8 @@
   "type": "plasmid:menu",
   "games": [
     "anvildrop:standard_anvil_drop",
-    "anvildrop:standard_breaking_anvil_drop"
+    "anvildrop:standard_breaking_anvil_drop",
+    "nucleoid:anvil_drop/random"
   ],
   "name": {
     "translate": "gameType.anvildrop.anvil_drop"

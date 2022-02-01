@@ -1,0 +1,11 @@
+{
+  "type": "plasmid:random",
+  "games": [
+    "nucleoid:corn_maze/small",
+    "cornmaze:standard_corn_maze"
+  ],
+  "name": {
+    "translate": "game.nucleoid.random"
+  },
+  "icon": "wheat"
+}

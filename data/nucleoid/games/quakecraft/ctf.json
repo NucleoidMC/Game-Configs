@@ -1,0 +1,7 @@
+{
+  "type": "plasmid:random",
+  "games": [
+    "quakecraft:ctf_2fort"
+  ],
+  "icon": "purple_wool"
+}

@@ -1,21 +1,21 @@
 {
   "type": "plasmid:random",
   "games": [
-    "nucleoid:spleef/random",
+    "nucleoid:anvil_drop/random",
+    "nucleoid:ascension/random",
+    "nucleoid:corn_maze/random",
+    "nucleoid:color_swap/random",
+    "nucleoid:deacoudre/chaotic",
     "nucleoid:koth/random",
     "nucleoid:loopdeloop/random",
-    "nucleoid:corn_maze/small_maze",
     "nucleoid:shardthief/random",
-    "anvildrop:standard_anvil_drop",
-    "ascension:standard_ascension",
-    "colorswap:standard_color_swap",
-    "electricfloor:standard_electric_floor",
-    "elytron:standard_elytron",
-    "territorybattle:standard_territory_battle",
-    "totemhunt:standard_totem_hunt",
-    "downpour:standard_downpour",
+    "nucleoid:spleef/random",
     "cabinfever:standard_cabin_fever",
+    "downpour:standard_downpour",
+    "electricfloor:standard_electric_floor",
+    "elytron:standard_elytron",,
     "mineout:standard"
+    "territorybattle:standard_territory_battle"
   ],
   "name": {
     "translate": "game.nucleoid.party"

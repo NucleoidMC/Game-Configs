@@ -1,13 +1,22 @@
 {
   "type": "plasmid:random",
   "games": [
-    "skywars:duos/shroomlight",
-    "skywars:duos/coral_reef",
-    "skywars:duos/solar_system",
-    "skywars:duos/hive",
-    "skywars:duos/woodland",
-    "skywars:duos/tinytater",
-    "skywars:duos/baba"
+    "skywars:duo/baba",
+    "skywars:duo/cauldron",
+    "skywars:duo/coral_reef",
+    "skywars:duo/crimson",
+    "skywars:duo/cube",
+    "skywars:duo/gifts",
+    "skywars:duo/hive",
+    "skywars:duo/platforms",
+    "skywars:duo/potofgold",
+    "skywars:duo/pots",
+    "skywars:duo/shroomlight",
+    "skywars:duo/solar_system",
+    "skywars:duo/split",
+    "skywars:duo/tinytater",
+    "skywars:duo/waterfall",
+    "skywars:duo/woodland"
   ],
   "name": {
     "translate": "game.nucleoid.skywars.duos"

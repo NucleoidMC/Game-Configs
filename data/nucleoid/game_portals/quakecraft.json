@@ -1,6 +1,9 @@
 {
-  "type": "plasmid:on_demand",
-  "game": "nucleoid:quakecraft/random",
+  "type": "plasmid:menu",
+  "games": [
+    "nucleoid:quakecraft/random",
+    "nucleoid:quakecraft/ctf"
+  ],
   "name": {
     "translate": "gameType.quakecraft.quakecraft"
   },

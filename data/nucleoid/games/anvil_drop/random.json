@@ -1,0 +1,13 @@
+{
+  "type": "plasmid:random",
+  "games": [
+    "anvildrop:small_anvil_drop",
+    "anvildrop:small_breaking_anvil_drop",
+    "anvildrop:standard_anvil_drop",
+    "anvildrop:standard_breaking_anvil_drop"
+  ],
+  "name": {
+    "translate": "game.nucleoid.random"
+  },
+  "icon": "chipped_anvil"
+}

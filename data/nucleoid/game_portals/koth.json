@@ -4,9 +4,6 @@
 	"nucleoid:koth/classic",
     "nucleoid:koth/deathmatch",
     "nucleoid:koth/knockoff",
-    "nucleoid:koth/ice",
-	"nucleoid:koth/cotton_candy",
-    "nucleoid:koth/stack",
     "nucleoid:koth/random"
   ],
   "name": {

@@ -2,7 +2,8 @@
   "type": "plasmid:menu",
   "games": [
     "cornmaze:standard_corn_maze",
-    "nucleoid:cornmaze/small"
+    "nucleoid:cornmaze/small",
+    "nucleoid:cornmaze/random"
   ],
   "name": {
     "translate": "gameType.cornmaze.cornmaze"

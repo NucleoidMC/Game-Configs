@@ -1,8 +1,0 @@
-{
-  "type": "plasmid:random",
-  "games": [
-    "koth:ice",
-    "koth:ice_knockoff"
-  ],
-  "icon": "minecraft:packed_ice"
-}

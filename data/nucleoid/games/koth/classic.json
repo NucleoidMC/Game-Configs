@@ -1,12 +1,19 @@
 {
   "type": "plasmid:random",
   "games": [
-    "nucleoid:koth/cotton_candy",
-    "nucleoid:koth/stack",
+    "nucleoid:koth/map_groups/cotton_candy",
+    "nucleoid:koth/map_groups/stack",
+    "koth:blommor",
     "koth:buttons",
-	"koth:skyland",
+    "koth:castle",
+    "koth:cube",
+    "koth:dark_hills",
 	"koth:dynasty",
-    "koth:monolith"
+	"koth:hill_fort",
+    "koth:monolith",
+	"koth:pyramid",
+	"koth:skyland",
+	"koth:swamp",
   ],
   "icon": "minecraft:debug_stick"
 }

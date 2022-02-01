@@ -1,17 +1,24 @@
 {
   "type": "plasmid:random",
   "games": [
-    "nucleoid:shardthief/mud_shard_thief",
     "shardthief:beacon_tower_shard_thief",
+    "shardthief:birthday_cake_shard_thief",
     "shardthief:block_fort_shard_thief",
     "shardthief:boiling_bastion_shard_thief",
     "shardthief:dense_forest_shard_thief",
+    "shardthief:genesis_shard_thief",
+    "shardthief:geode_shard_thief",
     "shardthief:hill_fort_shard_thief",
     "shardthief:ice_fort_shard_thief",
     "shardthief:jungle_temple_shard_thief",
+    "shardthief:mesa_mineshaft_shard_thief",
+    "shardthief:mining_operation_shard_thief",
     "shardthief:modular_fortress_shard_thief",
+    "shardthief:mountain_fossil_shard_thief",
     "shardthief:oasis_shard_thief",
-    "shardthief:stronghold_library_shard_thief"
+    "shardthief:school_supplies_shard_thief",
+    "shardthief:stronghold_library_shard_thief",
+    "shardthief:weathered_wave_shard_thief"
   ],
   "name": {
     "translate": "gameType.shardthief.shardthief"

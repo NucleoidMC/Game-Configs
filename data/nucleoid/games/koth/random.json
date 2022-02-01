@@ -1,9 +1,9 @@
 {
   "type": "plasmid:random",
   "games": [
-    "nucleoid:koth/ice",
+    "nucleoid:koth/classic",
     "nucleoid:koth/deathmatch",
-    "nucleoid:koth/classic"
+    "nucleoid:koth/knockoff"
   ],
   "name": {
     "translate": "game.nucleoid.random"
