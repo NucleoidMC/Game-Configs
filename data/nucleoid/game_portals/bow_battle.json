@@ -2,6 +2,6 @@
   "type": "plasmid:on_demand",
   "game": "nucleoid:bow_battle/random",
   "name": {
-    "translate": "gameType.bowbattle.bow_battle"
+    "translate": "gameType.bowbattle.bowbattle"
   }
 }

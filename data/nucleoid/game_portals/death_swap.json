@@ -2,6 +2,6 @@
   "type": "plasmid:on_demand",
   "game": "nucleoid:death_swap/random",
   "name": {
-    "translate": "gameType.death_swap.death_swap"
+    "translate": "gameType.deathswap.death_swap"
   }
 }
