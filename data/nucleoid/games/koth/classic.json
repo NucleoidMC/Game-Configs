@@ -8,12 +8,12 @@
     "koth:castle",
     "koth:cube",
     "koth:dark_hills",
-	"koth:dynasty",
-	"koth:hill_fort",
+    "koth:dynasty",
+    "koth:hill_fort",
     "koth:monolith",
-	"koth:pyramid",
-	"koth:skyland",
-	"koth:swamp",
+    "koth:pyramid",
+    "koth:skyland",
+    "koth:swamp"
   ],
   "icon": "minecraft:debug_stick"
 }

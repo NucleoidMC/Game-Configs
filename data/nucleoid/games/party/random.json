@@ -13,8 +13,8 @@
     "cabinfever:standard_cabin_fever",
     "downpour:standard_downpour",
     "electricfloor:standard_electric_floor",
-    "elytron:standard_elytron",,
-    "mineout:standard"
+    "elytron:standard_elytron",
+    "mineout:standard",
     "territorybattle:standard_territory_battle"
   ],
   "name": {
