@@ -7,7 +7,7 @@
     "beaconbreakers:amplified_beacon_breakers_tiny"
   ],
   "name": {
-    "translate": "gameType.besconbreakers.beacon_breakers"
+    "translate": "gameType.beaconbreakers.beacon_breakers"
   },
   "icon": "minecraft:beacon"
 }
