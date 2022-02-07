@@ -1,9 +1,12 @@
 {
   "game.cursed.cursed": "Cursed Games",
+  
   "game.cursed.ascension": "Cursed Ascension",
   "game.cursed.ascension.hyperthin": "Hyperthin Ascension",
+  
   "game.cursed.cavern_crawlers": "Cursed Cavern Crawler",
   "game.cursed.cavern_crawlers.geode": "Geode Crawler",
+  
   "game.cursed.color_swap": "Cursed Color Swap",
   "game.cursed.color_swap.omega": "Omega Color Swap",
   "game.cursed.color_swap.slabswap": "Slab Swap",
@@ -11,23 +14,27 @@
   "game.cursed.color_swap.slabswap_small": "Small Slab Swap",
   "game.cursed.color_swap.stairswap_big": "Big Stair Swap",
   "game.cursed.color_swap.quick": "Quick Swap",
+  
   "game.cursed.corn_maze": "Cursed Corn Maze",
   "game.cursed.corn_maze.crunchy": "Crunchy Corn Maze",
   "game.cursed.corn_maze.omega": "Omega Corn Maze",
   "game.cursed.corn_maze.stretch_parkour": "Stretch Parkour Maze",
   "game.cursed.corn_maze.omega_parkour": "Omega Parkour Maze",
+  
   "game.cursed.creative_party": "Cursed Creative Party",
   "game.cursed.creative_party.tnt": "TNT Party",
   "game.cursed.creative_party.void": "Void Party",
+  
   "game.cursed.shard_thief": "Cursed Shard Thief",
   "game.cursed.shard_thief.genesis_remix": "Shard Thief - Genesis Remix",
+  
   "game.cursed.spleef": "Cursed Spleef",
   "game.cursed.spleef.omega": "Omega Spleef",
   "game.cursed.spleef.omega_bleef": "Omega Bleef",
   "game.cursed.spleef.omega_ender": "Omega Ender Spleef",
   "game.cursed.spleef.ring": "Ring Spleef",
-  "game.cursed.spleef.sierpinski_carpet": "Sierpinski Carpet Spleef",
   "game.cursed.spleef.trapdoor": "Trapdoor Spleef",
+  
   "game.cursed.territory_battle": "Cursed Territory Battle",
   "game.cursed.territory_battle.coral": "Coral Battle",
   "game.cursed.territory_battle.slab": "Slab Battle"
