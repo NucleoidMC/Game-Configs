@@ -2,30 +2,23 @@
   "type": "spleef:spleef",
   "map": {
     "shape": {
-      "type": "spleef:pattern",
-      "tiles": [
-        "xxxxxxxxxx",
-        "x        x",
-        "x        x",
-        "x  x  x  x",
-        "x        x",
-        "x        x",
-        "x  x  x  x",
-        "x   xx   x",
-        "x        x",
-        "x        x",
-        "xxxxxxxxxx"
-      ],
-      "tile_size": 4
+      "type": "spleef:circle",
+      "radius": 128
+    },
+    "levels": 4,
+    "level_height": 4,
+    "floor_provider": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "minecraft:snow_block"
+      }
     },
     "wall_provider": {
       "type": "minecraft:simple_state_provider",
       "state": {
         "Name": "minecraft:obsidian"
       }
-    },
-    "levels": 4,
-    "level_height": 5
+    }
   },
   "players": {
     "min": 1,
@@ -61,5 +54,5 @@
   },
   "level_break_interval": 400,
   "unstable_tnt": false,
-  "icon": "nucleoid_extras:irritater"
+  "icon": "minecraft:snow_block"
 }

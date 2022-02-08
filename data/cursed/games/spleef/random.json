@@ -5,10 +5,11 @@
     "cursed:spleef/omega_bleef",
     "cursed:spleef/omega_ender",
     "cursed:spleef/ring",
-    "cursed:spleef/trapdoor"
+    "cursed:spleef/trapdoor",
+    "cursed:spleef/true_checkerboard"
   ],
   "name": {
     "translate": "game.cursed.spleef"
   },
-  "icon": "wooden_shovel"
+  "icon": "minecraft:wooden_shovel"
 }

@@ -4,17 +4,22 @@
     "shape": {
       "type": "spleef:pattern",
       "tiles": [
-        "xxxxxxxxxx",
-        "x        x",
-        "x        x",
-        "x  x  x  x",
-        "x        x",
-        "x        x",
-        "x  x  x  x",
-        "x   xx   x",
-        "x        x",
-        "x        x",
-        "xxxxxxxxxx"
+        "xxxxxxxxxxxxxxxx",
+        "xx x x x x x x x",
+        "x x x x x x x xx",
+        "xx x x x x x x x",
+        "x x x x x x x xx",
+        "xx x x x x x x x",
+        "x x x x x x x xx",
+        "xx x x x x x x x",
+        "x x x x x x x xx",
+        "xx x x x x x x x",
+        "x x x x x x x xx",
+        "xx x x x x x x x",
+        "x x x x x x x xx",
+        "xx x x x x x x x",
+        "x x x x x x x xx",
+        "xxxxxxxxxxxxxxxxx"
       ],
       "tile_size": 4
     },
@@ -24,13 +29,14 @@
         "Name": "minecraft:obsidian"
       }
     },
+    "ceiling_provider": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "minecraft:air"
+      }
+    },
     "levels": 4,
     "level_height": 5
-  },
-  "players": {
-    "min": 1,
-    "max": 100,
-    "threshold": 2
   },
   "projectile": {
     "restock_interval": 1,
@@ -61,5 +67,10 @@
   },
   "level_break_interval": 400,
   "unstable_tnt": false,
-  "icon": "nucleoid_extras:irritater"
+  "players": {
+    "min": 1,
+    "max": 100,
+    "threshold": 2
+  },
+  "icon": "minecraft:black_concrete"
 }

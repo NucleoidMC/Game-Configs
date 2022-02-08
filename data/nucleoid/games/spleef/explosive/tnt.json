@@ -4,19 +4,24 @@
     "shape": {
       "type": "spleef:pattern",
       "tiles": [
-        "xxxxxxxxxx",
-        "x        x",
-        "x        x",
-        "x  x  x  x",
-        "x        x",
-        "x        x",
-        "x  x  x  x",
-        "x   xx   x",
-        "x        x",
-        "x        x",
-        "xxxxxxxxxx"
+        "xxxxxxxxxxxxxxxx",
+        "x              x",
+        "x              x",
+        "x              x",
+        "x              x",
+        "x              x",
+        "x xxx x  x xxx x",
+        "x  x  xx x  x  x",
+        "x  x  x xx  x  x",
+        "x  x  x  x  x  x",
+        "x              x",
+        "x              x",
+        "x              x",
+        "x              x",
+        "x              x",
+        "xxxxxxxxxxxxxxxx"
       ],
-      "tile_size": 4
+      "tile_size": 2
     },
     "wall_provider": {
       "type": "minecraft:simple_state_provider",
@@ -61,5 +66,5 @@
   },
   "level_break_interval": 400,
   "unstable_tnt": false,
-  "icon": "nucleoid_extras:irritater"
+  "icon": "minecraft:tnt"
 }

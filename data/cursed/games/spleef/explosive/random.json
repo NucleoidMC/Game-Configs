@@ -1,0 +1,13 @@
+{
+  "type": "plasmid:random",
+  "games": [
+    "cursed:spleef/explosive/omega",
+    "cursed:spleef/explosive/ring",
+    "cursed:spleef/explosive/trapdoor",
+    "cursed:spleef/explosive/true_checkerboard"
+  ],
+  "name": {
+    "translate": "game.cursed.spleef.explosive"
+  },
+  "icon": "minecraft:creeper_head"
+}

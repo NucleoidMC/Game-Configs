@@ -1,6 +1,7 @@
 {
   "type": "plasmid:random",
   "games": [
+    "nucleoid:spleef/run/corridors",
     "nucleoid:spleef/run/tnt_run",
     "nucleoid:spleef/run/tntater",
     "nucleoid:spleef/run/snowfall"

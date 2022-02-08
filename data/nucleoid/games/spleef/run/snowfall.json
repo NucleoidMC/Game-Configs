@@ -7,7 +7,7 @@
       "radius": 16
     },
     "levels": 8,
-    "level_height": 8
+    "level_height": 4
   },
   "players": {
     "min": 1,

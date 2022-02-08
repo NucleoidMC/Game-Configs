@@ -43,6 +43,10 @@
       ]
     }
   },
-  "unstable_tnt": true,
+  "lava_rise": {
+    "ticks_per_level": 60,
+    "maximum_height": 10
+  },
+  "unstable_tnt": false,
   "icon": "tnt"
 }

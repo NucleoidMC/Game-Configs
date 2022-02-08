@@ -3,9 +3,9 @@
   "games": [
     "nucleoid:spleef/explosive/donut",
     "nucleoid:spleef/explosive/fast",
-    "nucleoid:spleef/explosive/original_tater",
     "nucleoid:spleef/explosive/tall",
-    "nucleoid:spleef/explosive/tater"
+    "nucleoid:spleef/explosive/tater",
+    "nucleoid:spleef/explosive/tnt"
   ],
   "name": {
     "translate": "game.nucleoid.spleef.explosive"
