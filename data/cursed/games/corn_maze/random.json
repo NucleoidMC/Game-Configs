@@ -1,8 +1,10 @@
 {
   "type": "plasmid:random",
   "games": [
+    "cursed:corn_maze/crunchy",
     "cursed:corn_maze/omega",
-    "cursed:corn_maze/crunchy"
+    "cursed:corn_maze/omega_parkour",
+    "cursed:corn_maze/stretch_parkour"
   ],
   "name": {
     "translate": "game.cursed.corn_maze"

@@ -3,10 +3,9 @@
   "games": [
     "cursed:ascension/random",
     "cursed:color_swap/random",
-    "cursed:spleef/random",
     "cursed:corn_maze/random",
     "cursed:shard_thief/random",
-    "cursed:cavern_crawlers/random",
+    "cursed:spleef/random",
     "cursed:territory_battle/random"
   ],
   "name": {
