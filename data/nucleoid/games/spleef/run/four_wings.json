@@ -1,0 +1,72 @@
+{
+  "type": "spleef:spleef",
+  "decay": 2,
+  "map": {
+    "shape": {
+      "type": "spleef:pattern",
+      "tiles": [
+        "              xxxx              ",
+        "            xxxxxxxx            ",
+        "            xx    xx            ",
+        "           xx      xx           ",
+        "           xx      xx           ",
+        "           xx      xx           ",
+        "           xx      xx           ",
+        "            xxx  xxx            ",
+        "           xxxx  xxxx           ",
+        "          xxxx    xxxx          ",
+        "         xxx        xxx         ",
+        "   xxxx xxx          xxx xxxx   ",
+        " xxxxxxxxx            xxxxxxxxx ",
+        " xx    xxx            xxx    xx ",
+        "xx     xx              xx     xx",
+        "xx                            xx",
+        "xx                            xx",
+        "xx     xx              xx     xx",
+        " xx    xxx            xxx    xx ",
+        " xxxxxxxxx            xxxxxxxxx ",
+        "   xxxx xxx          xxx xxxx   ",
+        "         xxx        xxx         ",
+        "          xxxx    xxxx          ",
+        "           xxxx  xxxx           ",
+        "            xxx  xxx            ",
+        "           xx      xx           ",
+        "           xx      xx           ",
+        "           xx      xx           ",
+        "           xx      xx           ",
+        "            xx    xx            ",
+        "            xxxxxxxx            ",
+        "              xxxx              "
+      ],
+      "tile_size": 2
+    },
+    "wall_provider": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "minecraft:stone_bricks"
+      }
+    },
+    "floor_provider": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "minecraft:tnt",
+        "Properties": {
+          "unstable": "false"
+        }
+      }
+    },
+    "levels": 5,
+    "level_height": 10
+  },
+  "players": {
+    "min": 1,
+    "max": 100,
+    "threshold": 2
+  },
+  "level_break_interval": 1200,
+  "tool": {
+    "id": "minecraft:air",
+    "Count": 1
+  },
+  "icon": "minecraft:feather"
+}

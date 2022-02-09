@@ -48,7 +48,8 @@
   "game.nucleoid.spleef.tower": "Tower Spleef",
   
   "game.nucleoid.spleef.run": "Spleef: Run!",
-  "game.nucleoid.spleef.run.corridors": "Corridor Spleef",
+  "game.nucleoid.spleef.run.corridors": "Corridor Run",
+  "game.nucleoid.spleef.run.four_wings": "Four Wings Run",
   "game.nucleoid.spleef.run.snowfall": "Snowfall Spleef",
   "game.nucleoid.spleef.run.tnt_run": "TNT Run",
   "game.nucleoid.spleef.run.tntater": "TNTater Run",
