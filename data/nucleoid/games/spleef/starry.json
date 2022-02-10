@@ -1,0 +1,83 @@
+{
+  "type": "spleef:spleef",
+  "map": {
+    "shape": {
+      "type": "spleef:pattern",
+      "tiles": [
+        "             xx             ",
+		"             xx             ",
+		"             xx             ",
+		"            xxxx            ",
+		"            x  x            ",
+		"            x  x            ",
+		"           xx  xx           ",
+		"           x    x           ",
+		"          xx    xx          ",
+		"          x      x          ",
+		"xxxxxxxxxxx      xxxxxxxxxxx",
+		" xx                      xx ",
+		"  xx                    xx  ",
+		"   xx                  xx   ",
+		"    xx                xx    ",
+		"     xx              xx     ",
+		"      xx            xx      ",
+		"       xx          xx       ",
+		"        x          x        ",
+		"       xx          xx       ",
+		"       x            x       ",
+		"       x            x       ",
+		"      xx    xxxx    xx      ",
+		"      x    xx  xx    x      ",
+		"     xx   xx    xx   xx     ",
+		"     x  xxx      xxx  x     ",
+		"     x xx          xx x     ",
+		"     xxx            xxx     "
+      ],
+      "tile_size": 2
+    },
+    "wall_provider": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "minecraft:black_concrete"
+      }
+    },
+    "floor_provider": {
+      "type": "minecraft:weighted_state_provider",
+      "name": "minecraft:weighted_state_provider",
+      "entries": [
+        {
+          "weight": 9,
+          "data": {
+            "Name": "minecraft:black_wool"
+          }
+        },
+        {
+          "weight": 1,
+          "data": {
+            "Name": "minecraft:yellow_wool"
+          }
+        }
+      ]
+    },
+    "levels": 4,
+    "level_height": 5
+  },
+  "players": {
+    "min": 1,
+    "max": 100,
+    "threshold": 2
+  },
+  "tool": {
+    "id": "minecraft:shears",
+    "Count": 1,
+    "tag": {
+      "Enchantments": [
+        {
+          "id": "minecraft:efficiency",
+          "lvl": 100
+        }
+      ]
+    }
+  },
+  "icon": "minecraft:nether_star"
+}

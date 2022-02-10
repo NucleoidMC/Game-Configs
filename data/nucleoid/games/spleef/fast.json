@@ -3,16 +3,16 @@
   "map": {
     "shape": {
       "type": "spleef:circle",
-      "radius": 5
+      "radius": 8
     },
-    "levels": 30,
+    "levels": 32,
     "level_height": 4
   },
-  "level_break_interval": 60,
+  "level_break_interval": 64,
   "players": {
     "min": 1,
     "max": 100,
     "threshold": 2
   },
-  "icon": "netherite_shovel"
+  "icon": "minecraft:sugar"
 }

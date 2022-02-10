@@ -13,8 +13,9 @@
     "nucleoid:spleef/frosty_frontiers",
     "nucleoid:spleef/leaf",
     "nucleoid:spleef/sierpinski",
-    "nucleoid:spleef/slime",
     "nucleoid:spleef/splegg",
+    "nucleoid:spleef/springy",
+    "nucleoid:spleef/starry",
     "nucleoid:spleef/sticky_situation",
     "nucleoid:spleef/tater",
     "nucleoid:spleef/tower"
@@ -22,5 +23,5 @@
   "name": {
     "translate": "gameType.spleef.spleef"
   },
-  "icon": "diamond_shovel"
+  "icon": "minecraft:diamond_shovel"
 }
