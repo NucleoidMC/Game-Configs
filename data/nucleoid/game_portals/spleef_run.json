@@ -1,6 +1,14 @@
 {
-  "type": "plasmid:on_demand",
-  "game": "nucleoid:spleef/run/random",
+  "type": "plasmid:menu",
+  "games": [
+    "nucleoid:spleef/run/random",
+	
+    "nucleoid:spleef/run/corridors",
+    "nucleoid:spleef/run/four_wings",
+    "nucleoid:spleef/run/snowfall",
+    "nucleoid:spleef/run/tnt_run",
+    "nucleoid:spleef/run/tntater"
+  ],
   "name": {
     "translate": "game.nucleoid.spleef.run"
   }

@@ -1,6 +1,8 @@
 {
-  "type": "plasmid:random",
+  "type": "plasmid:menu",
   "games": [
+    "nucleoid:spleef/explosive/random",
+	
     "nucleoid:spleef/explosive/donut",
     "nucleoid:spleef/explosive/fast",
     "nucleoid:spleef/explosive/tall",
@@ -8,7 +10,6 @@
     "nucleoid:spleef/explosive/tnt"
   ],
   "name": {
-    "translate": "game.nucleoid.random"
-  },
-  "icon": "minecraft:netherite_shovel"
+    "translate": "game.nucleoid.spleef.run"
+  }
 }

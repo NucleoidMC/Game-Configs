@@ -21,7 +21,7 @@
     "nucleoid:spleef/tower"
   ],
   "name": {
-    "translate": "gameType.spleef.spleef"
+    "translate": "game.nucleoid.random"
   },
   "icon": "minecraft:diamond_shovel"
 }

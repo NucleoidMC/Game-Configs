@@ -1,6 +1,27 @@
 {
-  "type": "plasmid:on_demand",
-  "game": "nucleoid:spleef/random",
+  "type": "plasmid:menu",
+  "games": [
+    "nucleoid:spleef/random",
+	
+    "spleef:standard",
+    "spleef:standard_projectile",
+    "nucleoid:spleef/amelia",
+    "nucleoid:spleef/big_tater",
+    "nucleoid:spleef/bleef",
+    "nucleoid:spleef/donut",
+    "nucleoid:spleef/ender",
+    "nucleoid:spleef/fast",
+    "nucleoid:spleef/frostburn",
+    "nucleoid:spleef/frosty_frontiers",
+    "nucleoid:spleef/leaf",
+    "nucleoid:spleef/sierpinski",
+    "nucleoid:spleef/splegg",
+    "nucleoid:spleef/springy",
+    "nucleoid:spleef/starry",
+    "nucleoid:spleef/sticky_situation",
+    "nucleoid:spleef/tater",
+    "nucleoid:spleef/tower"
+  ],
   "name": {
     "translate": "gameType.spleef.spleef"
   }
