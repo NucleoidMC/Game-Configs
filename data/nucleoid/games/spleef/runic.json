@@ -1,0 +1,60 @@
+{
+  "type": "spleef:spleef",
+  "map": {
+    "shape": {
+      "type": "spleef:pattern",
+      "tiles": [
+		"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+		"x                                                   x",
+		"x                                                   x",
+		"x  x  x          x      x   x  xxxx   x      xxxxx  x",
+		"x  x  x          x x    x         x   x             x",
+		"x     x    x x   x      x         x   x      xx     x",
+		"x    x           x      x        x             x    x",
+		"x    x    xxxxx  x      x        x    x         xx  x",
+		"x   x            x x    x       x     x             x",
+		"x  x             x      xxxxx  x      x             x",
+		"x                                                   x",
+		"x                                                   x",
+		"x                                                   x",
+		"x  x      x             x      xxxx   xxxx   x      x",
+		"x  x      x                       x      x   x x    x",
+		"x  x      x             x         x      x   x      x",
+		"x         xx            x        x      x    x      x",
+		"x  x       x            xx       x      x    x      x",
+		"x  x       x             x      x      x     x x    x",
+		"x  x       x             x     x      x      x      x",
+		"x                                                   x",
+		"x                                                   x",
+		"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      ],
+      "tile_size": 2
+    },
+    "wall_provider": {
+      "type": "minecraft:weighted_state_provider",
+      "name": "minecraft:weighted_state_provider",
+      "entries": [
+        {
+          "weight": 2,
+          "data": {
+            "Name": "minecraft:obsidian"
+          }
+        },
+        {
+          "weight": 1,
+          "data": {
+            "Name": "minecraft:crying_obsidian"
+          }
+        }
+      ]
+    },
+    "levels": 4,
+    "level_height": 5
+  },
+  "players": {
+    "min": 1,
+    "max": 100,
+    "threshold": 2
+  },
+  "icon": "minecraft:enchanting_table"
+}
