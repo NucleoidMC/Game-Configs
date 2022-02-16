@@ -21,7 +21,7 @@
     "shardthief:weathered_wave_shard_thief"
   ],
   "name": {
-    "translate": "gameType.shardthief.shardthief"
+    "translate": "game.nucleoid.random"
   },
   "icon": "prismarine_shard"
 }
