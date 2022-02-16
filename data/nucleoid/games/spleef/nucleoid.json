@@ -1,0 +1,115 @@
+{
+  "type": "spleef:spleef",
+  "map": {
+    "shape": {
+      "type": "spleef:pattern",
+      "tiles": [
+        "             xxxxxxxxxxx                          ",
+        "           xxx         xxx                        ",
+        "         xxx             x                        ",
+        "        xx              xx                        ",
+        "       xx             xxx                         ",
+        "       x            xxx                           ",
+        "       x          xxx          xxxxxxxxxxx        ",
+        "       x         xx            x         x        ",
+        "      xx        xx             x         x        ",
+        "      x         x              x         x        ",
+        "      x         x              x         x        ",
+        "      x         xxx            x         x        ",
+        "      x           xx           x         x        ",
+        "      x            xxx         x         xxxxxx   ",
+        "      x              xx        x              xx  ",
+        "      x               xx       x               x  ",
+        "   xxxx                xx      x               x  ",
+        "  xx                    xx     x              xx  ",
+        "  x                      xx    x         xxxxxx   ",
+        "  x                       xx   x         x        ",
+        "  xx                       x   x         x        ",
+        "   xxxx                    xx  x         x        ",
+        "      x                     x xx         x        ",
+        "      x                     xxxx         x        ",
+        "      x                      xx          xxxxxxx  ",
+        "      x                                        xx ",
+        "      x         x                               x ",
+        " xxxxxx         xx                              x ",
+        "xx              xx                             xx ",
+        "x               xxx                      xxxxxxx  ",
+        "x               x xx                     x        ",
+        "xx              x  xx                    x        ",
+        " xxxxxx         x   x                    x        ",
+        "      x         x   xx                   x        ",
+        "   xxxx         x    x                   x        ",
+        "  xx            x    xx                  x        ",
+        "  x             x     xx                 x        ",
+        "  x             x      xx                x        ",
+        "  xx            x       xx               x        ",
+        "   xxxx         x        xxx             xxxxxxxx ",
+        "      x         x          xxxx                 xx",
+        "      x         x             xx                 x",
+        "      x         x              x                 x",
+        "      x         x              x                xx",
+        "      x         x              x         xxxxxxxx ",
+        "      x         x              x         xxxxx    ",
+        "      x         x              x             xx   ",
+        "      x         x              x              x   ",
+        "      x         x              x              x   ",
+        "      x         x              x             xx   ",
+        "      x         x              x         xxxxx    ",
+        "      xx       xx             xx         x        ",
+        "       xxxxxxxxx             xx          x        ",
+        "                           xxx           x        ",
+        "                         xxx            xx        ",
+        "                      xxxx             xx         ",
+        "                     xx               xx          ",
+        "                      xx            xxx           ",
+        "                       xx         xxx             ",
+        "                        xxxxxxxxxxx               "
+      ],
+      "tile_size": 2
+    },
+    "wall_provider": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "minecraft:black_concrete"
+      }
+    },
+    "floor_provider": {
+      "type": "minecraft:weighted_state_provider",
+      "name": "minecraft:weighted_state_provider",
+      "entries": [
+        {
+          "weight": 14,
+          "data": {
+            "Name": "minecraft:green_wool"
+          }
+        },
+        {
+          "weight": 1,
+          "data": {
+            "Name": "minecraft:lime_wool"
+          }
+        }
+      ]
+    },
+    "levels": 4,
+    "level_height": 5
+  },
+  "players": {
+    "min": 1,
+    "max": 100,
+    "threshold": 2
+  },
+  "tool": {
+    "id": "minecraft:shears",
+    "Count": 1,
+    "tag": {
+      "Enchantments": [
+        {
+          "id": "minecraft:efficiency",
+          "lvl": 100
+        }
+      ]
+    }
+  },
+  "icon": "nucleoid_extras:nucleoid_logo"
+}
