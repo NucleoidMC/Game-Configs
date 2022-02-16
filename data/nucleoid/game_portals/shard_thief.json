@@ -1,6 +1,6 @@
 {
   "type": "plasmid:menu",
-  "games:" [
+  "games": [
     "nucleoid:shardthief/random",
 	
     "shardthief:beacon_tower_shard_thief",
