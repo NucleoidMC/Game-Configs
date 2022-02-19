@@ -1,6 +1,11 @@
 {
-  "type": "plasmid:on_demand",
-  "game": "nucleoid:totem_hunt/random",
+  "type": "plasmid:menu",
+  "games": [
+    "nucleoid:totem_hunt/random",
+	
+	"totemhunt:coral_mall_totem_hunt",
+    "totemhunt:lost_cavern_totem_hunt"
+  ],
   "name": {
     "translate": "gameType.totemhunt.totemhunt"
   }

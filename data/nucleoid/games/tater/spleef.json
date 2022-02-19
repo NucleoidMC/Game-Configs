@@ -2,9 +2,9 @@
   "type": "plasmid:random",
   "games": [
     "nucleoid:spleef/tater",
-    "nucleoid:spleef/mega_tater",
-    "nucleoid:spleef/tntater",
-    "nucleoid:spleef/explosive/legacy_tater"
+    "nucleoid:spleef/big_tater",
+    "nucleoid:spleef/run/tntater",
+    "nucleoid:spleef/explosive/tater"
   ],
   "name": {
     "translate": "game.nucleoid.tater.spleef"
