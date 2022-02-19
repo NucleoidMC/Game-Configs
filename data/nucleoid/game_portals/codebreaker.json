@@ -1,7 +1,7 @@
 {
   "type": "plasmid:menu",
   "games": [
-    "codebreaker:small_codebreaker",
+    "codebreaker:standard_codebreaker",
     "codebreaker:large_codebreaker"
   ],
   "name": {
