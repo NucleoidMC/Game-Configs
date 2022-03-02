@@ -1,0 +1,71 @@
+{
+  "type": "spleef:spleef",
+  "decay": 2,
+  "map": {
+    "shape": {
+      "type": "spleef:circle",
+      "radius": 16
+    },
+    "levels": 4,
+    "level_height": 4,
+    "floor_provider": {
+      "type": "minecraft:weighted_state_provider",
+      "name": "minecraft:weighted_state_provider",
+      "entries": [
+        {
+          "weight": 100000,
+          "data": {
+            "Name": "minecraft:snow"
+          }
+        },
+        {
+          "weight": 1,
+          "data": {
+            "Name": "minecraft:tnt"
+          }
+        }
+      ]
+    },
+    "wall_provider": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "minecraft:obsidian"
+      }
+    }
+  },
+  "players": {
+    "min": 1,
+    "max": 100,
+    "threshold": 2
+  },
+  "projectile": {
+    "restock_interval": 1,
+    "stack": {
+      "id": "minecraft:tnt",
+      "Count": 1,
+      "tag": {
+        "CanPlaceOn": [
+          "minecraft:obsidian",
+          "minecraft:snow_block",
+          "minecraft:tnt"
+        ]
+      }
+    }
+  },
+  "tool": {
+    "id": "minecraft:flint_and_steel",
+    "Count": 1,
+    "tag": {
+      "CanPlaceOn": [
+        "minecraft:tnt"
+      ]
+    }
+  },
+  "lava_rise": {
+    "ticks_per_level": 60,
+    "maximum_height": 10
+  },
+  "level_break_interval": 400,
+  "unstable_tnt": false,
+  "icon": "minecraft:netherite_boots"
+}
