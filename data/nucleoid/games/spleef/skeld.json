@@ -85,6 +85,7 @@
         "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx           x           xxxxxxxxxxxxxxxxxxxx xx xxxxx",
         "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx          xx         xxxxxxxxxxxxxxxxxxxxxx  xxxxxx",
         "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      ],
       "tile_size": 1
     },
     "level_break_interval": 20000000,
