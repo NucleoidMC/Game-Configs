@@ -106,7 +106,7 @@
   "tool": {
     "stack": {
       "id": "minecraft:netherite_pickaxe",
-      "Count": 1
+      "Count": 1,
       "tag": {
         "Enchantments": [
           {
