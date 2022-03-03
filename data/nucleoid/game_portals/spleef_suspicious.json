@@ -1,0 +1,11 @@
+{
+  "type": "plasmid:menu",
+  "games": [
+    "nucleoid:spleef/suspicious/random",
+	
+	"nucleoid:spleef/suspicious/skeld"
+  ],
+  "name": {
+    "translate": "game.nucleoid.spleef.suspicious"
+  }
+}

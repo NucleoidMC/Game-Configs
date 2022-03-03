@@ -1,0 +1,10 @@
+{
+  "type": "plasmid:random",
+  "games": [
+    "nucleoid:spleef/suspicious/skeld"
+  ],
+  "name": {
+    "translate": "game.nucleoid.random"
+  },
+  "icon": "minecraft:diamond_sword"
+}
