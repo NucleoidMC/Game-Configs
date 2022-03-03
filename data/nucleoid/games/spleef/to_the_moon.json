@@ -1,0 +1,99 @@
+{
+  "type": "spleef:spleef",
+  "map": {
+    "shape": {
+      "type": "spleef:pattern",
+      "tiles": [
+        "                                                                ",
+        "                                                                ",
+        "                                                                ",
+        "                                                     xxxxxxx    ",
+        "                                                 xxxxxx   xx    ",
+        "                                             xxxxx        xx    ",
+        "                                          xxxx            xx    ",
+        "                                        xxx              xxx    ",
+        "                                      xxx                xxx    ",
+        "                                    xxx                  xxx    ",
+        "                                  xxx                    xx     ",
+        "                                 xx                      xx     ",
+        "                               xxx                      xxx     ",
+        "                              xx                        xx      ",
+        "                             xx          xxxx           xx      ",
+        "                            xx         xxxxxxxx        xxx      ",
+        "                           xx         xxxxxxxxx        xx       ",
+        "                          xx          xxxx   xxx       xx       ",
+        "                         xx          xxxx    xxx      xxx       ",
+        "                        xx           xxx     xxx      xxx       ",
+        "             xxxxxxxxxxxx            xxx     xxx     xxx        ",
+        "             x                       xxx    xxx      xxx        ",
+        "             x                        xxxxxxxxx     xxx         ",
+        "            xx                        xxxxxxxx      xxx         ",
+        "            x                           xxxx       xxx          ",
+        "           xx                                     xxxx          ",
+        "           x                    xx                xxx           ",
+        "           x                   xxxx              xxx            ",
+        "          xx                  xxx xx            xxxx            ",
+        "          x                  xxxx  x           xxxx             ",
+        "          x                 xx x  xx           xxx              ",
+        "         xx                xx xx  x           xxx               ",
+        "         x                xx xx  xx          xxxx               ",
+        "         x  xxxxxxx      xx xx  xx          xxxx                ",
+        "         xxxxxxxxxxxx   xx xx  xx          xxxx                 ",
+        "         xxxxxxxxxx xx xx xx  xx          xxxx                  ",
+        "              xxx    xxx xx  xx           xxx                   ",
+        "            xxxx     xx xx  xx            xx                    ",
+        "           xxx       x xx  xx             xx                    ",
+        "          xxx        xxx  xx              xx                    ",
+        "        xxx          xx  xx               xx                    ",
+        "       xxxxxxx        xxxxxx              xx                    ",
+        "      xxxxxxxxx        x   xx             xx                    ",
+        "      xxxxxxxxx             x             xx                    ",
+        "     xxxxxxxxxx             xx            xx                    ",
+        "     xxx    xx   xx        xxx            xx                    ",
+        "           xxx  xx     x   xxx            xx                    ",
+        "          xxxxxxxx    xx   xxx            xx                    ",
+        "         xxxxxxxx   xxxx   xxx            xx                    ",
+        "        xxxxxxxxx  xxxxx  xxxx         xxxxx                    ",
+        "       xxxxxxxxxx xxxxxx  xxxx       xxxxxxx                    ",
+        "      xxxxxxxxxxxxxxxxxxxxxxx     xxxxxxx                       ",
+        "      xxxxx   xxxxxxxxxxxxx x  xxxxxxxx                         ",
+        "     xxx     xxxxxxxxxxxxxx xxxxxxxx                            ",
+        "             xxxxxxxx xxxx  xxxxx                               ",
+        "             xxxxxxx xxxxx                                      ",
+        "            xxxxxxx  xxxx                                       ",
+        "            xxxxxx   xxx                                        ",
+        "           xxxxxx    xx                                         ",
+        "           xxxx                                                 ",
+        "           xxx                                                  ",
+        "           x                                                    ",
+        "                                                                ",
+        "                                                                "
+      ],
+      "tile_size": 1
+    },
+    "wall_provider": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "minecraft:red_concrete"
+      }
+    },
+    "floor_provider": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "minecraft:snow"
+      }
+    }
+    "levels": 4,
+    "level_height": 5
+  },
+  "players": {
+    "min": 1,
+    "max": 100,
+    "threshold": 2
+  },
+  "tool": {
+    "id": "minecraft:gold_shovel",
+    "Count": 1
+  },
+  "icon": "minecraft:calcite"
+}

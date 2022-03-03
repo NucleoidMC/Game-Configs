@@ -1,0 +1,107 @@
+{
+  "type": "spleef:spleef",
+  "map": {
+    "shape": {
+      "type": "spleef:pattern",
+      "tiles": [
+        "                           xxxxxxxxxx                           ",
+        "                           xxxxxxxxxx                           ",
+        "                          xx        xx                          ",
+        "                          xx        xx                          ",
+        "                          xx        xx                          ",
+        "                         xx          xx                         ",
+        "            xx           xx          xx           xx            ",
+        "           xxxxx         xx          xx         xxxxx           ",
+        "          xxx xxxx     xxxx          xxxx     xxxx xxx          ",
+        "         xxx    xxxx xxxxx            xxxxx xxxx    xxx         ",
+        "        xxx       xxxxx                  xxxxx       xxx        ",
+        "       xxx          x                      xx         xxx       ",
+        "      xxx                                              xxx      ",
+        "      xxx                                              xxx      ",
+        "       xx                                              xx       ",
+        "       xxx                                            xxx       ",
+        "        xx                                            xx        ",
+        "        xxx                                          xxx        ",
+        "         xx                                          xx         ",
+        "          xx                   xx                   xx          ",
+        "          xx               xxxxxxxxxx               xx          ",
+        "         xx              xxxxxxxxxxxxxx              xx         ",
+        "         xx             xxxxxxxxxxxxxxxx             xx         ",
+        "        xx             xxxxxxxxxxxxxxxxxx             xx        ",
+        "        xx            xxxxxxxxxxxxxxxxxxxx            xx        ",
+        "    xxxxxx           xxxxxxxxxxxxxxxxxxxxxx           xxxxxx    ",
+        " xxxxxxx             xxxxxxxxxxxxxxxxxxxxxx             xxxxxxx ",
+        "xxxx                xxxxxxxxxxxxxxxxxxxxxxxx                xxxx",
+        "xx                  xxxxxxxxxxxxxxxxxxxxxxxx                  xx",
+        "xx                  xxxxxxxxxxxxxxxxxxxxxxxx                  xx",
+        "xx                  xxxxxxxxxxxxxxxxxxxxxxxx                  xx",
+        "xx                 xxxxxxxxxxxxxxxxxxxxxxxxxx                 xx",
+        "xx                 xxxxxxxxxxxxxxxxxxxxxxxxxx                 xx",
+        "xx                  xxxxxxxxxxxxxxxxxxxxxxxx                  xx",
+        "xx                  xxxxxxxxxxxxxxxxxxxxxxxx                  xx",
+        "xxx                 xxxxxxxxxxxxxxxxxxxxxxxx                 xxx",
+        "xxxxxx              xxxxxxxxxxxxxxxxxxxxxxxx              xxxxxx",
+        "  xxxxxxx            xxxxxxxxxxxxxxxxxxxxxx            xxxxxxx  ",
+        "      xxxx           xxxxxxxxxxxxxxxxxxxxxx           xxxx      ",
+        "        xx            xxxxxxxxxxxxxxxxxxxx            xx        ",
+        "        xx             xxxxxxxxxxxxxxxxxx             xx        ",
+        "         xx             xxxxxxxxxxxxxxxx             xx         ",
+        "         xx              xxxxxxxxxxxxxx              xx         ",
+        "          xx               xxxxxxxxxx               xx          ",
+        "         xxx                   xx                    xx         ",
+        "         xx                                          xx         ",
+        "        xx                                            xx        ",
+        "        xx                                            xx        ",
+        "       xx                                              xx       ",
+        "       xx                                              xx       ",
+        "      xx                                                xx      ",
+        "      xxx                                              xxx      ",
+        "       xxx         xx                      xx         xxx       ",
+        "        xxx      xxxxxx                  xxxxxx      xxx        ",
+        "         xxx   xxxx  xxxxx            xxxxx  xxxx   xxx         ",
+        "          xxxxxxxx     xxxx          xxxx     xxxxxxxx          ",
+        "           xxxxx         xx          xx         xxxxx           ",
+        "            xx           xx          xx           xx            ",
+        "                         xx          xx                    x    ",
+        "                          xx        xx                  x       ",
+        "                          xx        xx                      x   ",
+        "                          xx        xx                  x x x   ",
+        "                           xxxxxxxxxx                    x x    ",
+        "                           xxxxxxxxxx                           "
+      ],
+      "tile_size": 1
+    },
+    "wall_provider": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "minecraft:copper_block"
+      }
+    },
+    "floor_provider": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "minecraft:iron_block"
+      }
+    }
+    "levels": 4,
+    "level_height": 5
+  },
+  "players": {
+    "min": 1,
+    "max": 100,
+    "threshold": 2
+  },
+  "tool": {
+    "id": "minecraft:gold_pickaxe",
+    "Count": 1,
+    "tag": {
+      "Enchantments": [
+        {
+          "id": "minecraft:efficiency",
+          "lvl": 100
+        }
+      ]
+    }
+  },
+  "icon": "minecraft:copper_block"
+}

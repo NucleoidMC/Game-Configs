@@ -2,6 +2,7 @@
   "type": "plasmid:random",
   "games": [
     "nucleoid:spleef/run/corridors",
+    "nucleoid:spleef/run/feather_footed",
     "nucleoid:spleef/run/four_wings",
     "nucleoid:spleef/run/snowfall",
     "nucleoid:spleef/run/tnt_run",
