@@ -1,5 +1,6 @@
 {
   "type": "spleef:spleef",
+  "level_break_interval": 1280000,
   "map": {
     "shape": {
       "type": "spleef:pattern",
@@ -340,7 +341,6 @@
       ],
       "tile_size": 1
     },
-    "level_break_interval": 20000000,
     "floor_provider": {
       "type": "minecraft:simple_state_provider",
       "state": {
