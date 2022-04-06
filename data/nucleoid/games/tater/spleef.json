@@ -4,7 +4,8 @@
     "nucleoid:spleef/tater",
     "nucleoid:spleef/big_tater",
     "nucleoid:spleef/run/tntater",
-    "nucleoid:spleef/explosive/tater"
+    "nucleoid:spleef/explosive/tater",
+    "nucleoid:spleef/explosive/endless_tater"
   ],
   "name": {
     "translate": "game.nucleoid.tater.spleef"
