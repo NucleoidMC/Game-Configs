@@ -1,0 +1,12 @@
+{
+  "type": "plasmid:random",
+  "games": [
+    "infiniteparkour:snowcapped_infinite_parkour",
+    "infiniteparkour:stronghold_infinite_parkour",
+    "infiniteparkour:weathered_wave_infinite_parkour"
+  ],
+  "name": {
+    "translate": "gameType.infiniteparkour.infinite_parkour"
+  },
+  "icon": "minecraft:iron_boots"
+}
