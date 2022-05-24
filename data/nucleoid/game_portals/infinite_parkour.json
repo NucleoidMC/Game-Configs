@@ -1,0 +1,7 @@
+{
+  "type": "plasmid:on_demand",
+  "game": "nucleoid:infinite_parkour/random",
+  "name": {
+    "translate": "gameType.infiniteparkour.infinite_parkour"
+  }
+}
