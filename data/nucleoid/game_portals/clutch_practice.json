@@ -1,0 +1,7 @@
+{
+  "type": "plasmid:on_demand",
+  "game": "clutchpractice:clutch_practice",
+  "name": {
+    "translate": "gameType.clutchpractice.clutch_practice"
+  }
+}
