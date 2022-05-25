@@ -1,16 +1,15 @@
 {
   "game.nucleoid.chaotic": "Chaotic",
+  "game.nucleoid.duos": "Duos",
+  "game.nucleoid.eight_teams": "Eight Teams",
   "game.nucleoid.four_teams": "Four Teams",
   "game.nucleoid.random": "Random",
   "game.nucleoid.random_old_combat": "Random (Old Combat)",
+  "game.nucleoid.singles": "Singles",
   "game.nucleoid.standard": "Standard",
   "game.nucleoid.two_teams": "Two Teams",
   
   "game.nucleoid.ascension.cave": "Cave Ascension",
-  
-  "game.nucleoid.bedwars.two_teams": "Bed Wars: Two Teams",
-  "game.nucleoid.bedwars.four_teams": "Bed Wars: Four Teams",
-  "game.nucleoid.bedwars.eight_teams": "Bed Wars: Eight Teams",
 
   "game.nucleoid.creative_party.frosty_frontiers": "Creative Party: Frosty Frontiers!",
   "game.nucleoid.creative_party.magic_powder": "Creative Party: Magic Powder!",

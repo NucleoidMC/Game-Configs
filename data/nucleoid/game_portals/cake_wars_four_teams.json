@@ -1,0 +1,12 @@
+{
+  "type": "plasmid:menu",
+  "games": [
+    "nucleoid:cake_wars/four_teams",
+	
+    "cakewars:laboratory_cake_wars",
+    "cakewars:meow_mountain_cake_wars"
+  ],
+  "name": {
+    "translate": "game.nucleoid.four_teams"
+  }
+}

@@ -1,6 +1,8 @@
 {
-  "type": "plasmid:random",
+  "type": "plasmid:menu",
   "games": [
+    "nucleoid:bedwars/random_four_teams",
+	
     "bedwars:two_teams/aspen_forest",
     "bedwars:two_teams/desert",
     "bedwars:two_teams/forest",
@@ -9,5 +11,7 @@
     "bedwars:two_teams/taiga",
     "bedwars:two_teams/end"
   ],
-  "icon": "minecraft:red_bed"
+  "name": {
+    "translate": "game.nucleoid.two_teams"
+  }
 }

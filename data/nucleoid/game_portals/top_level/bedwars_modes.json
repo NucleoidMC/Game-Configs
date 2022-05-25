@@ -1,0 +1,19 @@
+{
+  "type": "plasmid:advanced_menu",
+  "name": "Spleef",
+  "icon": "minecraft:slimeball",
+  "entries": [
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:bedwars_two_teams"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:bedwars_four_teams"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:bedwars_eight_teams"
+    }
+  ]
+}

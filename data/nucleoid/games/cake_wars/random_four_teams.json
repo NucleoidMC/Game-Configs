@@ -4,5 +4,8 @@
     "cakewars:laboratory_cake_wars",
     "cakewars:meow_mountain_cake_wars"
   ],
+  "name": {
+    "translate": "game.nucleoid.random"
+  },
   "icon": "minecraft:cake"
 }

@@ -1,0 +1,14 @@
+{
+  "type": "plasmid:advanced_menu",
+  "name": "Skywars",
+  "icon": "minecraft:feather",
+  "entries": [
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:skywars_singles"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:skywars_duos"
+    }
+}

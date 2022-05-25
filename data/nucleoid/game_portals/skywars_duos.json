@@ -1,6 +1,8 @@
 {
-  "type": "plasmid:random",
+  "type": "plasmid:menu",
   "games": [
+    "nucleoid:skywars/random_duos",
+	
     "skywars:duo/baba",
     "skywars:duo/cauldron",
     "skywars:duo/coral_reef",
@@ -19,7 +21,6 @@
     "skywars:duo/woodland"
   ],
   "name": {
-    "translate": "game.nucleoid.random"
-  },
-  "icon": "white_wool"
+    "translate": "game.nucleoid.duos"
+  }
 }

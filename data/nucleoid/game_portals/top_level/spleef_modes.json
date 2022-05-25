@@ -1,0 +1,23 @@
+{
+  "type": "plasmid:advanced_menu",
+  "name": "Spleef",
+  "icon": "minecraft:slimeball",
+  "entries": [
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:spleef"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:spleef_explosive"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:spleef_run"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:spleef_suspicious"
+    }
+  ]
+}

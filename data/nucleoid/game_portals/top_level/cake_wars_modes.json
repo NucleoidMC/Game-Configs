@@ -1,0 +1,14 @@
+{
+  "type": "plasmid:advanced_menu",
+  "name": "Cake Wars",
+  "icon": "minecraft:cake",
+  "entries": [
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:cake_wars_two_teams"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:cake_wars_four_teams"
+    }
+}

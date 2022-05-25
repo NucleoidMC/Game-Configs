@@ -1,0 +1,243 @@
+{
+  "type": "plasmid:advanced_menu",
+  "name": "Navigator",
+  "icon": "minecraft:clock",
+  "entries": [
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:anvil_drop"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:ascension"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:beacon_breakers"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:top_level/bedwars_modes"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:bow_battle"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:build_battle"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:cabinfever"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:top_level/cake_wars_modes"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:castle_wars"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:cavern_crawler"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:clutch_bridge"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:clutch_practice"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:codebreaker"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:color_swap"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:cornmaze"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:creative_party"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:creeperfal"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:deacoudre"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:death_swap"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:deathrun"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:destroy_the_monument"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:downpour"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:duels"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:electric_floor"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:elytron"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:farmy_feud"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:fortress"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:infinite_parkour"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:irritater_run"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:koth"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:last_card"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:loopdeloop"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:micro_battle"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:minefield"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:mineout"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:murder_mystery"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:paintball"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:parkour_run"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:party"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:quakecraft"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:rocketspleef"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:sculk_prison"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:shard_thief"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:siege"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:top_level/skywars_modes"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:slime_mould"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:snowball_fight"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:top_level/spleef_modes"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:survival_games"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:tater_games"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:territory_battle"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:the_towers"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:tnttag"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:totem_hunt"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:uhc"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:volleyball"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:wave_defense"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:werewolf"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:withersweeper"
+    }
+  ]
+}

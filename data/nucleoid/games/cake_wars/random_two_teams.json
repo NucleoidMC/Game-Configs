@@ -4,5 +4,8 @@
     "cakewars:beehive_cake_wars",
     "cakewars:skylands_cake_wars"
   ],
+  "name": {
+    "translate": "game.nucleoid.random"
+  },
   "icon": "minecraft:cake"
 }

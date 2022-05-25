@@ -13,5 +13,8 @@
     "bedwars:four_teams/monument",
     "bedwars:four_teams/roadway"
   ],
+  "name": {
+    "translate": "game.nucleoid.random"
+  },
   "icon": "minecraft:blue_bed"
 }

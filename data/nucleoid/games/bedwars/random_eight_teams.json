@@ -3,5 +3,8 @@
   "games": [
     "bedwars:eight_teams/beach"
   ],
+  "name": {
+    "translate": "game.nucleoid.random"
+  },
   "icon": "minecraft:green_bed"
 }
