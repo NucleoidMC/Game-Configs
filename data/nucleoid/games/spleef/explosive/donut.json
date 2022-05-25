@@ -50,8 +50,7 @@
     }
   },
   "lava_rise": {
-    "ticks_per_level": 60,
-    "maximum_height": 10
+    "ticks_per_level": 60
   },
   "unstable_tnt": false,
   "icon": "minecraft:tripwire_hook"
