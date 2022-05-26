@@ -1,7 +1,7 @@
 {
   "type": "plasmid:advanced_menu",
-  "name": "Spleef",
-  "icon": "minecraft:slimeball",
+  "name": "Bed Wars",
+  "icon": "minecraft:red_bed",
   "entries": [
     {
       "type": "plasmid:portal_gui",

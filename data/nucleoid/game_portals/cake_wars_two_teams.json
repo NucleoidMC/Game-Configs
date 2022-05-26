@@ -1,7 +1,7 @@
 {
   "type": "plasmid:menu",
   "games": [
-    "nucleoid:cake_wars/two_teams",
+    "nucleoid:cake_wars/random_two_teams",
 	
     "cakewars:beehive_cake_wars",
     "cakewars:skylands_cake_wars"
