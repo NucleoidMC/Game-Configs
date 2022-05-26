@@ -1,7 +1,7 @@
 {
   "type": "plasmid:advanced_menu",
   "name": "Spleef",
-  "icon": "minecraft:slimeball",
+  "icon": "minecraft:slime_ball",
   "entries": [
     {
       "type": "plasmid:portal_gui",
