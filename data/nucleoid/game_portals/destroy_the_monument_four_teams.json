@@ -1,0 +1,11 @@
+{
+  "type": "plasmid:menu",
+  "games": [
+    "nucleoid:destroy_the_monument/random_four_teams",
+	
+    "destroy_the_monument:forest4"
+  ],
+  "name": {
+    "translate": "game.nucleoid.four_teams"
+  }
+}

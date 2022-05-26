@@ -1,0 +1,16 @@
+{
+  "type": "plasmid:menu",
+  "games": [
+    "nucleoid:destroy_the_monumen/random_two_teams",
+	
+    "destroy_the_monument:cubes",
+    "destroy_the_monument:dimensions",
+    "destroy_the_monument:honey",
+    "destroy_the_monument:kuber",
+    "destroy_the_monument:kupol",
+    "destroy_the_monument:mine"
+  ],
+  "name": {
+    "translate": "game.nucleoid.two_teams"
+  }
+}

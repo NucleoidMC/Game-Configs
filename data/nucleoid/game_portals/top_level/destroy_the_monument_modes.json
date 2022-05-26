@@ -1,0 +1,19 @@
+{
+  "type": "plasmid:advanced_menu",
+  "name": "Destroy The Monument",
+  "icon": "minecraft:chiseled_stone_bricks",
+  "entries": [
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:destroy_the_monument_two_teams"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:destroy_the_monument_four_teams"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:destroy_the_monument_duels"
+    }
+  ]
+}

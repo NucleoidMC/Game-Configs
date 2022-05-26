@@ -1,0 +1,10 @@
+{
+  "type": "plasmid:random",
+  "games": [
+    "destroy_the_monument:kupol_duels"
+  ],
+  "name": {
+    "translate": "game.nucleoid.random"
+  },
+  "icon": "minecraft:chiseled_stone_bricks"
+}

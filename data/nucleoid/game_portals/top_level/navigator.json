@@ -85,7 +85,7 @@
     },
     {
       "type": "plasmid:portal_gui",
-      "portal": "nucleoid:destroy_the_monument"
+      "portal": "nucleoid:top_level/destroy_the_monument_modes"
     },
     {
       "type": "plasmid:portal_gui",

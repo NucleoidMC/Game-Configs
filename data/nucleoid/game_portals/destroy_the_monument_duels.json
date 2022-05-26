@@ -1,0 +1,11 @@
+{
+  "type": "plasmid:menu",
+  "games": [
+    "nucleoid:destroy_the_monumen/random_duels",
+	
+    "destroy_the_monument:kupol_duels"
+  ],
+  "name": {
+    "translate": "game.nucleoid.duels"
+  }
+}
