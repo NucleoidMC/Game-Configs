@@ -1,6 +1,6 @@
 {
   "type": "plasmid:on_demand",
-  "game": "fortress:standard",
+  "game": "fortress:castle",
   "name": {
     "translate": "gameType.fortress.fortress"
   }
