@@ -1,5 +1,6 @@
 {
   "type": "plasmid:menu",
+  "icon": "minecraft:comparator",
   "games": [
     "codebreaker:standard_codebreaker",
     "codebreaker:large_codebreaker"

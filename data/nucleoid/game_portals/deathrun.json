@@ -1,5 +1,6 @@
 {
   "type": "plasmid:menu",
+  "icon": "minecraft:wither_skeleton_skull",
   "games": [
     "deathrun:gardens",
     "deathrun:gardens_runners"

@@ -1,5 +1,6 @@
 {
   "type": "plasmid:menu",
+  "icon": "minecraft:water_bucket",
   "games": [
     "nucleoid:deacoudre/standard",
     "nucleoid:deacoudre/chaotic"

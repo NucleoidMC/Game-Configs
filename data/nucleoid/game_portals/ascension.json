@@ -1,6 +1,12 @@
 {
-  "type": "plasmid:on_demand",
-  "game": "nucleoid:ascension/random",
+  "type": "plasmid:menu",
+  "icon": "minecraft:rabbit_foot",
+  "games": [
+    "nucleoid:ascension/random",
+	
+    "ascension:standard_ascension",
+    "nucleoid:ascension/cave"
+  ],
   "name": {
     "translate": "gameType.ascension.ascension"
   }

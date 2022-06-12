@@ -1,5 +1,9 @@
 {
   "type": "plasmid:menu",
+  "icon": {
+    "id": "minecraft:chiseled_stone_bricks",
+    "Count": 4
+  },
   "games": [
     "nucleoid:destroy_the_monument/random_four_teams",
 	

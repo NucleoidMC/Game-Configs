@@ -7,7 +7,7 @@
     "skywars:single/tinytater"
   ],
   "name": {
-    "translate": "game.nucleoid.tater"
+    "translate": "game.nucleoid.random"
   },
-  "icon": "nucleoid_extras:tiny_potato"
+  "icon": "nucleoid_extras:lucky_tater"
 }

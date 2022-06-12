@@ -1,16 +1,14 @@
 {
   "type": "plasmid:menu",
+  "icon": "minecraft:netherite_axe",
   "games": [
+    "nucleoid:micro_battle/random",
+	
     "microbattle:standard_micro_battle",
     "microbattle:soul_micro_battle",
-    "microbattle:respawner_micro_battle",
-    "nucleoid:micro_battle/random",
-    "microbattle:old_combat_standard_micro_battle",
-    "microbattle:old_combat_soul_micro_battle",
-    "microbattle:old_combat_respawner_micro_battle",
-    "nucleoid:micro_battle/random_old_combat"
+    "microbattle:respawner_micro_battle"
   ],
   "name": {
-    "translate": "gameType.microbattle.micro_battle"
+    "translate": "game.nucleoid.standard"
   }
 }

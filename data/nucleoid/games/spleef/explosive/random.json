@@ -1,6 +1,7 @@
 {
   "type": "plasmid:random",
   "games": [
+    "nucleoid:spleef/explosive/aperture",
     "nucleoid:spleef/explosive/donut",
     "nucleoid:spleef/explosive/endless_tater",
     "nucleoid:spleef/explosive/fast",
@@ -11,5 +12,5 @@
   "name": {
     "translate": "game.nucleoid.random"
   },
-  "icon": "minecraft:netherite_shovel"
+  "icon": "nucleoid_extras:lucky_tater"
 }

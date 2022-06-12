@@ -1,5 +1,6 @@
 {
   "type": "plasmid:on_demand",
+  "icon": "minecraft:coal_block",
   "game": "cabinfever:standard_cabin_fever",
   "name": {
     "translate": "gameType.cabinfever.cabin_fever"

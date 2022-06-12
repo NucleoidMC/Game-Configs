@@ -1,6 +1,8 @@
 {
   "type": "plasmid:advanced_menu",
-  "name": "Destroy The Monument",
+  "name": {
+    "translate": "gameType.destroy_the_monument.destroy_the_monument"
+  },
   "icon": "minecraft:chiseled_stone_bricks",
   "entries": [
     {

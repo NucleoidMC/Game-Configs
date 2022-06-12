@@ -1,6 +1,12 @@
 {
-  "type": "plasmid:on_demand",
-  "game": "nucleoid:bow_battle/random",
+  "type": "plasmid:menu",
+  "icon": "minecraft:bow",
+  "games": [
+    "nucleoid:bow_battle/random",
+	
+    "bowbattle:standard",
+    "bowbattle:nether"
+  ],
   "name": {
     "translate": "gameType.bowbattle.bowbattle"
   }

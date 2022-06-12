@@ -6,7 +6,7 @@
     "infiniteparkour:weathered_wave_infinite_parkour"
   ],
   "name": {
-    "translate": "gameType.infiniteparkour.infinite_parkour"
+    "translate": "game.nucleoid.random"
   },
-  "icon": "minecraft:iron_boots"
+  "icon": "nucleoid_extras:lucky_tater"
 }

@@ -6,5 +6,8 @@
   "name": {
     "translate": "game.nucleoid.uhcrun.duos"
   },
-  "icon": "apple"
+  "icon": {
+    "id": "minecraft:apple",
+    "Count": 2
+  }
 }

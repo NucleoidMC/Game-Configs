@@ -1,5 +1,9 @@
 {
   "type": "plasmid:menu",
+  "icon": {
+    "id": "minecraft:red_bed",
+    "Count": 4
+  },
   "games": [
     "nucleoid:bedwars/random_four_teams",
 	

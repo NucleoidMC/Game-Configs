@@ -1,6 +1,13 @@
 {
   "type": "plasmid:on_demand",
-  "game": "nucleoid:infinite_parkour/random",
+  "icon": "minecraft:slime_ball",
+  "games": [
+    "nucleoid:infinite_parkour/random",
+	
+    "infiniteparkour:snowcapped_infinite_parkour",
+    "infiniteparkour:stronghold_infinite_parkour",
+    "infiniteparkour:weathered_wave_infinite_parkour"
+  ],
   "name": {
     "translate": "gameType.infiniteparkour.infinite_parkour"
   }

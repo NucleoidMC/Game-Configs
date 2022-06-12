@@ -6,7 +6,7 @@
     "microbattle:old_combat_respawner_micro_battle"
   ],
   "name": {
-    "translate": "game.nucleoid.random_old_combat"
+    "translate": "game.nucleoid.random"
   },
-  "icon": "minecraft:diamond_axe"
+  "icon": "nucleoid_extras:lucky_tater"
 }

@@ -6,5 +6,8 @@
   "name": {
     "translate": "game.nucleoid.uhc.trios"
   },
-  "icon": "golden_apple"
+  "icon": {
+    "id": "minecraft:golden_apple",
+    "Count": 3
+  }
 }

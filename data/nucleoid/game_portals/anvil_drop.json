@@ -1,5 +1,6 @@
 {
   "type": "plasmid:menu",
+  "icon": "minecraft:anvil",
   "games": [
     "anvildrop:standard_anvil_drop",
     "anvildrop:standard_breaking_anvil_drop",

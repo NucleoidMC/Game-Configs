@@ -9,7 +9,7 @@
     "quakecraft:monastery"
   ],
   "name": {
-    "translate": "gameType.quakecraft.quakecraft"
+    "translate": "game.nucleoid.random"
   },
-  "icon": "iron_hoe"
+  "icon": "nucleoid_extras:lucky_tater"
 }

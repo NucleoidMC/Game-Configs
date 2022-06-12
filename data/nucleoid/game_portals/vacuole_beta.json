@@ -1,5 +1,6 @@
 {
   "type": "plasmid:on_demand",
+  "icon": "minecraft:glow_ink_sac",
   "game": "nucleoid:vacuole/beta",
   "name": {
     "translate": "gameType.vacuole.vacuole"

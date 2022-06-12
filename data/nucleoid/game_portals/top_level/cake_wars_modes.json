@@ -1,6 +1,8 @@
 {
   "type": "plasmid:advanced_menu",
-  "name": "Cake Wars",
+  "name": {
+    "translate": "gameType.cakewars.cake_wars"
+  },
   "icon": "minecraft:cake",
   "entries": [
     {

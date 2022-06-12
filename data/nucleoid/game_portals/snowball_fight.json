@@ -1,5 +1,6 @@
 {
   "type": "plasmid:on_demand",
+  "icon": "minecraft:snowball",
   "game": "snowballfight:standard_snowball_fight",
   "name": {
     "translate": "gameType.snowballfight.snowball_fight"

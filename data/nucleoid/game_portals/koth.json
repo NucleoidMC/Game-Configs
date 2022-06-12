@@ -1,5 +1,6 @@
 {
   "type": "plasmid:menu",
+  "icon": "minecraft:debug_stick",
   "games": [
 	"nucleoid:koth/classic",
     "nucleoid:koth/deathmatch",

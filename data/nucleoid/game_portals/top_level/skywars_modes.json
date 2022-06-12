@@ -1,6 +1,8 @@
 {
   "type": "plasmid:advanced_menu",
-  "name": "SkyWars",
+  "name": {
+    "translate": "gameType.skywars.skywars"
+  },
   "icon": "minecraft:feather",
   "entries": [
     {

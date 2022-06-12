@@ -1,24 +1,28 @@
 {
   "type": "plasmid:menu",
+  "icon": {
+    "id": "minecraft:feather",
+    "Count": 2
+  },
   "games": [
     "nucleoid:skywars/random_duos",
 	
-    "skywars:duo/baba",
-    "skywars:duo/cauldron",
-    "skywars:duo/coral_reef",
-    "skywars:duo/crimson",
-    "skywars:duo/cube",
-    "skywars:duo/gifts",
-    "skywars:duo/hive",
-    "skywars:duo/platforms",
-    "skywars:duo/potofgold",
-    "skywars:duo/pots",
-    "skywars:duo/shroomlight",
-    "skywars:duo/solar_system",
-    "skywars:duo/split",
-    "skywars:duo/tinytater",
-    "skywars:duo/waterfall",
-    "skywars:duo/woodland"
+    "skywars:duos/baba",
+    "skywars:duos/cauldron",
+    "skywars:duos/coral_reef",
+    "skywars:duos/crimson",
+    "skywars:duos/cube",
+    "skywars:duos/gifts",
+    "skywars:duos/hive",
+    "skywars:duos/platforms",
+    "skywars:duos/potofgold",
+    "skywars:duos/pots",
+    "skywars:duos/shroomlight",
+    "skywars:duos/solar_system",
+    "skywars:duos/split",
+    "skywars:duos/tinytater",
+    "skywars:duos/waterfall",
+    "skywars:duos/woodland"
   ],
   "name": {
     "translate": "game.nucleoid.duos"

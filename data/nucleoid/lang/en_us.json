@@ -3,11 +3,16 @@
   "game.nucleoid.duel": "Duels",
   "game.nucleoid.duos": "Duos",
   "game.nucleoid.eight_teams": "Eight Teams",
+  "game.nucleoid.explosive": "Explosive",
   "game.nucleoid.four_teams": "Four Teams",
+  "game.nucleoid.keep_inventory": "Keep Inventory",
+  "game.nucleoid.old_combat": "Old Combat",
   "game.nucleoid.random": "Random",
-  "game.nucleoid.random_old_combat": "Random (Old Combat)",
+  "game.nucleoid.run": "Run!",
   "game.nucleoid.singles": "Singles",
   "game.nucleoid.standard": "Standard",
+  "game.nucleoid.suspicious": "Suspicious",
+  "game.nucleoid.tiny": "Tiny",
   "game.nucleoid.two_teams": "Two Teams",
   
   "game.nucleoid.ascension.cave": "Cave Ascension",
@@ -30,6 +35,7 @@
   "game.nucleoid.quakecraft.ctm": "Quakecraft: Capture the Flag!",
   
   "game.nucleoid.spleef.amelia": "Spleef: Amelia",
+  "game.nucleoid.spleef.aperture": "Aperture Spleef",
   "game.nucleoid.spleef.big_tater": "Big Tater Spleef",
   "game.nucleoid.spleef.bleef": "Bleef",
   "game.nucleoid.spleef.checkerboard": "Checkerboard Spleef",
@@ -54,6 +60,7 @@
   "game.nucleoid.spleef.tower": "Tower Spleef",
   
   "game.nucleoid.spleef.explosive": "Explosive Spleef",
+  "game.nucleoid.spleef.explosive.aperture": "Explosive Aperture Spleef",
   "game.nucleoid.spleef.explosive.donut": "Explosive Donut Spleef",
   "game.nucleoid.spleef.explosive.endless_tater": "Endless Tatersplosion Spleef!",
   "game.nucleoid.spleef.explosive.fast": "Quick Explosive Spleef",

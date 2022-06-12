@@ -1,5 +1,6 @@
 {
   "type": "plasmid:on_demand",
+  "icon": "minecraft:elytra",
   "game": "elytron:standard_elytron",
   "name": {
     "translate": "gameType.elytron.elytron"

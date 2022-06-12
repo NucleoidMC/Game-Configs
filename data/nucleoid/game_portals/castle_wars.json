@@ -1,5 +1,6 @@
 {
   "type": "plasmid:on_demand",
+  "icon": "minecraft:cobblestone",
   "game": "castle_wars:castlewars_with_pvp",
   "name": {
     "translate": "gameType.castle_wars.castle_wars"

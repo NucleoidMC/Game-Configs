@@ -1,5 +1,9 @@
 {
   "type": "plasmid:menu",
+  "icon": {
+    "id": "minecraft:cracked_stone_bricks",
+    "Count": 2
+  },
   "games": [
     "nucleoid:destroy_the_monumen/random_duels",
 	

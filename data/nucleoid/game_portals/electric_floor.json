@@ -1,5 +1,6 @@
 {
   "type": "plasmid:on_demand",
+  "icon": "minecraft:purple_stained_glass",
   "game": "electricfloor:standard_electric_floor",
   "name": {
     "translate": "gameType.electricfloor.electric_floor"

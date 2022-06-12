@@ -1,5 +1,6 @@
 {
   "type": "plasmid:on_demand",
+  "icon": "minecraft:shears",
   "game": "farmy_feud:standard",
   "name": {
     "translate": "gameType.farmy_feud.farmy_feud"

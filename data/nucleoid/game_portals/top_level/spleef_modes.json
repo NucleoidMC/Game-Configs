@@ -1,7 +1,9 @@
 {
   "type": "plasmid:advanced_menu",
-  "name": "Spleef",
-  "icon": "minecraft:slime_ball",
+  "name": {
+    "translate": "gameType.spleef.spleef"
+  },
+  "icon": "minecraft:diamond_shovel",
   "entries": [
     {
       "type": "plasmid:portal_gui",

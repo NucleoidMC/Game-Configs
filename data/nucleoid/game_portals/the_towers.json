@@ -1,5 +1,6 @@
 {
   "type": "plasmid:menu",
+  "icon": "minecraft:stone_wall",
   "games": [
     "the_towers:classic/two_teams",
     "the_towers:classic/four_teams"

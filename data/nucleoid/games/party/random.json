@@ -18,7 +18,7 @@
     "territorybattle:standard_territory_battle"
   ],
   "name": {
-    "translate": "game.nucleoid.party"
+    "translate": "game.nucleoid.random"
   },
-  "icon": "cake"
+  "icon": "minecraft:candle"
 }

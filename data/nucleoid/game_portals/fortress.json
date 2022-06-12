@@ -1,6 +1,16 @@
 {
   "type": "plasmid:on_demand",
-  "game": "fortress:standard",
+  "icon": "minecraft:oak_planks",
+  "games": [
+    "nucleoid:fortress/random",
+	
+    "fortress:castle",
+    "fortress:chess",
+    "fortress:standard",
+	
+    "fortress:no_recapture",
+    "fortress:rush"
+  ],
   "name": {
     "translate": "gameType.fortress.fortress"
   }

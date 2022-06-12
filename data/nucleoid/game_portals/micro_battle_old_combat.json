@@ -1,0 +1,14 @@
+{
+  "type": "plasmid:menu",
+  "icon": "minecraft:diamond_axe",
+  "games": [
+    "nucleoid:micro_battle/random_old_combat",
+	
+    "microbattle:old_combat_standard_micro_battle",
+    "microbattle:old_combat_soul_micro_battle",
+    "microbattle:old_combat_respawner_micro_battle"
+  ],
+  "name": {
+    "translate": "game.nucleoid.old_combat"
+  }
+}

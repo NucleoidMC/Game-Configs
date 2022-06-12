@@ -1,5 +1,6 @@
 {
   "type": "plasmid:on_demand",
+  "icon": "minecraft:chiseled_quartz_block",
   "game": "volleyball:standard_volleyball",
   "name": {
     "translate": "gameType.volleyball.volleyball"

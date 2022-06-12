@@ -1,5 +1,6 @@
 {
   "type": "plasmid:on_demand",
+  "icon": "minecraft:bone",
   "game": "werewolf:default_werewolf",
   "name": {
     "translate": "gameType.werewolf.werewolf"
