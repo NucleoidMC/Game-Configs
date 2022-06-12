@@ -1,5 +1,5 @@
 {
-  "type": "plasmid:menu,
+  "type": "plasmid:menu",
   "icon": "minecraft:rabbit_foot",
   "games": [
     "nucleoid:ascension/random",
