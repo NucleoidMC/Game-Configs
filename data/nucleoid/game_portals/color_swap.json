@@ -2,9 +2,10 @@
   "type": "plasmid:menu",
   "icon": "minecraft:golden_boots",
   "games": [
+    "nucleoid:color_swap/random",
+	
     "colorswap:standard_color_swap",
-    "colorswap:knockback_color_swap",
-    "nucleoid:color_swap/random"
+    "colorswap:knockback_color_swap"
   ],
   "name": {
     "translate": "gameType.colorswap.color_swap"

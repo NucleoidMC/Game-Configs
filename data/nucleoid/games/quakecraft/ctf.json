@@ -3,5 +3,8 @@
   "games": [
     "quakecraft:ctf_2fort"
   ],
-  "icon": "purple_wool"
+  "name": {
+    "translate": "game.nucleoid.capture_the_flag"
+  },
+  "icon": "minecraft:purple_wool"
 }

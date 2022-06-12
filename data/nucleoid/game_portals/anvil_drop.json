@@ -2,9 +2,10 @@
   "type": "plasmid:menu",
   "icon": "minecraft:anvil",
   "games": [
+    "nucleoid:anvil_drop/random",
+	
     "anvildrop:standard_anvil_drop",
-    "anvildrop:standard_breaking_anvil_drop",
-    "nucleoid:anvil_drop/random"
+    "anvildrop:standard_breaking_anvil_drop"
   ],
   "name": {
     "translate": "gameType.anvildrop.anvildrop"

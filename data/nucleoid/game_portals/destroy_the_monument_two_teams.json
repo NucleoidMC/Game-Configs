@@ -5,7 +5,7 @@
     "Count": 2
   },
   "games": [
-    "nucleoid:destroy_the_monumen/random_two_teams",
+    "nucleoid:destroy_the_monument/random_two_teams",
 	
     "destroy_the_monument:cubes",
     "destroy_the_monument:dimensions",

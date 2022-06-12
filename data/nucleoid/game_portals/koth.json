@@ -2,10 +2,11 @@
   "type": "plasmid:menu",
   "icon": "minecraft:debug_stick",
   "games": [
+    "nucleoid:koth/random",
+	
 	"nucleoid:koth/classic",
     "nucleoid:koth/deathmatch",
-    "nucleoid:koth/knockoff",
-    "nucleoid:koth/random"
+    "nucleoid:koth/knockoff"
   ],
   "name": {
     "translate": "gameType.koth.koth"

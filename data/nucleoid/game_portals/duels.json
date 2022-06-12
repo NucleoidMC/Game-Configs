@@ -1,5 +1,5 @@
 {
-  "type": "plasmid:on_demand",
+  "type": "plasmid:menu",
   "icon": "minecraft:iron_sword",
   "games": [
     "nucleoid:duels/random",

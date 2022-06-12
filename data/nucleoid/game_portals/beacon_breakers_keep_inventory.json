@@ -1,5 +1,5 @@
 {
-  "type": "plasmid:on_demand",
+  "type": "plasmid:menu",
   "icon": {
     "id": "minecraft:beacon",
     "Count": 1,

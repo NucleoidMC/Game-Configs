@@ -1,5 +1,5 @@
 {
-  "type": "plasmid:on_demand",
+  "type": "plasmid:menu",
   "icon": "minecraft:nether_star",
   "games": [ 
     "nucleoid:beacon_breakers/random_tiny",

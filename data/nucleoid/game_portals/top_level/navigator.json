@@ -69,7 +69,7 @@
     },
     {
       "type": "plasmid:portal",
-      "portal": "nucleoid:creeperfal"
+      "portal": "nucleoid:creeperfall"
     },
     {
       "type": "plasmid:portal_gui",

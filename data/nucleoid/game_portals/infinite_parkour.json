@@ -1,5 +1,5 @@
 {
-  "type": "plasmid:on_demand",
+  "type": "plasmid:menu",
   "icon": "minecraft:slime_ball",
   "games": [
     "nucleoid:infinite_parkour/random",

@@ -1,5 +1,5 @@
 {
-  "type": "plasmid:on_demand",
+  "type": "plasmid:menu",
   "icon": "minecraft:oak_planks",
   "games": [
     "nucleoid:fortress/random",
