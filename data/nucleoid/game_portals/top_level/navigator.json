@@ -108,7 +108,7 @@
       "portal": "nucleoid:farmy_feud"
     },
     {
-      "type": "plasmid:portal",
+      "type": "plasmid:portal_gui",
       "portal": "nucleoid:fortress"
     },
     {
