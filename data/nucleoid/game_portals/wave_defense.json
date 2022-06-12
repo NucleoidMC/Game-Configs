@@ -1,5 +1,6 @@
 {
   "type": "plasmid:on_demand",
+  "icon": "minecraft:zombie_head",
   "game": "wavedefense:standard",
   "name": {
     "translate": "gameType.wavedefense.wave_defense"

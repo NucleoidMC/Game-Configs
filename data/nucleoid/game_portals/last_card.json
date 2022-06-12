@@ -1,5 +1,6 @@
 {
   "type": "plasmid:on_demand",
+  "icon": "minecraft:paaper",
   "game": "lastcard:standard_last_card",
   "name": {
     "translate": "gameType.lastcard.last_card"

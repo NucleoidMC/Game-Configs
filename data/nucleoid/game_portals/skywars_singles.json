@@ -1,5 +1,6 @@
 {
   "type": "plasmid:menu",
+  "icon": "minecraft:feather",
   "games": [
     "nucleoid:skywars/random_singles",
 	

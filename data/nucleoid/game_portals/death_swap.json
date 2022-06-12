@@ -1,6 +1,14 @@
 {
-  "type": "plasmid:on_demand",
-  "game": "nucleoid:death_swap/random",
+  "type": "plasmid:menu",
+  "icon": "minecraft:skeleton_skull",
+  "games": [
+    "nucleoid:death_swap/random",
+	
+    "deathswap:death_swap",
+    "deathswap:tiny_death_swap",
+    "deathswap:amplified_death_swap",
+    "deathswap:tiny_amplified_death_swap"
+  ],
   "name": {
     "translate": "gameType.deathswap.death_swap"
   }

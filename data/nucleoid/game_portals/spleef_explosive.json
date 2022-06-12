@@ -1,8 +1,10 @@
 {
   "type": "plasmid:menu",
+  "icon": "minecraft:tnt",
   "games": [
     "nucleoid:spleef/explosive/random",
 	
+    "nucleoid:spleef/explosive/aperture",
     "nucleoid:spleef/explosive/donut",
     "nucleoid:spleef/explosive/endless_tater",
     "nucleoid:spleef/explosive/fast",
@@ -11,6 +13,6 @@
     "nucleoid:spleef/explosive/tnt"
   ],
   "name": {
-    "translate": "game.nucleoid.spleef.run"
+    "translate": "game.nucleoid.explosive"
   }
 }

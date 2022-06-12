@@ -5,7 +5,7 @@
     "nucleoid:ascension/cave"
   ],
   "name": {
-    "translate": "gameType.ascension.ascension"
+    "translate": "game.nucleoid.random"
   },
-  "icon": "minecraft:red_wool"
+  "icon": "nucleoid_extras:lucky_tater"
 }

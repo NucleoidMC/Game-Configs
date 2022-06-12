@@ -1,5 +1,6 @@
 {
   "type": "plasmid:menu",
+  "icon": "minecraft:golden_boots",
   "games": [
     "colorswap:standard_color_swap",
     "colorswap:knockback_color_swap",

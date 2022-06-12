@@ -1,8 +1,7 @@
 {
-  "type": "plasmid:menu",
-  "games": [
-    "paintball:garden_paintball"
-  ],
+  "type": "plasmid:on_demand",
+  "icon": "minecraft:red_dye",
+  "game": "paintball:garden_paintball",
   "name": {
     "translate": "gameType.paintball.paintball"
   }

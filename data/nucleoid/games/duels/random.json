@@ -5,7 +5,7 @@
     "duels:standard_slippery"
   ],
   "name": {
-    "translate": "gameType.duels.duels"
+    "translate": "game.nucleoid.random"
   },
-  "icon": "minecraft:diamond_sword"
+  "icon": "nucleoid_extras:lucky_tater"
 }

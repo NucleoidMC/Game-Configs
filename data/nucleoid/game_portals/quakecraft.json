@@ -1,5 +1,6 @@
 {
   "type": "plasmid:menu",
+  "icon": "minecraft:iron_hoe",
   "games": [
     "nucleoid:quakecraft/random",
     "nucleoid:quakecraft/ctf"

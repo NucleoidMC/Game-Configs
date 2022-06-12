@@ -1,5 +1,6 @@
 {
   "type": "plasmid:on_demand",
+  "icon": "minecraft:chest",
   "game": "survivalgames:standard",
   "name": {
     "translate": "gameType.survivalgames.survival_games"

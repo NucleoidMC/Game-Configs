@@ -1,14 +1,11 @@
 {
   "type": "plasmid:menu",
+  "icon": "minecraft:golden_apple",
   "games": [
     "nucleoid:uhc/random_solo",
     "nucleoid:uhc/random_duos",
     "nucleoid:uhc/random_trios",
-    "nucleoid:uhc/random_squads",
-    "nucleoid:uhcrun/random_solo",
-    "nucleoid:uhcrun/random_duos",
-    "nucleoid:uhcrun/random_trios",
-    "nucleoid:uhcrun/random_squads"
+    "nucleoid:uhc/random_squads"
   ],
   "name": {
     "translate": "gameType.uhc.uhc"

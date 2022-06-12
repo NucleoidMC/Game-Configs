@@ -8,14 +8,5 @@
   "name": {
     "translate": "game.nucleoid.random"
   },
-  "icon": {
-    "id": "minecraft:stick",
-    "Count": 1,
-    "Enchantments": [
-      {
-        "id": "minecraft:knockback",
-        "lvl": 1
-      }
-    ]
-  }
+  "icon": "nucleoid_extras:lucky_tater"
 }

@@ -1,5 +1,6 @@
 {
   "type": "plasmid:menu",
+  "icon": "minecraft:soul_sand",
   "games": [
     "withersweeper:beginner_withersweeper",
     "withersweeper:intermediate_withersweeper",

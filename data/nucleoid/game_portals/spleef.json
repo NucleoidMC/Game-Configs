@@ -1,11 +1,13 @@
 {
   "type": "plasmid:menu",
+  "icon": "minecraft:diamond_shovel",
   "games": [
     "nucleoid:spleef/random",
 	
     "spleef:standard",
     "spleef:standard_projectile",
     "nucleoid:spleef/amelia",
+    "nucleoid:spleef/aperture",
     "nucleoid:spleef/big_tater",
     "nucleoid:spleef/bleef",
     "nucleoid:spleef/donut",
@@ -28,6 +30,6 @@
     "nucleoid:spleef/tower"
   ],
   "name": {
-    "translate": "gameType.spleef.spleef"
+    "translate": "game.nucleoid.standard"
   }
 }

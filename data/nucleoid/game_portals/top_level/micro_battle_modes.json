@@ -1,0 +1,17 @@
+{
+  "type": "plasmid:advanced_menu",
+  "name": {
+    "translate": "gameType.microbattle.micro_battle"
+  },
+  "icon": "minecraft:netherite_axe",
+  "entries": [
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:micro_battle"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:micro_battle_old_combat"
+    }
+  ]
+}

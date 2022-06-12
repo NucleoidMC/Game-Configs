@@ -1,0 +1,107 @@
+{
+  "type": "spleef:spleef",
+  "map": {
+    "shape": {
+      "type": "spleef:pattern",
+      "tiles": [
+        "                    xxxxxxxxxxxxxx                     ",
+        "                 xxxxxxxxxxxxxxxxxx                    ",
+        "                 xxxxxxxxxxxxxxxxxxx  xx               ",
+        "             xx    xxxxxxxxxxxxxxxxx  xxx              ",
+        "            xxxxx   xxxxxxxxxxxxxxxx  xxxxx            ",
+        "          xxxxxxxx    xxxxxxxxxxxxxx  xxxxxx           ",
+        "         xxxxxxxxxxx   xxxxxxxxxxxxx   xxxxxx          ",
+        "        xxxxxxxxxxxxx    xxxxxxxxxxxx  xxxxxxxx        ",
+        "       xxxxxxxxxxxxxxxx   xxxxxxxxxxx  xxxxxxxxx       ",
+        "      xxxxxxxxxxxxxxxxxx    xxxxxxxxx  xxxxxxxxx       ",
+        "     xxxxxxxxxxxxxxxxxxxxx   xxxxxxxx  xxxxxxxxxx      ",
+        "     xxxxxxxxxxxxxxxxxxxxxx    xxxxxx   xxxxxxxxxx     ",
+        "    xxxxxxxxxxxxxxxxxxxx        xxxxxx  xxxxxxxxxxx    ",
+        "   xxxxxxxxxxxxxxxx               xxxx  xxxxxxxxxxx    ",
+        "   xxxxxxxxxxx                     xxx  xxxxxxxxxxxx   ",
+        "  xxxxxxx                            x  xxxxxxxxxxx    ",
+        "  xx          xx                         xxxxxxxxx     ",
+        "         xxxxxxx                         xxxxxxxxx  x  ",
+        "    xxxxxxxxxxx                          xxxxxxxx  xx  ",
+        " xxxxxxxxxxxxx                           xxxxxxx   xxx ",
+        "xxxxxxxxxxxxxx                           xxxxxxx  xxxx ",
+        "xxxxxxxxxxxxx                             xxxxx  xxxxx ",
+        "xxxxxxxxxxxx                              xxxx   xxxxx ",
+        "xxxxxxxxxxxx                              xxxx  xxxxxxx",
+        "xxxxxxxxxxx                               xxx  xxxxxxxx",
+        "xxxxxxxxxx                                xx   xxxxxxxx",
+        "xxxxxxxxxx                                xx  xxxxxxxxx",
+        "xxxxxxxxx  x                                 xxxxxxxxxx",
+        "xxxxxxxx   x                                 xxxxxxxxxx",
+        "xxxxxxxx  xx                                xxxxxxxxxxx",
+        "xxxxxxx  xxx                               xxxxxxxxxxxx",
+        "xxxxxx   xxxx                              xxxxxxxxxxxx",
+        "xxxxxx  xxxxx                             xxxxxxxxxxxx ",
+        "xxxxx  xxxxxx                            xxxxxxxxxxxxx ",
+        " xxx   xxxxxx                            xxxxxxxxxxxxx ",
+        " xxx  xxxxxxx                           xxxxxxxxxxxxx  ",
+        " xx  xxxxxxxxx                         xxxxxxxxx       ",
+        "     xxxxxxxxx                         xxxx            ",
+        "    xxxxxxxxxx  x                               xxxx   ",
+        "   xxxxxxxxxxx  xx                         xxxxxxxxx   ",
+        "   xxxxxxxxxxx   xxx                  xxxxxxxxxxxxx    ",
+        "    xxxxxxxxxxx  xxxx            xxxxxxxxxxxxxxxxxx    ",
+        "    xxxxxxxxxxx  xxxxxx     xxxxxxxxxxxxxxxxxxxxxx     ",
+        "     xxxxxxxxxx  xxxxxxx    xxxxxxxxxxxxxxxxxxxxxx     ",
+        "      xxxxxxxxx  xxxxxxxxx   xxxxxxxxxxxxxxxxxxxx      ",
+        "       xxxxxxxx   xxxxxxxxx    xxxxxxxxxxxxxxxxx       ",
+        "       xxxxxxxxx  xxxxxxxxxxx   xxxxxxxxxxxxxxx        ",
+        "        xxxxxxxx  xxxxxxxxxxxx    xxxxxxxxxxxx         ",
+        "          xxxxxx  xxxxxxxxxxxxxx   xxxxxxxxxx          ",
+        "           xxxxx  xxxxxxxxxxxxxxx    xxxxxxx           ",
+        "            xxxx   xxxxxxxxxxxxxxxx   xxxx             ",
+        "              xxx  xxxxxxxxxxxxxxxxx                   ",
+        "                x  xxxxxxxxxxxxxxxxxxx                 ",
+        "                   xxxxxxxxxxxxxxxxx                   ",
+        "                       xxxxxxxxx                       "
+      ],
+      "tile_size": 1
+    },
+    "wall_provider": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "minecraftobsidian"
+      }
+    },
+    "levels": 4,
+    "level_height": 5
+  },
+  "players": {
+    "min": 1,
+    "max": 100,
+    "threshold": 2
+  },
+  "projectile": {
+    "restock_interval": 1,
+    "stack": {
+      "id": "minecraft:tnt",
+      "Count": 1,
+      "tag": {
+        "CanPlaceOn": [
+          "minecraft:obsidian",
+          "minecraft:snow_block",
+          "minecraft:tnt"
+        ]
+      }
+    }
+  },
+  "tool": {
+    "id": "minecraft:flint_and_steel",
+    "Count": 1,
+    "tag": {
+      "CanPlaceOn": [
+        "minecraft:tnt"
+      ]
+    }
+  },
+  "lava_rise": {
+    "ticks_per_level": 60
+  },
+  "unstable_tnt": false,
+  "icon": "minecraft:poisonous_potato"
+}

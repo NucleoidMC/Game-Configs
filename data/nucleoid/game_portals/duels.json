@@ -1,6 +1,12 @@
 {
   "type": "plasmid:on_demand",
-  "game": "nucleoid:duels/random",
+  "icon": "minecraft:iron_sword",
+  "games": [
+    "nucleoid:duels/random",
+	
+    "duels:standard",
+    "duels:standard_slippery"
+  ],
   "continuous": true,
   "name": {
     "translate": "gameType.duels.duels"

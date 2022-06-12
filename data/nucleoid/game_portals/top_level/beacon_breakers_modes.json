@@ -1,0 +1,21 @@
+{
+  "type": "plasmid:advanced_menu",
+  "name": {
+    "translate": "gameType.beaconbreakers.beacon_breakers"
+  },
+  "icon": "minecraft:beacon",
+  "entries": [
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:beacon_breakers"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:beacon_breakers_keep_inventory"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:beacon_breakers_tiny"
+    }
+  ]
+}

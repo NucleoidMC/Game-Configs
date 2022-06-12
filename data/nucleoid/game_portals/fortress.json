@@ -1,5 +1,6 @@
 {
   "type": "plasmid:on_demand",
+  "icon": "minecraft:oak_planks",
   "game": "fortress:standard",
   "name": {
     "translate": "gameType.fortress.fortress"

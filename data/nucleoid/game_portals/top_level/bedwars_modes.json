@@ -1,6 +1,8 @@
 {
   "type": "plasmid:advanced_menu",
-  "name": "Bed Wars",
+  "name": {
+    "translate": "gameType.bedwars.bed_wars"
+  },
   "icon": "minecraft:red_bed",
   "entries": [
     {

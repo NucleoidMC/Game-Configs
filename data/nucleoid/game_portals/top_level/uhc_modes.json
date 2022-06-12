@@ -1,0 +1,15 @@
+{
+  "type": "plasmid:advanced_menu",
+  "name": "UHC",
+  "icon": "minecraft:golden_apple",
+  "entries": [
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:uhc"
+    },
+    {
+      "type": "plasmid:portal_gui",
+      "portal": "nucleoid:uhcrun"
+    }
+  ]
+}

@@ -5,7 +5,7 @@
     "bowbattle:nether"
   ],
   "name": {
-    "translate": "game.bowbattle.bowbattle"
+    "translate": "game.nucleoid.random"
   },
-  "icon": "bow"
+  "icon": "nucleoid_extras:lucky_tater"
 }

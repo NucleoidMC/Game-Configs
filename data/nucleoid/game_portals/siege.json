@@ -1,5 +1,6 @@
 {
   "type": "plasmid:menu",
+  "icon": "minecraft:campfire",
   "games": [
 	  "siege:villagers_vs_pillagers",
 	  "siege:villagers_vs_pillagers_recapture",

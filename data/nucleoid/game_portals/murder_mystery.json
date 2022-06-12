@@ -1,5 +1,6 @@
 {
   "type": "plasmid:menu",
+  "icon": "minecraft:redstone",
   "games": [
     "murder_mystery:mansion",
     "murder_mystery:metro"

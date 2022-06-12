@@ -8,7 +8,7 @@
     "nucleoid:creative_party/magic_powder"
   ],
   "name": {
-    "translate": "gameType.creative_party.creative_party"
+    "translate": "game.nucleoid.random"
   },
-  "icon": "minecraft:diamond_block"
+  "icon": "nucleoid_extras:lucky_tater"
 }

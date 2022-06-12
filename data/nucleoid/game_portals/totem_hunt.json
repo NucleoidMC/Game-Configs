@@ -1,5 +1,6 @@
 {
   "type": "plasmid:menu",
+  "icon": "minecraft:totem_of_undying",
   "games": [
     "nucleoid:totem_hunt/random",
 	

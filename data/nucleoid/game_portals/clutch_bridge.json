@@ -1,5 +1,6 @@
 {
   "type": "plasmid:on_demand",
+  "icon": "minecraft:magenta_glazed_terracotta",
   "game": "clutchbridge:standard_clutch_bridge",
   "name": {
     "translate": "gameType.clutchbridge.clutch_bridge"

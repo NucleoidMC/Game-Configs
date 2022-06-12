@@ -5,7 +5,7 @@
     "murder_mystery:metro"
   ],
   "name": {
-    "translate": "gameType.murder_mystery.murder_mystery"
+    "translate": "game.nucleoid.random"
   },
-  "icon": "minecraft:iron_sword"
+  "icon": "nucleoid_extras:lucky_tater"
 }

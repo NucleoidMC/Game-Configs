@@ -1,7 +1,17 @@
 {
   "type": "plasmid:on_demand",
-  "game": "nucleoid:beacon_breakers/random",
+  "icon": "minecraft:beacon",
+  "games": [ 
+    "nucleoid:beacon_breakers/random",
+	
+    "beaconbreakers:amplified_beacon_breakers",
+    "beaconbreakers:caves_beacon_breakers",
+    "beaconbreakers:end_beacon_breakers",
+    "beaconbreakers:floating_islands_beacon_breakers",
+    "beaconbreakers:nether_beacon_breakers",
+    "beaconbreakers:standard_beacon_breakers"
+  ],
   "name": {
-    "translate": "gameType.beaconbreakers.beacon_breakers"
+    "translate": "game.nucleoid.standard"
   }
 }

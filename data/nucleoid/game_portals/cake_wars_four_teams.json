@@ -1,5 +1,9 @@
 {
   "type": "plasmid:menu",
+  "icon": {
+    "id": "minecraft:cake",
+    "Count": 4
+  },
   "games": [
     "nucleoid:cake_wars/random_four_teams",
 	

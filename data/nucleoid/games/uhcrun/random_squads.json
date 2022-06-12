@@ -6,5 +6,8 @@
   "name": {
     "translate": "game.nucleoid.uhcrun.squads"
   },
-  "icon": "apple"
+  "icon": {
+    "id": "minecraft:apple",
+    "Count": 4
+  },
 }
