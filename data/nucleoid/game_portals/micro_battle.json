@@ -6,7 +6,8 @@
 	
     "microbattle:standard_micro_battle",
     "microbattle:soul_micro_battle",
-    "microbattle:respawner_micro_battle"
+    "microbattle:respawner_micro_battle",
+    "microbattle:soul_respawner_micro_battle"
   ],
   "name": {
     "translate": "game.nucleoid.standard"
