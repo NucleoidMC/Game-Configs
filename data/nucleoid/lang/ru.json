@@ -1,1 +1,20 @@
-{}
+{
+    "game.nucleoid.capture_the_flag": "Захват флага",
+    "game.nucleoid.koth.classic": "Царь горы: Классический",
+    "game.nucleoid.koth.ice": "Царь горы: Лёд",
+    "game.nucleoid.koth.knockoff": "Царь горы: Сбивание",
+    "game.nucleoid.quakecraft.ctm": "Quakecraft: Захват флага",
+    "game.nucleoid.skywars.duos": "Skywars (по двое)",
+    "game.nucleoid.skywars.singles": "Skywars (по одному)",
+    "game.nucleoid.tater": "Игры картохи",
+    "game.nucleoid.uhc.solo": "UHC (по одному)",
+    "game.nucleoid.uhc.duos": "UHC (по двое)",
+    "game.nucleoid.uhc.squads": "UHC (по четверо)",
+    "game.nucleoid.uhcrun.solo": "UHCRun (по одному)",
+    "game.nucleoid.koth.deathmatch": "Царь горы: Бой насмерть",
+    "game.nucleoid.uhcrun.squads": "UHCRun (по четверо)",
+    "game.nucleoid.koth.cotton_candy": "Царь горы: Сладкая вата",
+    "game.nucleoid.uhcrun.duos": "UHCRun (по двое)",
+    "game.nucleoid.uhc.trios": "UHC (по трое)",
+    "game.nucleoid.uhcrun.trios": "UHCRun (по трое)"
+}
