@@ -1,0 +1,8 @@
+{
+  "type": "plasmid:on_demand",
+  "icon": "minecraft:gold_block",
+  "game": "compound:compound",
+  "name": {
+    "translate": "gameType.compound.compound"
+  }
+}
