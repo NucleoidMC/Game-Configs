@@ -1,1 +1,12 @@
-{}
+{
+    "game.nucleoid.eight_teams": "Acht Teams",
+    "game.nucleoid.four_teams": "Vier Teams",
+    "game.nucleoid.capture_the_flag": "Vlaggenroof",
+    "game.nucleoid.chaotic": "Chaotisch",
+    "game.nucleoid.duels": "Duels",
+    "game.nucleoid.duos": "Duo's",
+    "game.nucleoid.explosive": "Explosief",
+    "game.nucleoid.keep_inventory": "Inventaris Behouden",
+    "game.nucleoid.standard": "Standaard",
+    "game.nucleoid.two_teams": "Twee Teams"
+}
