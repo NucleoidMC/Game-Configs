@@ -20,5 +20,16 @@
     "game.nucleoid.spleef.run.tnt_run": "TNT Run",
     "game.nucleoid.old_combat": "Старая механика боя",
     "game.nucleoid.ascension.cave": "Пещерное восхождение",
-    "game.nucleoid.spleef.run.tntater": "TNT Run с картохой"
+    "game.nucleoid.spleef.run.tntater": "TNT Run с картохой",
+    "game.nucleoid.duels": "Дуэли",
+    "game.nucleoid.chaotic": "Хаотичный",
+    "game.nucleoid.eight_teams": "Восемь Команд",
+    "game.nucleoid.four_teams": "Четыре Команды",
+    "game.nucleoid.explosive": "Взрывной",
+    "game.nucleoid.keep_inventory": "Сохранение Инвентаря",
+    "game.nucleoid.duos": "Двое",
+    "game.nucleoid.random": "Рандом",
+    "game.nucleoid.run": "Бег!",
+    "game.nucleoid.suspicious": "Подозрительный",
+    "game.nucleoid.two_teams": "Две Команды"
 }
