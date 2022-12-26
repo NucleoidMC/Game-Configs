@@ -1,0 +1,12 @@
+{
+  "type": "plasmid:menu",
+  "icon": "minecraft:iron_hoe",
+  "games": [
+    "nucleoid:snake/random",
+    "snake:standard",
+    "snake:catacombs"
+  ],
+  "name": {
+    "translate": "gameType.snake.snake"
+  }
+}
