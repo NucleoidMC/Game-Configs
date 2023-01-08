@@ -111,6 +111,10 @@
       "type": "plasmid:portal_gui",
       "portal": "nucleoid:fortress"
     },
+	{
+		"type": "plasmid:portal_gui",
+		"portal": "nucleoid:gomoku"
+	},
     {
       "type": "plasmid:portal_gui",
       "portal": "nucleoid:infinite_parkour"
@@ -187,6 +191,10 @@
       "type": "plasmid:portal",
       "portal": "nucleoid:slime_mould"
     },
+	{
+	  "type": "plasmid:portal_gui",
+	  "portal": "nucleoid:snake"
+	},
     {
       "type": "plasmid:portal",
       "portal": "nucleoid:snowball_fight"

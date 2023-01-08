@@ -2,10 +2,7 @@
   "type": "plasmid:menu",
   "icon": "minecraft:iron_sword",
   "games": [
-    "nucleoid:duels/random",
-	
-    "duels:standard",
-    "duels:standard_slippery"
+    "duels:classic"
   ],
   "continuous": true,
   "name": {
