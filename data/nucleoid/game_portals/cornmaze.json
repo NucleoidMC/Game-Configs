@@ -1,6 +1,6 @@
 {
   "type": "plasmid:menu",
-  "icon": "minecraft:haybale",
+  "icon": "minecraft:hay_block",
   "games": [
     "nucleoid:cornmaze/random",
 	
