@@ -1,30 +1,30 @@
 {
-  "type": "plasmid:advanced_menu",
+  "type": "nucleoid_extras:styled/advanced_menu",
   "name": "Navigator",
   "icon": "minecraft:clock",
   "entries": [
     {
-      "type": "plasmid:portal_gui",
+      "type": "plasmid:portal",
       "portal": "nucleoid:anvil_drop"
     },
     {
-      "type": "plasmid:portal_gui",
+      "type": "plasmid:portal",
       "portal": "nucleoid:ascension"
     },
     {
-      "type": "plasmid:portal_gui",
+      "type": "plasmid:portal",
       "portal": "nucleoid:top_level/beacon_breakers_modes"
     },
     {
-      "type": "plasmid:portal_gui",
+      "type": "plasmid:portal",
       "portal": "nucleoid:top_level/bedwars_modes"
     },
     {
-      "type": "plasmid:portal_gui",
+      "type": "plasmid:portal",
       "portal": "nucleoid:bow_battle"
     },
     {
-      "type": "plasmid:portal_gui",
+      "type": "plasmid:portal",
       "portal": "nucleoid:build_battle"
     },
     {
@@ -32,7 +32,7 @@
       "portal": "nucleoid:cabinfever"
     },
     {
-      "type": "plasmid:portal_gui",
+      "type": "plasmid:portal",
       "portal": "nucleoid:top_level/cake_wars_modes"
     },
     {
@@ -52,15 +52,15 @@
       "portal": "nucleoid:clutch_practice"
     },
     {
-      "type": "plasmid:portal_gui",
+      "type": "plasmid:portal",
       "portal": "nucleoid:codebreaker"
     },
     {
-      "type": "plasmid:portal_gui",
+      "type": "plasmid:portal",
       "portal": "nucleoid:color_swap"
     },
     {
-      "type": "plasmid:portal_gui",
+      "type": "plasmid:portal",
       "portal": "nucleoid:cornmaze"
     },
     {
@@ -72,19 +72,19 @@
       "portal": "nucleoid:creeperfall"
     },
     {
-      "type": "plasmid:portal_gui",
+      "type": "plasmid:portal",
       "portal": "nucleoid:deacoudre"
     },
     {
-      "type": "plasmid:portal_gui",
+      "type": "plasmid:portal",
       "portal": "nucleoid:death_swap"
     },
     {
-      "type": "plasmid:portal_gui",
+      "type": "plasmid:portal",
       "portal": "nucleoid:deathrun"
     },
     {
-      "type": "plasmid:portal_gui",
+      "type": "plasmid:portal",
       "portal": "nucleoid:top_level/destroy_the_monument_modes"
     },
     {
@@ -92,7 +92,7 @@
       "portal": "nucleoid:downpour"
     },
     {
-      "type": "plasmid:portal_gui",
+      "type": "plasmid:portal",
       "portal": "nucleoid:duels"
     },
     {
@@ -108,15 +108,15 @@
       "portal": "nucleoid:farmy_feud"
     },
     {
-      "type": "plasmid:portal_gui",
+      "type": "plasmid:portal",
       "portal": "nucleoid:fortress"
     },
 	{
-		"type": "plasmid:portal_gui",
+		"type": "plasmid:portal",
 		"portal": "nucleoid:gomoku"
 	},
     {
-      "type": "plasmid:portal_gui",
+      "type": "plasmid:portal",
       "portal": "nucleoid:infinite_parkour"
     },
     {
@@ -124,7 +124,7 @@
       "portal": "nucleoid:irritater_run"
     },
     {
-      "type": "plasmid:portal_gui",
+      "type": "plasmid:portal",
       "portal": "nucleoid:koth"
     },
     {
@@ -132,11 +132,11 @@
       "portal": "nucleoid:last_card"
     },
     {
-      "type": "plasmid:portal_gui",
+      "type": "plasmid:portal",
       "portal": "nucleoid:loopdeloop"
     },
     {
-      "type": "plasmid:portal_gui",
+      "type": "plasmid:portal",
       "portal": "nucleoid:top_level/micro_battle_modes"
     },
     {
@@ -148,7 +148,7 @@
       "portal": "nucleoid:mineout"
     },
     {
-      "type": "plasmid:portal_gui",
+      "type": "plasmid:portal",
       "portal": "nucleoid:murder_mystery"
     },
     {
@@ -164,7 +164,7 @@
       "portal": "nucleoid:party"
     },
     {
-      "type": "plasmid:portal_gui",
+      "type": "plasmid:portal",
       "portal": "nucleoid:quakecraft"
     },
     {
@@ -176,15 +176,15 @@
       "portal": "nucleoid:sculk_prison"
     },
     {
-      "type": "plasmid:portal_gui",
+      "type": "plasmid:portal",
       "portal": "nucleoid:shard_thief"
     },
     {
-      "type": "plasmid:portal_gui",
+      "type": "plasmid:portal",
       "portal": "nucleoid:siege"
     },
     {
-      "type": "plasmid:portal_gui",
+      "type": "plasmid:portal",
       "portal": "nucleoid:top_level/skywars_modes"
     },
     {
@@ -192,7 +192,7 @@
       "portal": "nucleoid:slime_mould"
     },
 	{
-	  "type": "plasmid:portal_gui",
+	  "type": "plasmid:portal",
 	  "portal": "nucleoid:snake"
 	},
     {
@@ -200,7 +200,7 @@
       "portal": "nucleoid:snowball_fight"
     },
     {
-      "type": "plasmid:portal_gui",
+      "type": "plasmid:portal",
       "portal": "nucleoid:top_level/spleef_modes"
     },
     {
@@ -216,7 +216,7 @@
       "portal": "nucleoid:territory_battle"
     },
     {
-      "type": "plasmid:portal_gui",
+      "type": "plasmid:portal",
       "portal": "nucleoid:the_towers"
     },
     {
@@ -224,11 +224,11 @@
       "portal": "nucleoid:tnttag"
     },
     {
-      "type": "plasmid:portal_gui",
+      "type": "plasmid:portal",
       "portal": "nucleoid:totem_hunt"
     },
     {
-      "type": "plasmid:portal_gui",
+      "type": "plasmid:portal",
       "portal": "nucleoid:uhc"
     },
     {
@@ -244,7 +244,7 @@
       "portal": "nucleoid:werewolf"
     },
     {
-      "type": "plasmid:portal_gui",
+      "type": "plasmid:portal",
       "portal": "nucleoid:withersweeper"
     }
   ]

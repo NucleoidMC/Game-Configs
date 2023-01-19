@@ -1,5 +1,5 @@
 {
-  "type": "plasmid:menu",
+  "type": "nucleoid_extras:styled/simple_menu",
   "icon": "minecraft:stone_wall",
   "games": [
     "the_towers:classic/two_teams",

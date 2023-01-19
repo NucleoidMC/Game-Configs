@@ -1,7 +1,7 @@
 {
-  "type": "plasmid:menu",
+  "type": "nucleoid_extras:styled/simple_menu",
   "icon": {
-    "id": "minecraft:chiseled_stone_bricks",
+    "id": "minecraft:diamond_sword",
     "Count": 2
   },
   "games": [

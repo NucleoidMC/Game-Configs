@@ -1,5 +1,5 @@
 {
-  "type": "plasmid:menu",
+  "type": "nucleoid_extras:styled/simple_menu",
   "games": [
     "nucleoid:shardthief/random",
 	

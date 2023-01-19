@@ -1,5 +1,5 @@
 {
-  "type": "plasmid:menu",
+  "type": "nucleoid_extras:styled/simple_menu",
   "icon": "minecraft:debug_stick",
   "games": [
     "nucleoid:koth/random",
