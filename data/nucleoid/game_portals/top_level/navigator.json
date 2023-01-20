@@ -57,10 +57,6 @@
     },
     {
       "type": "plasmid:portal",
-      "portal": "nucleoid:creative_party"
-    },
-    {
-      "type": "plasmid:portal",
       "portal": "nucleoid:creeperfall"
     },
     {
