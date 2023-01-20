@@ -37,15 +37,7 @@
     },
     {
       "type": "plasmid:portal",
-      "portal": "nucleoid:castle_wars"
-    },
-    {
-      "type": "plasmid:portal",
       "portal": "nucleoid:cavern_crawler"
-    },
-    {
-      "type": "plasmid:portal",
-      "portal": "nucleoid:clutch_bridge"
     },
     {
       "type": "plasmid:portal",
@@ -170,10 +162,6 @@
     {
       "type": "plasmid:portal",
       "portal": "nucleoid:rocketspleef"
-    },
-    {
-      "type": "plasmid:portal",
-      "portal": "nucleoid:sculk_prison"
     },
     {
       "type": "plasmid:portal",

@@ -1,7 +1,11 @@
 {
-  "type": "plasmid:on_demand",
+  "type": "nucleoid_extras:styled/simple_menu",
   "icon": "minecraft:paper",
-  "game": "lastcard:spruce_lodge_last_card",
+  "games": [
+	"lastcard:spruce_lodge_last_card",
+	"lastcard:dark_oak_graveyard_last_card",
+	"lastcard:romantica_last_card"
+],
   "name": {
     "translate": "gameType.lastcard.last_card"
   }

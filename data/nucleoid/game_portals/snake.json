@@ -1,6 +1,6 @@
 {
   "type": "nucleoid_extras:styled/simple_menu",
-  "icon": "minecraft:iron_hoe",
+  "icon": "minecraft:green_candle",
   "games": [
     "nucleoid:snake/random",
     "snake:standard",

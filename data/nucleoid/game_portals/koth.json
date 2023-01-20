@@ -1,6 +1,6 @@
 {
   "type": "nucleoid_extras:styled/simple_menu",
-  "icon": "minecraft:debug_stick",
+  "icon": "minecraft:stick",
   "games": [
     "nucleoid:koth/random",
 	
