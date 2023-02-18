@@ -1,7 +1,7 @@
 {
   "type": "nucleoid_extras:styled/advanced_menu",
   "name": "Navigator",
-  "icon": "minecraft:clock",
+  "icon": "minecraft:compass",
   "entries": [
     {
       "type": "plasmid:portal",
