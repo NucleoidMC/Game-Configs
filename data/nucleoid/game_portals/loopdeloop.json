@@ -4,9 +4,8 @@
   "games": [
     "loopdeloop:standard",
     "loopdeloop:ridiculous",
-    "loopdeloop:ridiculouser",
-	"loopdeloop:amplified",
-	"loopdeloop:marathon",
+    "loopdeloop:amplified",
+    "loopdeloop:marathon",
     "loopdeloop:quick",
     "loopdeloop:flappy/standard",
     "loopdeloop:flappy/classic",
