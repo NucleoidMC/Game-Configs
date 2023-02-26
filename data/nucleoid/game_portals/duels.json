@@ -2,7 +2,8 @@
   "type": "nucleoid_extras:styled/simple_menu",
   "icon": "minecraft:iron_sword",
   "games": [
-    "duels:classic"
+    "duels:single/classic_mountains",
+    "duels:duos/classic_urban"
   ],
   "continuous": true,
   "name": {
