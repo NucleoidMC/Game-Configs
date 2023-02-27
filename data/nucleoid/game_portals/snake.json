@@ -4,7 +4,10 @@
   "games": [
     "nucleoid:snake/random",
     "snake:standard",
-    "snake:catacombs"
+    "snake:catacombs",
+    "snake:racetrack",
+    "snake:parking",
+    "snake:circuit"
   ],
   "name": {
     "translate": "gameType.snake.snake"
