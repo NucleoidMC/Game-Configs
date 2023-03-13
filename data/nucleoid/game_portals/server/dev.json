@@ -1,0 +1,8 @@
+{
+  "type": "nucleoid_extras:server_change",
+  "icon": "minecraft:observer",
+  "server_id": "dev",
+  "name": {
+    "translate": "server.nucleoid.dev"
+  }
+}
