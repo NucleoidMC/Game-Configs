@@ -1,0 +1,12 @@
+{
+  "type": "consolebox:console_box",
+  "name": "<c:#f9a875>Explosive Spleef",
+  "description": [
+	"Classic party game! Try to explode your oponents",
+	"while keeping yourself in one piece!",
+	"Play up to 4 players locally!"
+  ],
+  "icon": "minecraft:tnt",
+  "game": "nucleoid:bomb",
+  "players": 4
+}

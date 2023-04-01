@@ -1,0 +1,14 @@
+{
+	"type": "nucleoid_extras:styled/simple_menu",
+	"icon": "nucleoid_extras:nucle_past_logo",
+	"games": [
+	  "nucleoid:consolebox/nucle",
+	  "nucleoid:consolebox/bomb",
+	  "nucleoid:consolebox/maze",
+	  "nucleoid:consolebox/watris",
+	  "nucleoid:consolebox/pong",
+	  "nucleoid:consolebox/hammer-joe",
+	  "nucleoid:consolebox/antcopter"
+	],
+	"name": "<c:#f9a875>Nucleoid Classic Games"
+  }

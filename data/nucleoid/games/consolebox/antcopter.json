@@ -1,0 +1,11 @@
+{
+  "type": "consolebox:console_box",
+  "name": "<c:#f9a875>Pong",
+  "description": [
+	"Speedrun, precision platformer.",
+	"Developed by: Eduardo Bart"
+  ],
+  "icon": "minecraft:iron_boots",
+  "game": "nucleoid:antcopter",
+  "players": 1
+}
