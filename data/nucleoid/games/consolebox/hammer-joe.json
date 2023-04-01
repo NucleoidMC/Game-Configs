@@ -1,12 +1,12 @@
 {
   "type": "consolebox:console_box",
-  "name": "<c:#f9a875>Hammer Joe",
+  "name": "<c:#86c06c>Hammer Joe",
   "description": [
 	"Pest are comming from the pipes!",
 	"Hit them with a hammer, before they touch you!",
 	"Developed by: MFauzan26"
   ],
-  "icon": "nucleoid_extras:iron_pickaxe",
+  "icon": "minecraft:iron_pickaxe",
   "game": "nucleoid:hammer-joe",
   "players": 1
 }
