@@ -1,6 +1,6 @@
 {
   "type": "consolebox:console_box",
-  "name": "<c:#86c06c>Hammer Joe",
+  "name": "Hammer Joe (<c:#86c06c>WASM-4<r>)",
   "description": [
 	"Pest are comming from the pipes!",
 	"Hit them with a hammer, before they touch you!",

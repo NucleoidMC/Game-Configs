@@ -1,8 +1,8 @@
 {
   "type": "consolebox:console_box",
-  "name": "<c:#86c06c>Explosive Spleef",
+  "name": "BombFighters (<c:#86c06c>WASM-4<r>)",
   "description": [
-	"Classic party game! Try to explode your oponents",
+	"Try to explode your oponents",
 	"while keeping yourself in one piece!",
 	"Play up to 4 players locally!"
   ],

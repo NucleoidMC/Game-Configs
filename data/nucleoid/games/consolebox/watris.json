@@ -1,6 +1,6 @@
 {
   "type": "consolebox:console_box",
-  "name": "<c:#86c06c>Watris",
+  "name": "Watris (<c:#86c06c>WASM-4<r>)",
   "description": [
 	"Legally distinct falling-block game",
 	"Developed by: Bruno Garcia"

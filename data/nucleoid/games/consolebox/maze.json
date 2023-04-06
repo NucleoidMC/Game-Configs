@@ -1,6 +1,6 @@
 {
   "type": "consolebox:console_box",
-  "name": "<c:#86c06c>Maze",
+  "name": "Maze (<c:#86c06c>WASM-4<r>)",
   "description": [
 	"Traverse in a maze, trying to find your way out!",
 	"Developed by: Ben Smith"

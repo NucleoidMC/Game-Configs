@@ -6,9 +6,7 @@
 	  "nucleoid:consolebox/bomb",
 	  "nucleoid:consolebox/maze",
 	  "nucleoid:consolebox/watris",
-	  "nucleoid:consolebox/pong",
-	  "nucleoid:consolebox/hammer-joe",
-	  "nucleoid:consolebox/antcopter"
+	  "nucleoid:consolebox/hammer-joe"
 	],
-	"name": "<c:#86c06c>Nucleoid Virtual Console"
+	"name": "WASM-4 Fantasy Console"
   }
