@@ -1,0 +1,11 @@
+{
+  "type": "nucleoid_extras:styled/simple_menu",
+  "icon": "minecraft:bundle",
+  "games": [
+    "itemhunt:itemhunt",
+    "itemhunt:itemhunt_with_crafting"
+  ],
+  "name": {
+    "translate": "gameType.itemhunt.itemhunt"
+  }
+}
