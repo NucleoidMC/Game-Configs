@@ -1,0 +1,8 @@
+{
+  "type": "plasmid:on_demand",
+  "icon": "minecraft:mud_bricks",
+  "game": "build_rush:small/rock_candy_mines",
+  "name": {
+    "translate": "game.build_rush"
+  }
+}

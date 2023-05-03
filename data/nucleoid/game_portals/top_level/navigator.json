@@ -31,6 +31,10 @@
       "type": "plasmid:portal",
       "portal": "nucleoid:build_battle"
     },
+	{
+		"type": "plasmid:portal",
+		"portal": "nucleoid:buildrush"
+	},
     {
       "type": "plasmid:portal",
       "portal": "nucleoid:cabinfever"
@@ -119,6 +123,10 @@
       "type": "plasmid:portal",
       "portal": "nucleoid:irritater_run"
     },
+	{
+		"type": "plasmid:portal",
+		"portal": "nucleoid:item_hunt"
+	},
     {
       "type": "plasmid:portal",
       "portal": "nucleoid:koth"
