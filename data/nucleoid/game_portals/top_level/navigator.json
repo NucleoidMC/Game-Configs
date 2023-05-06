@@ -3,10 +3,6 @@
   "name": "Navigator",
   "icon": "minecraft:compass",
   "entries": [
-	{
-		"type": "plasmid:portal",
-		"portal": "nucleoid:consolebox"
-	},
     {
       "type": "plasmid:portal",
       "portal": "nucleoid:anvil_drop"
@@ -239,6 +235,10 @@
       "type": "plasmid:portal",
       "portal": "nucleoid:wave_defense"
     },
+	{
+		"type": "plasmid:portal",
+		"portal": "nucleoid:consolebox"
+	},
     {
       "type": "plasmid:portal",
       "portal": "nucleoid:werewolf"
