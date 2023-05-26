@@ -26,6 +26,8 @@
 		"nucleoid:consolebox/bomb",
 		"nucleoid:consolebox/maze",
 		"nucleoid:consolebox/watris",
+		"nucleoid:consolebox/ping",
+		"nucleoid:consolebox/snakery",
 		"nucleoid:consolebox/hammer-joe"
 	],
 	"name": "WASM-4 Fantasy Console"
