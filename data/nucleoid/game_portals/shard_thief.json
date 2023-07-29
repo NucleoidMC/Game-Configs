@@ -1,5 +1,6 @@
 {
   "type": "nucleoid_extras:styled/simple_menu",
+  "icon": "minecraft:amethyst_shard",
   "games": [
     "nucleoid:shardthief/random",
 	
