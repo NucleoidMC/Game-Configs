@@ -1,9 +1,9 @@
 {
   "type": "nucleoid_extras:styled/simple_menu",
-  "icon": "minecraft:feather",
+  "icon": "minecraft:ender_eye",
   "games": [
     "nucleoid:skywars/random_singles",
-	
+    
     "skywars:single/baba",
     "skywars:single/cauldron",
     "skywars:single/coral_reef",
@@ -19,6 +19,7 @@
     "skywars:single/potofgold",
     "skywars:single/pots",
     "skywars:single/pyramid",
+    "skywars:single/seaworthy",
     "skywars:single/shroomlight",
     "skywars:single/solar_system",
     "skywars:single/split",
