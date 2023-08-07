@@ -27,10 +27,10 @@
       "type": "plasmid:portal",
       "portal": "nucleoid:build_battle"
     },
-	{
-		"type": "plasmid:portal",
-		"portal": "nucleoid:buildrush"
-	},
+    {
+      "type": "plasmid:portal",
+      "portal": "build_rush:root"
+    },
     {
       "type": "plasmid:portal",
       "portal": "nucleoid:cabinfever"
