@@ -1,0 +1,10 @@
+{
+    "type": "nucleoid_extras:styled/simple_menu",
+    "icon": "minecraft:feather",
+    "games": [
+      "parkourrace:boxed"
+    ],
+    "name": {
+      "translate": "gameType.parkourrace:parkourrace"
+    }
+  }
