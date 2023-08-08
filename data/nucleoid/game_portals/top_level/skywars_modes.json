@@ -3,7 +3,7 @@
   "name": {
     "translate": "gameType.skywars.skywars"
   },
-  "icon": "minecraft:feather",
+  "icon": "minecraft:ender_eye",
   "entries": [
     {
       "type": "plasmid:portal",
