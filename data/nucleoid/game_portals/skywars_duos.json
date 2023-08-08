@@ -1,12 +1,12 @@
 {
   "type": "nucleoid_extras:styled/simple_menu",
   "icon": {
-    "id": "minecraft:feather",
+    "id": "minecraft:ender_eye",
     "Count": 2
   },
   "games": [
     "nucleoid:skywars/random_duos",
-	
+    
     "skywars:duos/baba",
     "skywars:duos/cauldron",
     "skywars:duos/coral_reef",
@@ -20,6 +20,7 @@
     "skywars:duos/potofgold",
     "skywars:duos/pots",
     "skywars:duos/pyramid",
+    "skywars:duos/seaworthy",
     "skywars:duos/shroomlight",
     "skywars:duos/solar_system",
     "skywars:duos/split",
