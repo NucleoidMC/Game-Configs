@@ -2,9 +2,9 @@
     "type": "nucleoid_extras:styled/simple_menu",
     "icon": "minecraft:diamond_boots",
     "games": [
-      "parkourrace:boxed"
+      "parkour_race:boxed"
     ],
     "name": {
-      "translate": "gameType.parkourrace.parkour_race"
+      "translate": "gameType.parkour_race.parkour_race"
     }
   }

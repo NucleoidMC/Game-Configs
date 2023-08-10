@@ -157,6 +157,10 @@
     },
     {
       "type": "plasmid:portal",
+      "portal": "nucleoid:parkour_race"
+    },
+    {
+      "type": "plasmid:portal",
       "portal": "nucleoid:parkour_run"
     },
     {
