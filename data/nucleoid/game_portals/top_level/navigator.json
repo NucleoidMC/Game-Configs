@@ -1,6 +1,8 @@
 {
   "type": "nucleoid_extras:styled/advanced_menu",
-  "name": "Navigator",
+  "name": {
+    "translate": "nucleoid.navigator"
+  },
   "icon": "minecraft:compass",
   "entries": [
     {
