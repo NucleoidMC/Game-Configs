@@ -4,6 +4,10 @@
   "server.nucleoid.build": "Build Server",
 
   "nucleoid.navigator": "Navigator",
+  "nucleoid.navigator.category.casual": "Casual",
+  "nucleoid.navigator.category.combat": "Combat",
+  "nucleoid.navigator.category.party": "Party",
+  "nucleoid.navigator.category.tabletop": "Tabletop",
 
   "game.nucleoid.capture_the_flag": "Capture the Flag",
   "game.nucleoid.chaotic": "Chaotic",
@@ -90,15 +94,5 @@
   "game.nucleoid.skywars.duos": "Skywars (Duos)",
   
   "game.nucleoid.tater": "Tater Games",
-  "game.nucleoid.tater.spleef": "Tater Spleef",
-
-  "game.nucleoid.uhc.solo": "UHC (Solo)",
-  "game.nucleoid.uhc.duos": "UHC (Duos)",
-  "game.nucleoid.uhc.trios": "UHC (Trios)",
-  "game.nucleoid.uhc.squads": "UHC (Squads)",
-
-  "game.nucleoid.uhcrun.solo": "UHCRun (Solo)",
-  "game.nucleoid.uhcrun.duos": "UHCRun (Duos)",
-  "game.nucleoid.uhcrun.trios": "UHCRun (Trios)",
-  "game.nucleoid.uhcrun.squads": "UHCRun (Squads)"
+  "game.nucleoid.tater.spleef": "Tater Spleef"
 }
