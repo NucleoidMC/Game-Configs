@@ -1,0 +1,141 @@
+{
+  "type": "nucleoid_extras:styled/advanced_menu",
+  "name": {
+    "translate": "nucleoid.navigator.category.party"
+  },
+  "icon": "minecraft:experience_bottle",
+  "entries": [
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:anvil_drop"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:ascension"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:bow_battle"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:cabinfever"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:cavern_crawler"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:clutch_practice"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:color_swap"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:cornmaze"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:creeperfall"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:deacoudre"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:deathrun"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:downpour"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:electric_floor"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:elytron"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:farmy_feud"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:irritater_run"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:koth"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:loopdeloop"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:minefield"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:mineout"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:paintball"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:party"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:rocketspleef"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:shard_thief"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:slime_mould"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:snake"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:snowball_fight"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:top_level/spleef_modes"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:tater_games"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:territory_battle"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:tnttag"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:totem_hunt"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:volleyball"
+    }
+  ]
+}
