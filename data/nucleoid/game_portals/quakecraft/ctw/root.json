@@ -2,10 +2,9 @@
   "type": "nucleoid_extras:styled/simple_menu",
   "icon": "minecraft:iron_hoe",
   "games": [
-    "nucleoid:quakecraft/random",
     "nucleoid:quakecraft/ctf"
   ],
   "name": {
-    "translate": "gameType.quakecraft.quakecraft"
+    "translate": "game.nucleoid.capture_the_flag"
   }
 }

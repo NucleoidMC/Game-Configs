@@ -36,7 +36,7 @@
     },
     {
       "type": "plasmid:portal",
-      "portal": "nucleoid:quakecraft"
+      "portal": "nucleoid:quakecraft/root"
     }
   ]
 }

@@ -4,7 +4,7 @@
     "quakecraft:ctf_2fort"
   ],
   "name": {
-    "translate": "game.nucleoid.capture_the_flag"
+    "translate": "game.nucleoid.random"
   },
   "icon": "minecraft:purple_wool"
 }

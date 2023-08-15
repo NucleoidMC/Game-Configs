@@ -1,0 +1,19 @@
+{
+  "type": "nucleoid_extras:styled/advanced_menu",
+  "name": {
+    "translate": "gameType.quakecraft.quakecraft"
+  },
+  "icon": "minecraft:iron_hoe",
+  "entries": [
+    {
+      "type": "nucleoid_extras:quick_portal",
+      "portal": "nucleoid:quakecraft/standard/root",
+      "quick_portal": "nucleoid:quakecraft/standard/random"
+    },
+    {
+      "type": "nucleoid_extras:quick_portal",
+      "portal": "nucleoid:quakecraft/ctw/root",
+      "quick_portal": "nucleoid:quakecraft/ctw/random"
+    }
+  ]
+}
