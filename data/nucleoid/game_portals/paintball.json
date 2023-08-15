@@ -2,7 +2,7 @@
   "type": "nucleoid_extras:styled/simple_menu",
   "icon": "minecraft:red_dye",
   "games": [
-	"paintball:garden_paintball"
+    "paintball:garden_paintball"
   ],
   "name": {
     "translate": "gameType.paintball.paintball"

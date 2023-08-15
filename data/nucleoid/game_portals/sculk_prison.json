@@ -1,5 +1,5 @@
 {
-  "type": "plasmid:on_demand",
+  "type": "plasmid:concurrent_game",
   "icon": "minecraft:iron_bars",
   "game": "sculkprison:standard_sculk_prison",
   "name": {

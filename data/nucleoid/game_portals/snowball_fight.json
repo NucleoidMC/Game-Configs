@@ -1,5 +1,5 @@
 {
-  "type": "plasmid:on_demand",
+  "type": "plasmid:concurrent_game",
   "icon": "minecraft:snowball",
   "game": "snowballfight:standard_snowball_fight",
   "name": {

@@ -1,5 +1,5 @@
 {
-  "type": "plasmid:on_demand",
+  "type": "plasmid:concurrent_game",
   "icon": "nucleoid_extras:irritater",
   "game": "irritaterrun:standard_irritater_run",
   "name": {

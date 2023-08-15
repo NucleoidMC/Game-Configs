@@ -1,0 +1,8 @@
+{
+  "type": "plasmid:concurrent_game",
+  "icon": "nucleoid_extras:tiny_potato",
+  "game": "skywars:single/tinytater",
+  "name": {
+    "translate": "game.skywars.tinytater"
+  }
+}

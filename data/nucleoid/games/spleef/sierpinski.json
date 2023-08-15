@@ -20,8 +20,8 @@
     "max": 100,
     "threshold": 2
   },
-  "tool": { 
-    "id": "minecraft:diamond_shovel", 
+  "tool": {
+    "id": "minecraft:diamond_shovel",
     "Count": 1
   },
   "icon": "minecraft:moss_carpet"

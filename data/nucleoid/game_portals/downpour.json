@@ -1,5 +1,5 @@
 {
-  "type": "plasmid:on_demand",
+  "type": "plasmid:concurrent_game",
   "icon": "minecraft:lightning_rod",
   "game": "downpour:standard_downpour",
   "name": {

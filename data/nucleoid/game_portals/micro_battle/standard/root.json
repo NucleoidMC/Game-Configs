@@ -1,0 +1,13 @@
+{
+  "type": "nucleoid_extras:styled/simple_menu",
+  "icon": "minecraft:netherite_axe",
+  "games": [
+    "microbattle:standard_micro_battle",
+    "microbattle:soul_micro_battle",
+    "microbattle:respawner_micro_battle",
+    "microbattle:soul_respawner_micro_battle"
+  ],
+  "name": {
+    "translate": "game.nucleoid.standard"
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "type": "plasmid:on_demand",
+  "type": "plasmid:concurrent_game",
   "icon": "minecraft:creeper_head",
   "game": "creeperfall:standard",
   "name": {

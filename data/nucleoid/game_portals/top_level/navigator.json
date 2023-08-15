@@ -1,25 +1,26 @@
 {
-  "type": "nucleoid_extras:styled/advanced_menu",
+  "type": "nucleoid_extras:styled/handmade_menu",
   "name": {
     "translate": "nucleoid.navigator"
   },
   "icon": "minecraft:compass",
-  "entries": [
-    {
+  "entries": {
+    "1:2": {
       "type": "plasmid:portal",
-      "portal": "nucleoid:categories/combat"
+      "portal": "nucleoid:top_level/categories/combat"
     },
-    {
+    "3:2": {
       "type": "plasmid:portal",
-      "portal": "nucleoid:categories/casual"
+      "portal": "nucleoid:top_level/categories/casual"
     },
-    {
-      "type": "plasmid:portal",
-      "portal": "nucleoid:categories/party"
+    "5:2": {
+      "type": "nucleoid_extras:quick_portal",
+      "portal": "nucleoid:top_level/categories/party",
+      "quick_portal": "nucleoid:party"
     },
-    {
+    "7:2": {
       "type": "plasmid:portal",
-      "portal": "nucleoid:categories/tabletop"
+      "portal": "nucleoid:top_level/categories/tabletop"
     }
-  ]
+  }
 }

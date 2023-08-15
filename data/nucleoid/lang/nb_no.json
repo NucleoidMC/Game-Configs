@@ -1,9 +1,9 @@
 {
-    "game.nucleoid.chaotic": "Kaotisk",
-    "game.nucleoid.random": "Tilfeldig",
-    "game.nucleoid.four_teams": "Fire lag",
-    "game.nucleoid.standard": "Forvalg",
-    "game.nucleoid.two_teams": "To lag",
-    "game.nucleoid.party": "Festspill",
-    "game.nucleoid.spleef.run.corridors": "Korridor-renn"
+  "game.nucleoid.chaotic": "Kaotisk",
+  "game.nucleoid.random": "Tilfeldig",
+  "game.nucleoid.four_teams": "Fire lag",
+  "game.nucleoid.standard": "Forvalg",
+  "game.nucleoid.two_teams": "To lag",
+  "game.nucleoid.party": "Festspill",
+  "game.nucleoid.spleef.run.corridors": "Korridor-renn"
 }

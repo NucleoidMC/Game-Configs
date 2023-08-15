@@ -1,0 +1,24 @@
+{
+  "type": "nucleoid_extras:styled/advanced_menu",
+  "name": {
+    "translate": "gameType.beaconbreakers.beacon_breakers"
+  },
+  "icon": "minecraft:beacon",
+  "entries": [
+    {
+      "type": "nucleoid_extras:quick_portal",
+      "portal": "nucleoid:beaconbreakers/standard/root",
+      "quick_portal": "nucleoid:beaconbreakers/standard/random"
+    },
+    {
+      "type": "nucleoid_extras:quick_portal",
+      "portal": "nucleoid:beaconbreakers/keep_inventory/root",
+      "quick_portal": "nucleoid:beaconbreakers/keep_inventory/random"
+    },
+    {
+      "type": "nucleoid_extras:quick_portal",
+      "portal": "nucleoid:beaconbreakers/tiny/root",
+      "quick_portal": "nucleoid:beaconbreakers/tiny/random"
+    }
+  ]
+}

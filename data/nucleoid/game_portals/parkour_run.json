@@ -1,5 +1,5 @@
 {
-  "type": "plasmid:on_demand",
+  "type": "plasmid:concurrent_game",
   "icon": "minecraft:iron_leggings",
   "game": "parkourrun:standard_parkour_run",
   "name": {

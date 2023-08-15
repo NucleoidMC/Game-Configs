@@ -1,0 +1,67 @@
+{
+  "type": "nucleoid_extras:styled/advanced_menu",
+  "name": {
+    "translate": "nucleoid.navigator.category.combat"
+  },
+  "icon": "minecraft:golden_sword",
+  "entries": [
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:skywars/root"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:bedwars/root"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:cake_wars/root"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "uhc:root"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:survival_games"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:destroy_the_monument/root"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:the_towers"
+    },
+    {
+      "type": "nucleoid_extras:quick_portal",
+      "portal": "nucleoid:fortress/root",
+      "quick_portal": "nucleoid:fortress/random"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:siege"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:micro_battle/root"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:beacon_breakers/root"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:wave_defense"
+    },
+    {
+      "type": "nucleoid_extras:quick_portal",
+      "portal": "nucleoid:death_swap/root",
+      "quick_portal": "nucleoid:death_swap/random"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:duels"
+    }
+  ]
+}

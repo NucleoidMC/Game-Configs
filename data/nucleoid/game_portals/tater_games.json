@@ -1,5 +1,5 @@
 {
-  "type": "plasmid:on_demand",
+  "type": "plasmid:concurrent_game",
   "icon": "nucleoid_extras:tiny_potato",
   "game": "nucleoid:tater/random",
   "name": {

@@ -1,5 +1,5 @@
 {
-  "type": "plasmid:on_demand",
+  "type": "plasmid:concurrent_game",
   "icon": "minecraft:coal_block",
   "game": "cabinfever:standard_cabin_fever",
   "name": {

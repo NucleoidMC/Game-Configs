@@ -1,0 +1,11 @@
+{
+  "type": "nucleoid_extras:styled/simple_menu",
+  "icon": "minecraft:rabbit_foot",
+  "games": [
+    "ascension:standard_ascension",
+    "nucleoid:ascension/cave"
+  ],
+  "name": {
+    "translate": "gameType.ascension.ascension"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "nucleoid_extras:styled/advanced_menu",
+  "name": {
+    "translate": "gameType.microbattle.micro_battle"
+  },
+  "icon": "minecraft:netherite_axe",
+  "entries": [
+    {
+      "type": "nucleoid_extras:quick_portal",
+      "portal": "nucleoid:micro_battle/standard/root",
+      "quick_portal": "nucleoid:micro_battle/standard/random"
+    },
+    {
+      "type": "nucleoid_extras:quick_portal",
+      "portal": "nucleoid:micro_battle/old_combat/root",
+      "quick_portal": "nucleoid:micro_battle/old_combat/random"
+    }
+  ]
+}

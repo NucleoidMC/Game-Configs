@@ -2,8 +2,8 @@
   "type": "consolebox:console_box",
   "name": "Maze (<c:#86c06c>WASM-4<r>)",
   "description": [
-	"Traverse in a maze, trying to find your way out!",
-	"Developed by: Ben Smith"
+    "Traverse in a maze, trying to find your way out!",
+    "Developed by: Ben Smith"
   ],
   "icon": "minecraft:hay_block",
   "game": "nucleoid:maze",
