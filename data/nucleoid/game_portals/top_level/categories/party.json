@@ -22,15 +22,15 @@
     },
     {
       "type": "plasmid:portal",
+      "portal": "nucleoid:block_lobbers"
+    },
+    {
+      "type": "plasmid:portal",
       "portal": "nucleoid:cabinfever"
     },
     {
       "type": "plasmid:portal",
       "portal": "nucleoid:cavern_crawler"
-    },
-    {
-      "type": "plasmid:portal",
-      "portal": "nucleoid:clutch_practice"
     },
     {
       "type": "nucleoid_extras:quick_portal",
@@ -44,15 +44,7 @@
     },
     {
       "type": "plasmid:portal",
-      "portal": "nucleoid:creeperfall"
-    },
-    {
-      "type": "plasmid:portal",
       "portal": "nucleoid:deacoudre"
-    },
-    {
-      "type": "plasmid:portal",
-      "portal": "nucleoid:deathrun"
     },
     {
       "type": "plasmid:portal",
@@ -65,10 +57,6 @@
     {
       "type": "plasmid:portal",
       "portal": "nucleoid:elytron"
-    },
-    {
-      "type": "plasmid:portal",
-      "portal": "nucleoid:farmy_feud"
     },
     {
       "type": "plasmid:portal",
@@ -92,18 +80,6 @@
       "portal": "nucleoid:mineout"
     },
     {
-      "type": "plasmid:portal",
-      "portal": "nucleoid:paintball"
-    },
-    {
-      "type": "plasmid:portal",
-      "portal": "nucleoid:party"
-    },
-    {
-      "type": "plasmid:portal",
-      "portal": "nucleoid:rocketspleef"
-    },
-    {
       "type": "nucleoid_extras:quick_portal",
       "portal": "nucleoid:shard_thief/root",
       "quick_portal": "nucleoid:shard_thief/random"
@@ -123,10 +99,6 @@
     },
     {
       "type": "plasmid:portal",
-      "portal": "nucleoid:spleef/root"
-    },
-    {
-      "type": "plasmid:portal",
       "portal": "nucleoid:tater_games"
     },
     {
@@ -141,10 +113,6 @@
       "type": "nucleoid_extras:quick_portal",
       "portal": "nucleoid:totem_hunt/root",
       "quick_portal": "nucleoid:totem_hunt/random"
-    },
-    {
-      "type": "plasmid:portal",
-      "portal": "nucleoid:volleyball"
     }
   ]
 }

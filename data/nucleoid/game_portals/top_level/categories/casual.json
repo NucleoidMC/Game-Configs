@@ -39,6 +39,38 @@
     {
       "type": "plasmid:portal",
       "portal": "nucleoid:quakecraft/root"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:clutch_practice"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:creeperfall"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:deathrun"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:farmy_feud"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:spleef/root"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:rocketspleef"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:paintball"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:volleyball"
     }
   ]
 }
