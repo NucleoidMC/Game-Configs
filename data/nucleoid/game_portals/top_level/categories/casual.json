@@ -19,8 +19,9 @@
       "quick_portal": "nucleoid:infinite_parkour/random"
     },
     {
-      "type": "plasmid:portal",
-      "portal": "nucleoid:parkour_race"
+      "type": "nucleoid_extras:quick_portal",
+      "portal": "nucleoid:parkour_race/root",
+      "quick_portal": "nucleoid:parkour_race/random"
     },
     {
       "type": "plasmid:portal",

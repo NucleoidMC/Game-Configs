@@ -1,0 +1,11 @@
+{
+  "type": "plasmid:random",
+  "games": [
+    "parkour_race:boxed",
+    "parkour_race:rainbow"
+  ],
+  "name": {
+    "translate": "game.nucleoid.random"
+  },
+  "icon": "minecraft:diamond_boots"
+}
