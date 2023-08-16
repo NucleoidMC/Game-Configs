@@ -42,7 +42,7 @@
       "portal": "nucleoid:color_swap/root",
       "quick_portal": "nucleoid:color_swap/random",
       "message": {
-        "translate": "text.nucleoid_extras.ui.action.maps"
+        "translate": "text.nucleoid_extras.ui.action.modes"
       }
     },
     {
