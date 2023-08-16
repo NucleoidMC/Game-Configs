@@ -1,8 +1,4 @@
 {
   "type": "plasmid:concurrent_game",
-  "icon": "minecraft:gold_block",
-  "game": "compound:compound",
-  "name": {
-    "translate": "gameType.compound.compound"
-  }
+  "game": "compound:compound"
 }

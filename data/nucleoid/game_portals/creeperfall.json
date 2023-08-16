@@ -1,8 +1,4 @@
 {
   "type": "plasmid:concurrent_game",
-  "icon": "minecraft:creeper_head",
-  "game": "creeperfall:standard",
-  "name": {
-    "translate": "gameType.creeperfall.creeperfall"
-  }
+  "game": "creeperfall:standard"
 }

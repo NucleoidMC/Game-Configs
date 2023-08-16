@@ -1,8 +1,4 @@
 {
   "type": "plasmid:concurrent_game",
-  "icon": "minecraft:purple_stained_glass",
-  "game": "electricfloor:standard_electric_floor",
-  "name": {
-    "translate": "gameType.electricfloor.electric_floor"
-  }
+  "game": "electricfloor:standard_electric_floor"
 }

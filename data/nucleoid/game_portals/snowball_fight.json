@@ -1,8 +1,4 @@
 {
   "type": "plasmid:concurrent_game",
-  "icon": "minecraft:snowball",
-  "game": "snowballfight:standard_snowball_fight",
-  "name": {
-    "translate": "gameType.snowballfight.snowball_fight"
-  }
+  "game": "snowballfight:standard_snowball_fight"
 }

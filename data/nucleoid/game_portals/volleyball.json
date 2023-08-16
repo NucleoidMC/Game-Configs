@@ -1,8 +1,4 @@
 {
   "type": "plasmid:concurrent_game",
-  "icon": "minecraft:chiseled_quartz_block",
-  "game": "volleyball:standard_volleyball",
-  "name": {
-    "translate": "gameType.volleyball.volleyball"
-  }
+  "game": "volleyball:standard_volleyball"
 }

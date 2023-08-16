@@ -10,6 +10,11 @@
       "portal": "nucleoid:clutch_practice"
     },
     {
+      "type": "nucleoid_extras:quick_portal",
+      "portal": "nucleoid:creative_party/root",
+      "quick_portal": "nucleoid:creative_party/random"
+    },
+    {
       "type": "plasmid:portal",
       "portal": "nucleoid:tater_games"
     },

@@ -1,8 +1,4 @@
 {
   "type": "plasmid:concurrent_game",
-  "icon": "minecraft:cobblestone",
-  "game": "castle_wars:castlewars_with_pvp",
-  "name": {
-    "translate": "gameType.castle_wars.castle_wars"
-  }
+  "game": "castle_wars:castlewars_with_pvp"
 }

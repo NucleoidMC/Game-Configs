@@ -1,8 +1,4 @@
 {
   "type": "plasmid:concurrent_game",
-  "icon": "minecraft:stone_pressure_plate",
-  "game": "minefield:standard_minefield",
-  "name": {
-    "translate": "gameType.minefield.minefield"
-  }
+  "game": "minefield:standard_minefield"
 }

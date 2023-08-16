@@ -1,8 +1,4 @@
 {
   "type": "plasmid:concurrent_game",
-  "icon": "minecraft:yellow_terracotta",
-  "game": "blocklobbers:construction_block_lobbers",
-  "name": {
-    "translate": "gameType.blocklobbers.block_lobbers"
-  }
+  "game": "blocklobbers:construction_block_lobbers"
 }

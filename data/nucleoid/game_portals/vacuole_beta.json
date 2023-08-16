@@ -1,8 +1,4 @@
 {
   "type": "plasmid:concurrent_game",
-  "icon": "minecraft:glow_ink_sac",
-  "game": "nucleoid:vacuole/beta",
-  "name": {
-    "translate": "gameType.vacuole.vacuole"
-  }
+  "game": "nucleoid:vacuole/beta"
 }

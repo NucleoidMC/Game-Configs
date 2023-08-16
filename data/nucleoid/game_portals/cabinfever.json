@@ -1,8 +1,4 @@
 {
   "type": "plasmid:concurrent_game",
-  "icon": "minecraft:coal_block",
-  "game": "cabinfever:standard_cabin_fever",
-  "name": {
-    "translate": "gameType.cabinfever.cabin_fever"
-  }
+  "game": "cabinfever:standard_cabin_fever"
 }

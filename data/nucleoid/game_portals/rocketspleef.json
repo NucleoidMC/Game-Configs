@@ -1,8 +1,4 @@
 {
   "type": "plasmid:concurrent_game",
-  "icon": "minecraft:firework_rocket",
-  "game": "rocketspleef:standard",
-  "name": {
-    "translate": "gameType.rocketspleef.rocket_spleef"
-  }
+  "game": "rocketspleef:standard"
 }
