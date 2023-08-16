@@ -19,6 +19,18 @@
     },
     {
       "type": "plasmid:portal",
+      "portal": "nucleoid:destroy_the_monument/root"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:the_towers"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:duels"
+    },
+    {
+      "type": "plasmid:portal",
       "portal": "uhc:root"
     },
     {
@@ -26,12 +38,12 @@
       "portal": "nucleoid:survival_games"
     },
     {
-      "type": "plasmid:portal",
-      "portal": "nucleoid:destroy_the_monument/root"
-    },
-    {
-      "type": "plasmid:portal",
-      "portal": "nucleoid:the_towers"
+      "type": "nucleoid_extras:quick_portal",
+      "portal": "nucleoid:death_swap/root",
+      "quick_portal": "nucleoid:death_swap/random",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.maps"
+      }
     },
     {
       "type": "nucleoid_extras:quick_portal",
@@ -47,23 +59,15 @@
     },
     {
       "type": "plasmid:portal",
+      "portal": "nucleoid:farmy_feud"
+    },
+    {
+      "type": "plasmid:portal",
       "portal": "nucleoid:micro_battle/root"
     },
     {
       "type": "plasmid:portal",
       "portal": "nucleoid:beacon_breakers/root"
-    },
-    {
-      "type": "nucleoid_extras:quick_portal",
-      "portal": "nucleoid:death_swap/root",
-      "quick_portal": "nucleoid:death_swap/random",
-      "message": {
-        "translate": "text.nucleoid_extras.ui.action.maps"
-      }
-    },
-    {
-      "type": "plasmid:portal",
-      "portal": "nucleoid:duels"
     }
   ]
 }

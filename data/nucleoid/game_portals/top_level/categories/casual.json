@@ -67,10 +67,6 @@
     },
     {
       "type": "plasmid:portal",
-      "portal": "nucleoid:farmy_feud"
-    },
-    {
-      "type": "plasmid:portal",
       "portal": "nucleoid:spleef/root"
     },
     {
