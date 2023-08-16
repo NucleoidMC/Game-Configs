@@ -8,12 +8,18 @@
     {
       "type": "nucleoid_extras:quick_portal",
       "portal": "nucleoid:quakecraft/standard/root",
-      "quick_portal": "nucleoid:quakecraft/standard/random"
+      "quick_portal": "nucleoid:quakecraft/standard/random",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.maps"
+      }
     },
     {
       "type": "nucleoid_extras:quick_portal",
       "portal": "nucleoid:quakecraft/ctw/root",
-      "quick_portal": "nucleoid:quakecraft/ctw/random"
+      "quick_portal": "nucleoid:quakecraft/ctw/random",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.maps"
+      }
     }
   ]
 }

@@ -8,7 +8,10 @@
     {
       "type": "nucleoid_extras:quick_portal",
       "portal": "nucleoid:last_card/root",
-      "quick_portal": "nucleoid:last_card/random"
+      "quick_portal": "nucleoid:last_card/random",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.maps"
+      }
     },
     {
       "type": "plasmid:portal",
@@ -29,10 +32,6 @@
     {
       "type": "plasmid:portal",
       "portal": "nucleoid:werewolf"
-    },
-    {
-      "type": "plasmid:portal",
-      "portal": "nucleoid:consolebox"
     }
   ]
 }

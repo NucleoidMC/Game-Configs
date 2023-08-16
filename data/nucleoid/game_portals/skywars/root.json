@@ -8,12 +8,18 @@
     {
       "type": "nucleoid_extras:quick_portal",
       "portal": "nucleoid:skywars/singles/root",
-      "quick_portal": "nucleoid:skywars/singles/random"
+      "quick_portal": "nucleoid:skywars/singles/random",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.maps"
+      }
     },
     {
       "type": "nucleoid_extras:quick_portal",
       "portal": "nucleoid:skywars/duos/root",
-      "quick_portal": "nucleoid:skywars/duos/random"
+      "quick_portal": "nucleoid:skywars/duos/random",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.maps"
+      }
     }
   ]
 }

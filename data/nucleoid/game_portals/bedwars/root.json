@@ -8,17 +8,26 @@
     {
       "type": "nucleoid_extras:quick_portal",
       "portal": "nucleoid:bedwars/two_teams/root",
-      "quick_portal": "nucleoid:bedwars/two_teams/random"
+      "quick_portal": "nucleoid:bedwars/two_teams/random",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.maps"
+      }
     },
     {
       "type": "nucleoid_extras:quick_portal",
       "portal": "nucleoid:bedwars/four_teams/root",
-      "quick_portal": "nucleoid:bedwars/four_teams/random"
+      "quick_portal": "nucleoid:bedwars/four_teams/random",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.maps"
+      }
     },
     {
       "type": "nucleoid_extras:quick_portal",
       "portal": "nucleoid:bedwars/eight_teams/root",
-      "quick_portal": "nucleoid:bedwars/eight_teams/random"
+      "quick_portal": "nucleoid:bedwars/eight_teams/random",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.maps"
+      }
     }
   ]
 }

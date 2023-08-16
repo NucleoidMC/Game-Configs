@@ -16,11 +16,18 @@
     "5:2": {
       "type": "nucleoid_extras:quick_portal",
       "portal": "nucleoid:top_level/categories/party",
-      "quick_portal": "nucleoid:party"
+      "quick_portal": "nucleoid:party",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.party_games"
+      }
     },
     "7:2": {
       "type": "plasmid:portal",
       "portal": "nucleoid:top_level/categories/tabletop"
+    },
+    "4:4": {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:top_level/categories/miscellaneous"
     }
   }
 }

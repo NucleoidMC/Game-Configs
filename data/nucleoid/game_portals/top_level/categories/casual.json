@@ -3,7 +3,7 @@
   "name": {
     "translate": "nucleoid.navigator.category.casual"
   },
-  "icon": "minecraft:azalea_leaves",
+  "icon": "minecraft:axolotl_bucket",
   "entries": [
     {
       "type": "plasmid:portal",
@@ -16,12 +16,18 @@
     {
       "type": "nucleoid_extras:quick_portal",
       "portal": "nucleoid:infinite_parkour/root",
-      "quick_portal": "nucleoid:infinite_parkour/random"
+      "quick_portal": "nucleoid:infinite_parkour/random",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.maps"
+      }
     },
     {
       "type": "nucleoid_extras:quick_portal",
       "portal": "nucleoid:parkour_race/root",
-      "quick_portal": "nucleoid:parkour_race/random"
+      "quick_portal": "nucleoid:parkour_race/random",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.maps"
+      }
     },
     {
       "type": "plasmid:portal",
@@ -34,7 +40,14 @@
     {
       "type": "nucleoid_extras:quick_portal",
       "portal": "nucleoid:murder_mystery/root",
-      "quick_portal": "nucleoid:murder_mystery/random"
+      "quick_portal": "nucleoid:murder_mystery/random",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.maps"
+      }
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:wave_defense"
     },
     {
       "type": "plasmid:portal",
@@ -42,7 +55,7 @@
     },
     {
       "type": "plasmid:portal",
-      "portal": "nucleoid:clutch_practice"
+      "portal": "nucleoid:cavern_crawler"
     },
     {
       "type": "plasmid:portal",

@@ -8,17 +8,26 @@
     "2:2": {
       "type": "nucleoid_extras:quick_portal",
       "portal": "nucleoid:destroy_the_monument/two_teams/root",
-      "quick_portal": "nucleoid:destroy_the_monument/two_teams/random"
+      "quick_portal": "nucleoid:destroy_the_monument/two_teams/random",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.maps"
+      }
     },
     "4:2": {
       "type": "nucleoid_extras:quick_portal",
       "portal": "nucleoid:destroy_the_monument/four_teams/root",
-      "quick_portal": "nucleoid:destroy_the_monument/four_teams/random"
+      "quick_portal": "nucleoid:destroy_the_monument/four_teams/random",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.maps"
+      }
     },
     "6:2": {
       "type": "nucleoid_extras:quick_portal",
       "portal": "nucleoid:destroy_the_monument/duels/root",
-      "quick_portal": "nucleoid:destroy_the_monument/duels/random"
+      "quick_portal": "nucleoid:destroy_the_monument/duels/random",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.maps"
+      }
     }
   }
 }

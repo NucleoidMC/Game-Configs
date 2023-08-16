@@ -8,17 +8,26 @@
     {
       "type": "nucleoid_extras:quick_portal",
       "portal": "nucleoid:anvil_drop/root",
-      "quick_portal": "nucleoid:anvil_drop/random"
+      "quick_portal": "nucleoid:anvil_drop/random",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.maps"
+      }
     },
     {
       "type": "nucleoid_extras:quick_portal",
       "portal": "nucleoid:ascension/root",
-      "quick_portal": "nucleoid:ascension/random"
+      "quick_portal": "nucleoid:ascension/random",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.maps"
+      }
     },
     {
       "type": "nucleoid_extras:quick_portal",
       "portal": "nucleoid:bow_battle/root",
-      "quick_portal": "nucleoid:bow_battle/random"
+      "quick_portal": "nucleoid:bow_battle/random",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.maps"
+      }
     },
     {
       "type": "plasmid:portal",
@@ -29,18 +38,20 @@
       "portal": "nucleoid:cabinfever"
     },
     {
-      "type": "plasmid:portal",
-      "portal": "nucleoid:cavern_crawler"
-    },
-    {
       "type": "nucleoid_extras:quick_portal",
       "portal": "nucleoid:color_swap/root",
-      "quick_portal": "nucleoid:color_swap/random"
+      "quick_portal": "nucleoid:color_swap/random",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.maps"
+      }
     },
     {
       "type": "nucleoid_extras:quick_portal",
       "portal": "nucleoid:cornmaze/root",
-      "quick_portal": "nucleoid:cornmaze/random"
+      "quick_portal": "nucleoid:cornmaze/random",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.maps"
+      }
     },
     {
       "type": "plasmid:portal",
@@ -65,7 +76,10 @@
     {
       "type": "nucleoid_extras:quick_portal",
       "portal": "nucleoid:koth/root",
-      "quick_portal": "nucleoid:koth/random"
+      "quick_portal": "nucleoid:koth/random",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.maps"
+      }
     },
     {
       "type": "plasmid:portal",
@@ -82,7 +96,10 @@
     {
       "type": "nucleoid_extras:quick_portal",
       "portal": "nucleoid:shard_thief/root",
-      "quick_portal": "nucleoid:shard_thief/random"
+      "quick_portal": "nucleoid:shard_thief/random",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.maps"
+      }
     },
     {
       "type": "plasmid:portal",
@@ -91,15 +108,14 @@
     {
       "type": "nucleoid_extras:quick_portal",
       "portal": "nucleoid:snake/root",
-      "quick_portal": "nucleoid:snake/random"
+      "quick_portal": "nucleoid:snake/random",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.maps"
+      }
     },
     {
       "type": "plasmid:portal",
       "portal": "nucleoid:snowball_fight"
-    },
-    {
-      "type": "plasmid:portal",
-      "portal": "nucleoid:tater_games"
     },
     {
       "type": "plasmid:portal",
@@ -112,7 +128,10 @@
     {
       "type": "nucleoid_extras:quick_portal",
       "portal": "nucleoid:totem_hunt/root",
-      "quick_portal": "nucleoid:totem_hunt/random"
+      "quick_portal": "nucleoid:totem_hunt/random",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.maps"
+      }
     }
   ]
 }

@@ -1,0 +1,21 @@
+{
+  "type": "nucleoid_extras:styled/advanced_menu",
+  "name": {
+    "translate": "nucleoid.navigator.category.miscellaneous"
+  },
+  "icon": "minecraft:tnt",
+  "entries": [
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:clutch_practice"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:tater_games"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:consolebox"
+    }
+  ]
+}

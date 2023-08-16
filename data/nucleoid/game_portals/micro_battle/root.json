@@ -8,12 +8,18 @@
     {
       "type": "nucleoid_extras:quick_portal",
       "portal": "nucleoid:micro_battle/standard/root",
-      "quick_portal": "nucleoid:micro_battle/standard/random"
+      "quick_portal": "nucleoid:micro_battle/standard/random",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.maps"
+      }
     },
     {
       "type": "nucleoid_extras:quick_portal",
       "portal": "nucleoid:micro_battle/old_combat/root",
-      "quick_portal": "nucleoid:micro_battle/old_combat/random"
+      "quick_portal": "nucleoid:micro_battle/old_combat/random",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.maps"
+      }
     }
   ]
 }

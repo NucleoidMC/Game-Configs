@@ -3,7 +3,7 @@
   "name": {
     "translate": "nucleoid.navigator.category.combat"
   },
-  "icon": "minecraft:golden_sword",
+  "icon": "minecraft:diamond_sword",
   "entries": [
     {
       "type": "plasmid:portal",
@@ -36,7 +36,10 @@
     {
       "type": "nucleoid_extras:quick_portal",
       "portal": "nucleoid:fortress/root",
-      "quick_portal": "nucleoid:fortress/random"
+      "quick_portal": "nucleoid:fortress/random",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.maps"
+      }
     },
     {
       "type": "plasmid:portal",
@@ -51,13 +54,12 @@
       "portal": "nucleoid:beacon_breakers/root"
     },
     {
-      "type": "plasmid:portal",
-      "portal": "nucleoid:wave_defense"
-    },
-    {
       "type": "nucleoid_extras:quick_portal",
       "portal": "nucleoid:death_swap/root",
-      "quick_portal": "nucleoid:death_swap/random"
+      "quick_portal": "nucleoid:death_swap/random",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.maps"
+      }
     },
     {
       "type": "plasmid:portal",
