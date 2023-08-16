@@ -6,11 +6,7 @@
     "loopdeloop:ridiculous",
     "loopdeloop:amplified",
     "loopdeloop:marathon",
-    "loopdeloop:quick",
-    "loopdeloop:flappy/standard",
-    "loopdeloop:flappy/classic",
-    "loopdeloop:flappy/quick",
-    "loopdeloop:flappy/ridiculous"
+    "loopdeloop:quick"
   ],
   "name": {
     "translate": "gameType.loopdeloop.loopdeloop"

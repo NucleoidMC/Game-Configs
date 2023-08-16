@@ -9,7 +9,7 @@
   "nucleoid.navigator.category.party": "Party",
   "nucleoid.navigator.category.tabletop": "Tabletop",
   "nucleoid.navigator.category.miscellaneous": "Miscellaneous",
-  
+
   "text.nucleoid_extras.ui.action.maps": "Right-click to view maps",
   "text.nucleoid_extras.ui.action.modes": "Right-click to view modes",
   "text.nucleoid_extras.ui.action.party_games": "Right-click to view all party games",
@@ -99,5 +99,7 @@
   "game.nucleoid.skywars.duos": "Skywars (Duos)",
   
   "game.nucleoid.tater": "Tater Games",
-  "game.nucleoid.tater.spleef": "Tater Spleef"
+  "game.nucleoid.tater.spleef": "Tater Spleef",
+
+  "game.nucleoid.loopdeloop.flappy": "LoopdeLoop Flappy"
 }

@@ -83,7 +83,7 @@
     },
     {
       "type": "plasmid:portal",
-      "portal": "nucleoid:loopdeloop"
+      "portal": "nucleoid:loopdeloop/root"
     },
     {
       "type": "plasmid:portal",
