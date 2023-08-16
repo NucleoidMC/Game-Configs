@@ -3,6 +3,7 @@
   "icon": "minecraft:hay_block",
   "games": [
     "cornmaze:standard_corn_maze",
+    "cornmaze:decayed_corn_maze",
     "nucleoid:cornmaze/small"
   ],
   "name": {
