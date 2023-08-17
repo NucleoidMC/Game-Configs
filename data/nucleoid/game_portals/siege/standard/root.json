@@ -1,0 +1,11 @@
+{
+  "type": "nucleoid_extras:styled/simple_menu",
+  "name": {
+    "translate": "game.nucleoid.standard"
+  },
+  "icon": "minecraft:campfire",
+  "games": [
+    "siege:jungle",
+    "siege:villagers_vs_pillagers"
+  ]
+}

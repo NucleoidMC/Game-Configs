@@ -55,7 +55,7 @@
     },
     {
       "type": "plasmid:portal",
-      "portal": "nucleoid:siege"
+      "portal": "nucleoid:siege/root"
     },
     {
       "type": "plasmid:portal",
