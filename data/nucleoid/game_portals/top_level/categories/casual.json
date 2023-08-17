@@ -62,8 +62,12 @@
       "portal": "nucleoid:creeperfall"
     },
     {
-      "type": "plasmid:portal",
-      "portal": "nucleoid:deathrun"
+      "type": "nucleoid_extras:quick_portal",
+      "portal": "nucleoid:deathrun/root",
+      "quick_portal": "nucleoid:deathrun/random",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.maps"
+      }
     },
     {
       "type": "plasmid:portal",

@@ -1,0 +1,11 @@
+{
+  "type": "nucleoid_extras:styled/simple_menu",
+  "icon": "minecraft:wither_skeleton_skull",
+  "games": [
+    "deathrun:gardens",
+    "deathrun:gardens_runners"
+  ],
+  "name": {
+    "translate": "gameType.deathrun.deathrun"
+  }
+}
