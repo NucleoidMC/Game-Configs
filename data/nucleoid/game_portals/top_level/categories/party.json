@@ -55,7 +55,7 @@
     },
     {
       "type": "plasmid:portal",
-      "portal": "nucleoid:deacoudre"
+      "portal": "nucleoid:deacoudre/root"
     },
     {
       "type": "plasmid:portal",
