@@ -16,11 +16,15 @@
     },
     {
       "type": "plasmid:portal",
+      "portal": "nucleoid:consolebox"
+    },
+    {
+      "type": "plasmid:portal",
       "portal": "nucleoid:tater_games"
     },
     {
       "type": "plasmid:portal",
-      "portal": "nucleoid:consolebox"
+      "portal": "cursed:cursed"
     }
   ]
 }
