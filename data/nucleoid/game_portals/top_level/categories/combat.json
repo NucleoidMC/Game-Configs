@@ -23,7 +23,7 @@
     },
     {
       "type": "plasmid:portal",
-      "portal": "nucleoid:the_towers"
+      "portal": "the_towers:root"
     },
     {
       "type": "plasmid:portal",
