@@ -10,7 +10,7 @@
       "portal": "nucleoid:anvil_drop/root",
       "quick_portal": "nucleoid:anvil_drop/random",
       "message": {
-        "translate": "text.nucleoid_extras.ui.action.maps"
+        "translate": "text.nucleoid_extras.ui.action.modes"
       }
     },
     {
