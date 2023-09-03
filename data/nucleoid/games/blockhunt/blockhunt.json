@@ -1,0 +1,10 @@
+{
+    "type": "blockhunt:blockhunt",
+    "games": [
+      "blockhunt:fort_du_perdu"
+    ],
+    "name": {
+      "translate": "game.blockhunt.blockhunt"
+    },
+    "icon": "minecraft:campfire"
+}
