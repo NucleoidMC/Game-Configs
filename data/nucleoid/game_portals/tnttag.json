@@ -1,8 +1,4 @@
 {
-  "type": "plasmid:on_demand",
-  "icon": "minecraft:tnt",
-  "game": "tnttag:standard",
-  "name": {
-    "translate": "gameType.tnttag.tnttag"
-  }
+  "type": "plasmid:concurrent_game",
+  "game": "tnttag:standard"
 }

@@ -1,0 +1,13 @@
+{
+  "type": "nucleoid_extras:styled/simple_menu",
+  "icon": "minecraft:feather",
+  "games": [
+    "loopdeloop:flappy/standard",
+    "loopdeloop:flappy/classic",
+    "loopdeloop:flappy/quick",
+    "loopdeloop:flappy/ridiculous"
+  ],
+  "name": {
+    "translate": "game.loopdeloop.flappy_standard"
+  }
+}

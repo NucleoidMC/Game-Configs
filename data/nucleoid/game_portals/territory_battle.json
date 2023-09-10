@@ -1,8 +1,4 @@
 {
-  "type": "plasmid:on_demand",
-  "icon": "minecraft:oak_fence",
-  "game": "territorybattle:standard_territory_battle",
-  "name": {
-    "translate": "gameType.territorybattle.territory_battle"
-  }
+  "type": "plasmid:concurrent_game",
+  "game": "territorybattle:standard_territory_battle"
 }

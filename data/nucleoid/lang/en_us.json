@@ -2,6 +2,18 @@
   "server.nucleoid.dev": "Update Development Server",
   "server.nucleoid.play": "Play Server",
   "server.nucleoid.build": "Build Server",
+
+  "nucleoid.navigator": "Navigator",
+  "nucleoid.navigator.category.casual": "Casual",
+  "nucleoid.navigator.category.combat": "Combat",
+  "nucleoid.navigator.category.party": "Party",
+  "nucleoid.navigator.category.tabletop": "Tabletop",
+  "nucleoid.navigator.category.miscellaneous": "Miscellaneous",
+
+  "text.nucleoid_extras.ui.action.maps": "Right-click to view maps",
+  "text.nucleoid_extras.ui.action.modes": "Right-click to view modes",
+  "text.nucleoid_extras.ui.action.party_games": "Right-click to view all party games",
+
   "game.nucleoid.capture_the_flag": "Capture the Flag",
   "game.nucleoid.chaotic": "Chaotic",
   "game.nucleoid.duels": "Duels",
@@ -15,6 +27,9 @@
   "game.nucleoid.run": "Run!",
   "game.nucleoid.singles": "Singles",
   "game.nucleoid.standard": "Standard",
+  "game.nucleoid.with_recapture": "With Recapture",
+  "game.nucleoid.with_enderpearl": "With Ender Pearls",
+  "game.nucleoid.with_recapture_enderpearl": "With Recapture & Ender Pearls",
   "game.nucleoid.suspicious": "Suspicious",
   "game.nucleoid.tiny": "Tiny",
   "game.nucleoid.two_teams": "Two Teams",
@@ -87,15 +102,5 @@
   "game.nucleoid.skywars.duos": "Skywars (Duos)",
   
   "game.nucleoid.tater": "Tater Games",
-  "game.nucleoid.tater.spleef": "Tater Spleef",
-
-  "game.nucleoid.uhc.solo": "UHC (Solo)",
-  "game.nucleoid.uhc.duos": "UHC (Duos)",
-  "game.nucleoid.uhc.trios": "UHC (Trios)",
-  "game.nucleoid.uhc.squads": "UHC (Squads)",
-
-  "game.nucleoid.uhcrun.solo": "UHCRun (Solo)",
-  "game.nucleoid.uhcrun.duos": "UHCRun (Duos)",
-  "game.nucleoid.uhcrun.trios": "UHCRun (Trios)",
-  "game.nucleoid.uhcrun.squads": "UHCRun (Squads)"
+  "game.nucleoid.tater.spleef": "Tater Spleef"
 }

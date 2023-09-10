@@ -1,0 +1,14 @@
+{
+  "type": "nucleoid_extras:styled/simple_menu",
+  "icon": "minecraft:green_candle",
+  "games": [
+    "snake:standard",
+    "snake:catacombs",
+    "snake:racetrack",
+    "snake:parking",
+    "snake:circuit"
+  ],
+  "name": {
+    "translate": "gameType.snake.snake"
+  }
+}

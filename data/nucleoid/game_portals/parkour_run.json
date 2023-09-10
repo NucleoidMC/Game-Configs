@@ -1,8 +1,4 @@
 {
-  "type": "plasmid:on_demand",
-  "icon": "minecraft:iron_leggings",
-  "game": "parkourrun:standard_parkour_run",
-  "name": {
-    "translate": "gameType.parkourrun.parkour_run"
-  }
+  "type": "plasmid:concurrent_game",
+  "game": "parkourrun:standard_parkour_run"
 }

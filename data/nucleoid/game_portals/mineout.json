@@ -1,8 +1,4 @@
 {
-  "type": "plasmid:on_demand",
-  "icon": "minecraft:emerald",
-  "game": "mineout:standard",
-  "name": {
-    "translate": "gameType.mineout.mineout"
-  }
+  "type": "plasmid:concurrent_game",
+  "game": "mineout:standard"
 }

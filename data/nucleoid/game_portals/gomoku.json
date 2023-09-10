@@ -1,7 +1,7 @@
 {
   "type": "nucleoid_extras:styled/simple_menu",
   "icon": "minecraft:map",
-  "games": [	
+  "games": [
     "gomoku:connect6",
     "gomoku:connect6_37x37",
     "gomoku:gomoku",

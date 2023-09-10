@@ -1,8 +1,4 @@
 {
-  "type": "plasmid:on_demand",
-  "icon": "nucleoid_extras:tiny_potato",
-  "game": "nucleoid:tater/random",
-  "name": {
-    "translate": "game.nucleoid.tater"
-  }
+  "type": "plasmid:concurrent_game",
+  "game": "nucleoid:tater/random"
 }

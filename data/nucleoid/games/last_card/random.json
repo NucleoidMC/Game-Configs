@@ -1,0 +1,12 @@
+{
+  "type": "plasmid:random",
+  "icon": "nucleoid_extras:lucky_tater",
+  "name": {
+    "translate": "game.nucleoid.random"
+  },
+  "games": [
+    "lastcard:spruce_lodge_last_card",
+    "lastcard:dark_oak_graveyard_last_card",
+    "lastcard:romantica_last_card"
+  ]
+}

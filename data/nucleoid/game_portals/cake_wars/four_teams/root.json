@@ -1,0 +1,14 @@
+{
+  "type": "nucleoid_extras:styled/simple_menu",
+  "icon": {
+    "id": "minecraft:cake",
+    "Count": 4
+  },
+  "games": [
+    "cakewars:laboratory_cake_wars",
+    "cakewars:meow_mountain_cake_wars"
+  ],
+  "name": {
+    "translate": "game.nucleoid.four_teams"
+  }
+}

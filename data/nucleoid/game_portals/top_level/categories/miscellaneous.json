@@ -1,0 +1,30 @@
+{
+  "type": "nucleoid_extras:styled/advanced_menu",
+  "name": {
+    "translate": "nucleoid.navigator.category.miscellaneous"
+  },
+  "icon": "minecraft:tnt",
+  "entries": [
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:clutch_practice"
+    },
+    {
+      "type": "nucleoid_extras:quick_portal",
+      "portal": "nucleoid:creative_party/root",
+      "quick_portal": "nucleoid:creative_party/random"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:consolebox"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:tater_games"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "cursed:cursed"
+    }
+  ]
+}

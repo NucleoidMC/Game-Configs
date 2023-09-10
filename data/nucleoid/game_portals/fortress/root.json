@@ -1,0 +1,14 @@
+{
+  "type": "nucleoid_extras:styled/simple_menu",
+  "icon": "minecraft:oak_planks",
+  "games": [
+    "fortress:castle",
+    "fortress:chess",
+    "fortress:standard",
+    "fortress:no_recapture",
+    "fortress:rush"
+  ],
+  "name": {
+    "translate": "gameType.fortress.fortress"
+  }
+}

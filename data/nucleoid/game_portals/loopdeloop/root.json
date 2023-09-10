@@ -1,0 +1,25 @@
+{
+  "type": "nucleoid_extras:styled/handmade_menu",
+  "name": {
+    "translate": "gameType.loopdeloop.loopdeloop"
+  },
+  "icon": "minecraft:feather",
+  "entries": {
+    "3:2": {
+      "type": "nucleoid_extras:quick_portal",
+      "portal": "nucleoid:loopdeloop/standard/root",
+      "quick_portal": "nucleoid:loopdeloop/standard/random",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.modes"
+      }
+    },
+    "5:2": {
+      "type": "nucleoid_extras:quick_portal",
+      "portal": "nucleoid:loopdeloop/flappy/root",
+      "quick_portal": "nucleoid:loopdeloop/flappy/random",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.modes"
+      }
+    }
+  }
+}

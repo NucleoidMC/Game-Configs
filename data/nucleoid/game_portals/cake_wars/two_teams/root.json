@@ -1,0 +1,14 @@
+{
+  "type": "nucleoid_extras:styled/simple_menu",
+  "icon": {
+    "id": "minecraft:cake",
+    "Count": 2
+  },
+  "games": [
+    "cakewars:beehive_cake_wars",
+    "cakewars:skylands_cake_wars"
+  ],
+  "name": {
+    "translate": "game.nucleoid.two_teams"
+  }
+}

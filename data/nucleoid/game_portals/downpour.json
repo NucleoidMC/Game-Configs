@@ -1,8 +1,4 @@
 {
-  "type": "plasmid:on_demand",
-  "icon": "minecraft:lightning_rod",
-  "game": "downpour:standard_downpour",
-  "name": {
-    "translate": "gameType.downpour.downpour"
-  }
+  "type": "plasmid:concurrent_game",
+  "game": "downpour:standard_downpour"
 }

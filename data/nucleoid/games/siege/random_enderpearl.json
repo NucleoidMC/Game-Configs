@@ -1,0 +1,10 @@
+{
+  "type": "plasmid:random",
+  "games": [
+    "siege:villagers_vs_pillagers_enderpearl"
+  ],
+  "name": {
+    "translate": "game.nucleoid.random"
+  },
+  "icon": "nucleoid_extras:lucky_tater"
+}

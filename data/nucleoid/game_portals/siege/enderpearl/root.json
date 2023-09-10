@@ -1,0 +1,10 @@
+{
+  "type": "nucleoid_extras:styled/simple_menu",
+  "name": {
+    "translate": "game.nucleoid.with_enderpearl"
+  },
+  "icon": "minecraft:soul_campfire",
+  "games": [
+    "siege:villagers_vs_pillagers_enderpearl"
+  ]
+}

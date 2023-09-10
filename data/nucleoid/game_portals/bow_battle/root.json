@@ -1,0 +1,11 @@
+{
+  "type": "nucleoid_extras:styled/simple_menu",
+  "icon": "minecraft:bow",
+  "games": [
+    "bowbattle:standard",
+    "bowbattle:nether"
+  ],
+  "name": {
+    "translate": "gameType.bowbattle.bowbattle"
+  }
+}

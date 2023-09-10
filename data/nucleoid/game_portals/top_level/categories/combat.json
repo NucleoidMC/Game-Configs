@@ -1,0 +1,73 @@
+{
+  "type": "nucleoid_extras:styled/advanced_menu",
+  "name": {
+    "translate": "nucleoid.navigator.category.combat"
+  },
+  "icon": "minecraft:diamond_sword",
+  "entries": [
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:skywars/root"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:bedwars/root"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:cake_wars/root"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:destroy_the_monument/root"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "the_towers:root"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:duels"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "uhc:root"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:survival_games"
+    },
+    {
+      "type": "nucleoid_extras:quick_portal",
+      "portal": "nucleoid:death_swap/root",
+      "quick_portal": "nucleoid:death_swap/random",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.maps"
+      }
+    },
+    {
+      "type": "nucleoid_extras:quick_portal",
+      "portal": "nucleoid:fortress/root",
+      "quick_portal": "nucleoid:fortress/random",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.maps"
+      }
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:siege/root"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:farmy_feud"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:micro_battle/root"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:beacon_breakers/root"
+    }
+  ]
+}

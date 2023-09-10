@@ -1,0 +1,11 @@
+{
+  "type": "plasmid:random",
+  "games": [
+    "siege:jungle_recapture",
+    "siege:villagers_vs_pillagers_recapture"
+  ],
+  "name": {
+    "translate": "game.nucleoid.random"
+  },
+  "icon": "nucleoid_extras:lucky_tater"
+}

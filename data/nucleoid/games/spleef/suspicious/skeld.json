@@ -1,6 +1,6 @@
 {
   "type": "spleef:spleef",
-  "level_break_interval": 1280000,
+  "level_break_interval": -1,
   "map": {
     "shape": {
       "type": "spleef:pattern",

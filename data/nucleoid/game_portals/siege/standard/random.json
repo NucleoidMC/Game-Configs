@@ -1,0 +1,4 @@
+{
+  "type": "plasmid:concurrent_game",
+  "game": "nucleoid:siege/random_standard"
+}

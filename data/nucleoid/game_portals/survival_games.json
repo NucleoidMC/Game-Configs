@@ -2,15 +2,15 @@
   "type": "nucleoid_extras:styled/simple_menu",
   "icon": "minecraft:stone_sword",
   "games": [
-	"survivalgames:standard",
-	"survivalgames:island",
-	"survivalgames:large",
-	"survivalgames:highland",
-	"survivalgames:tropical",
-	"survivalgames:tropical_island",
-	"survivalgames:winterland",
-	"survivalgames:winter_island",
-	"survivalgames:nether"
+    "survivalgames:standard",
+    "survivalgames:island",
+    "survivalgames:large",
+    "survivalgames:highland",
+    "survivalgames:tropical",
+    "survivalgames:tropical_island",
+    "survivalgames:winterland",
+    "survivalgames:winter_island",
+    "survivalgames:nether"
   ],
   "name": {
     "translate": "gameType.survivalgames.survival_games"
