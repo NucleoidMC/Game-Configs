@@ -7,24 +7,24 @@
   "entries": [
     {
       "type": "nucleoid_extras:quick_portal",
-      "portal": "nucleoid:beaconbreakers/standard/root",
-      "quick_portal": "nucleoid:beaconbreakers/standard/random",
+      "portal": "nucleoid:beacon_breakers/standard/root",
+      "quick_portal": "nucleoid:beacon_breakers/standard/random",
       "message": {
         "translate": "text.nucleoid_extras.ui.action.maps"
       }
     },
     {
       "type": "nucleoid_extras:quick_portal",
-      "portal": "nucleoid:beaconbreakers/keep_inventory/root",
-      "quick_portal": "nucleoid:beaconbreakers/keep_inventory/random",
+      "portal": "nucleoid:beacon_breakers/keep_inventory/root",
+      "quick_portal": "nucleoid:beacon_breakers/keep_inventory/random",
       "message": {
         "translate": "text.nucleoid_extras.ui.action.maps"
       }
     },
     {
       "type": "nucleoid_extras:quick_portal",
-      "portal": "nucleoid:beaconbreakers/tiny/root",
-      "quick_portal": "nucleoid:beaconbreakers/tiny/random",
+      "portal": "nucleoid:beacon_breakers/tiny/root",
+      "quick_portal": "nucleoid:beacon_breakers/tiny/random",
       "message": {
         "translate": "text.nucleoid_extras.ui.action.maps"
       }
