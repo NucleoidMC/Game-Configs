@@ -2,7 +2,10 @@
   "type": "plasmid:random",
   "games": [
     "snake:standard",
-    "snake:catacombs"
+    "snake:catacombs",
+    "snake:racetrack",
+    "snake:parking",
+    "snake:circuit"
   ],
   "name": {
     "translate": "game.nucleoid.random"

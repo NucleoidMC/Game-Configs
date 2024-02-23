@@ -1,9 +1,9 @@
 {
-  "type": "plasmid:menu",
-  "icon": "minecraft:feather",
+  "type": "nucleoid_extras:styled/simple_menu",
+  "icon": "minecraft:ender_eye",
   "games": [
     "nucleoid:skywars/random_singles",
-	
+    
     "skywars:single/baba",
     "skywars:single/cauldron",
     "skywars:single/coral_reef",
@@ -14,10 +14,12 @@
     "skywars:single/hive",
     "skywars:single/industrial",
     "skywars:single/lighthouse",
+    "skywars:single/pillars",
     "skywars:single/platforms",
     "skywars:single/potofgold",
     "skywars:single/pots",
     "skywars:single/pyramid",
+    "skywars:single/seaworthy",
     "skywars:single/shroomlight",
     "skywars:single/solar_system",
     "skywars:single/split",

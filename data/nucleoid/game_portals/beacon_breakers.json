@@ -1,5 +1,5 @@
 {
-  "type": "plasmid:menu",
+  "type": "nucleoid_extras:styled/simple_menu",
   "icon": "minecraft:beacon",
   "games": [ 
     "nucleoid:beacon_breakers/random",

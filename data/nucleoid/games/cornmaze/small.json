@@ -12,5 +12,5 @@
     "max": 64,
     "threshold": 4
   },
-  "icon": "minecraft:hay_bale"
+  "icon": "minecraft:hay_block"
 }

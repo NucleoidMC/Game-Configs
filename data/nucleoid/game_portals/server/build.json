@@ -1,0 +1,8 @@
+{
+  "type": "nucleoid_extras:server_change",
+  "icon": "minecraft:brick",
+  "server_id": "build",
+  "name": {
+    "translate": "server.nucleoid.build"
+  }
+}
