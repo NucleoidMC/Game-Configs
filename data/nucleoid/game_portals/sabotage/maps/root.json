@@ -1,0 +1,33 @@
+{
+  "type": "nucleoid_extras:styled/advanced_menu",
+  "name": {
+    "translate": "gameType.sabotage.sabotage"
+  },
+  "icon": "minecraft:shears",
+  "entries": [
+    {
+      "type": "plasmid:game",
+      "icon": "minecraft:villager_spawn_egg",
+      "game": "sabotage:village",
+      "name": {
+        "translate": "map.sabotage.village"
+      }
+    },
+    {
+      "type": "plasmid:game",
+      "icon": "minecraft:netherrack",
+      "game": "sabotage:hellbound",
+      "name": {
+        "translate": "map.sabotage.hellbound"
+      }
+    },
+    {
+      "type": "plasmid:game",
+      "icon": "minecraft:white_wool",
+      "game": "sabotage:skybound",
+      "name": {
+        "translate": "map.sabotage.skybound"
+      }
+    }
+  ]
+}
