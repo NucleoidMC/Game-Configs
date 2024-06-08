@@ -1,0 +1,12 @@
+{
+  "type": "nucleoid_extras:styled/simple_menu",
+  "icon": "minecraft:hay_block",
+  "games": [
+    "cornmaze:standard_corn_maze",
+    "cornmaze:decayed_corn_maze",
+    "nucleoid:cornmaze/small"
+  ],
+  "name": {
+    "translate": "gameType.cornmaze.corn_maze"
+  }
+}

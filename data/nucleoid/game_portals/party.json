@@ -1,9 +1,5 @@
 {
-  "type": "plasmid:on_demand",
-  "icon": "minecraft:candle",
+  "type": "plasmid:concurrent_game",
   "game": "nucleoid:party/random",
-  "continuous": true,
-  "name": {
-    "translate": "game.nucleoid.party"
-  }
+  "continuous": true
 }

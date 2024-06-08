@@ -1,8 +1,4 @@
 {
-  "type": "plasmid:on_demand",
-  "icon": "minecraft:diamond_pickaxe",
-  "game": "caverncrawler:standard",
-  "name": {
-    "translate": "gameType.caverncrawler.cavern_crawler"
-  }
+  "type": "plasmid:concurrent_game",
+  "game": "caverncrawler:standard"
 }

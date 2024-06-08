@@ -1,8 +1,0 @@
-{
-  "type": "plasmid:on_demand",
-  "icon": "nucleoid_extras:tiny_potato",
-  "game": "nucleoid:spleef/explosive/tater",
-  "name": {
-    "translate": "game.nucleoid.spleef.explosive.tater"
-  }
-}

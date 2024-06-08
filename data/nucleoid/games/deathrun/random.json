@@ -1,0 +1,11 @@
+{
+  "type": "plasmid:random",
+  "games": [
+    "deathrun:gardens",
+    "deathrun:gardens_runners"
+  ],
+  "name": {
+    "translate": "game.nucleoid.random"
+  },
+  "icon": "nucleoid_extras:lucky_tater"
+}

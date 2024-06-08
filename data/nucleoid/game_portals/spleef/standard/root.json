@@ -1,0 +1,33 @@
+{
+  "type": "nucleoid_extras:styled/simple_menu",
+  "icon": "minecraft:diamond_shovel",
+  "games": [
+    "spleef:standard",
+    "spleef:standard_projectile",
+    "nucleoid:spleef/amelia",
+    "nucleoid:spleef/aperture",
+    "nucleoid:spleef/big_tater",
+    "nucleoid:spleef/bleef",
+    "nucleoid:spleef/donut",
+    "nucleoid:spleef/ender",
+    "nucleoid:spleef/fast",
+    "nucleoid:spleef/frostburn",
+    "nucleoid:spleef/frosty_frontiers",
+    "nucleoid:spleef/geared_up",
+    "nucleoid:spleef/leaf",
+    "nucleoid:spleef/nucleoid",
+    "nucleoid:spleef/runic",
+    "nucleoid:spleef/sierpinski",
+    "nucleoid:spleef/skeld",
+    "nucleoid:spleef/splegg",
+    "nucleoid:spleef/springy",
+    "nucleoid:spleef/starry",
+    "nucleoid:spleef/sticky_situation",
+    "nucleoid:spleef/tater",
+    "nucleoid:spleef/to_the_moon",
+    "nucleoid:spleef/tower"
+  ],
+  "name": {
+    "translate": "game.nucleoid.standard"
+  }
+}

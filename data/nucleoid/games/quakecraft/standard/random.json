@@ -1,0 +1,17 @@
+{
+  "type": "plasmid:random",
+  "games": [
+    "quakecraft:2fort",
+    "quakecraft:2fort_invasion",
+    "quakecraft:duel_monastery",
+    "quakecraft:dungeon",
+    "quakecraft:dungeon_remix",
+    "quakecraft:live_fire",
+    "quakecraft:monastery",
+    "quakecraft:streets"
+  ],
+  "name": {
+    "translate": "game.nucleoid.random"
+  },
+  "icon": "nucleoid_extras:lucky_tater"
+}

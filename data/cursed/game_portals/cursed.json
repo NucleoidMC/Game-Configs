@@ -1,7 +1,4 @@
 {
-  "type": "plasmid:on_demand",
-  "game": "cursed:random",
-  "name": {
-    "translate": "game.cursed.cursed"
-  }
+  "type": "plasmid:concurrent_game",
+  "game": "cursed:random"
 }

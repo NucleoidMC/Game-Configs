@@ -1,0 +1,14 @@
+{
+  "type": "plasmid:random",
+  "games": [
+    "loopdeloop:standard",
+    "loopdeloop:ridiculous",
+    "loopdeloop:amplified",
+    "loopdeloop:marathon",
+    "loopdeloop:quick"
+  ],
+  "name": {
+    "translate": "game.nucleoid.random"
+  },
+  "icon": "nucleoid_extras:lucky_tater"
+}

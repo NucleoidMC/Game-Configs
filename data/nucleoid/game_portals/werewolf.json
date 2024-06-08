@@ -1,8 +1,4 @@
 {
-  "type": "plasmid:on_demand",
-  "icon": "minecraft:bone",
-  "game": "werewolf:default_werewolf",
-  "name": {
-    "translate": "gameType.werewolf.werewolf"
-  }
+  "type": "plasmid:concurrent_game",
+  "game": "werewolf:default_werewolf"
 }

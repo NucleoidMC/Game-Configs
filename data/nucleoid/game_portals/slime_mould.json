@@ -1,8 +1,4 @@
 {
-  "type": "plasmid:on_demand",
-  "icon": "minecraft:slime_block",
-  "game": "slime_mould:standard",
-  "name": {
-    "translate": "gameType.slime_mould.slime_mould"
-  }
+  "type": "plasmid:concurrent_game",
+  "game": "slime_mould:standard"
 }

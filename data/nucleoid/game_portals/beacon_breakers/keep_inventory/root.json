@@ -1,0 +1,24 @@
+{
+  "type": "nucleoid_extras:styled/simple_menu",
+  "icon": {
+    "id": "minecraft:beacon",
+    "Count": 1,
+    "Enchantments": [
+      {
+        "id": "minecraft:unbreaking",
+        "lvl": 3
+      }
+    ]
+  },
+  "games": [
+    "beaconbreakers:amplified_beacon_breakers_keep_inventory",
+    "beaconbreakers:caves_beacon_breakers_keep_inventory",
+    "beaconbreakers:end_beacon_breakers_keep_inventory",
+    "beaconbreakers:floating_islands_beacon_breakers_keep_inventory",
+    "beaconbreakers:nether_beacon_breakers_keep_inventory",
+    "beaconbreakers:standard_beacon_breakers_keep_inventory"
+  ],
+  "name": {
+    "translate": "game.nucleoid.keep_inventory"
+  }
+}

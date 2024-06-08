@@ -1,0 +1,17 @@
+{
+  "type": "nucleoid_extras:styled/simple_menu",
+  "icon": "minecraft:iron_hoe",
+  "games": [
+    "quakecraft:2fort",
+    "quakecraft:2fort_invasion",
+    "quakecraft:duel_monastery",
+    "quakecraft:dungeon",
+    "quakecraft:dungeon_remix",
+    "quakecraft:live_fire",
+    "quakecraft:monastery",
+    "quakecraft:streets"
+  ],
+  "name": {
+    "translate": "gameType.quakecraft.quakecraft"
+  }
+}

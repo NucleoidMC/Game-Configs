@@ -1,0 +1,13 @@
+{
+  "type": "nucleoid_extras:styled/simple_menu",
+  "icon": "minecraft:golden_boots",
+  "games": [
+    "colorswap:standard_color_swap",
+    "colorswap:knockback_color_swap",
+    "colorswap:prismatic_color_swap",
+    "colorswap:prismatic_knockback_color_swap"
+  ],
+  "name": {
+    "translate": "gameType.colorswap.color_swap"
+  }
+}

@@ -1,8 +1,4 @@
 {
-  "type": "plasmid:on_demand",
-  "icon": "nucleoid_extras:irritater",
-  "game": "irritaterrun:standard_irritater_run",
-  "name": {
-    "translate": "gameType.irritaterrun.irritater_run"
-  }
+  "type": "plasmid:concurrent_game",
+  "game": "irritaterrun:standard_irritater_run"
 }
