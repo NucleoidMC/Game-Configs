@@ -2,7 +2,10 @@
   "type": "nucleoid_extras:styled/simple_menu",
   "icon": "minecraft:slime_ball",
   "games": [
+    "infiniteparkour:cherry_petals_infinite_parkour",
+    "infiniteparkour:hill_fort_infinite_parkour",
     "infiniteparkour:snowcapped_infinite_parkour",
+    "infiniteparkour:strawberry_dough_infinite_parkour",
     "infiniteparkour:stronghold_infinite_parkour",
     "infiniteparkour:weathered_wave_infinite_parkour"
   ],
