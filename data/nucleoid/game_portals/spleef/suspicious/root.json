@@ -1,6 +1,6 @@
 {
   "type": "nucleoid_extras:styled/simple_menu",
-  "icon": "minecraft:light_gray_stained_glass_pane",
+  "icon": "minecraft:suspicious_sand",
   "games": [
     "nucleoid:spleef/suspicious/skeld"
   ],
