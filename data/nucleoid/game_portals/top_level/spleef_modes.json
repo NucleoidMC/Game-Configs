@@ -1,24 +1,24 @@
 {
-  "type": "plasmid:advanced_menu",
+  "type": "nucleoid_extras:styled/advanced_menu",
   "name": {
     "translate": "gameType.spleef.spleef"
   },
   "icon": "minecraft:diamond_shovel",
   "entries": [
     {
-      "type": "plasmid:portal_gui",
+      "type": "plasmid:portal",
       "portal": "nucleoid:spleef"
     },
     {
-      "type": "plasmid:portal_gui",
+      "type": "plasmid:portal",
       "portal": "nucleoid:spleef_explosive"
     },
     {
-      "type": "plasmid:portal_gui",
+      "type": "plasmid:portal",
       "portal": "nucleoid:spleef_run"
     },
     {
-      "type": "plasmid:portal_gui",
+      "type": "plasmid:portal",
       "portal": "nucleoid:spleef_suspicious"
     }
   ]

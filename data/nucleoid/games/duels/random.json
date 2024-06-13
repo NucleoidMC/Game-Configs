@@ -1,8 +1,7 @@
 {
   "type": "plasmid:random",
   "games": [
-    "duels:standard",
-    "duels:standard_slippery"
+    "duels:classic"
   ],
   "name": {
     "translate": "game.nucleoid.random"
