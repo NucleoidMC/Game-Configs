@@ -1,0 +1,10 @@
+{
+    "type": "nucleoid_extras:styled/simple_menu",
+    "icon": "minecraft:pot",
+    "games": [
+      "blockhunt:fort_du_perdu"
+    ],
+    "name": {
+      "translate": "gameType.blockhunt.blockhunt"
+    }
+  }
