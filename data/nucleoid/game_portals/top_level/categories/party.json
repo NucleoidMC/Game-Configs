@@ -122,10 +122,6 @@
       "portal": "nucleoid:territory_battle"
     },
     {
-      "type": "plasmid:portal",
-      "portal": "nucleoid:tnttag"
-    },
-    {
       "type": "nucleoid_extras:quick_portal",
       "portal": "nucleoid:totem_hunt/root",
       "quick_portal": "nucleoid:totem_hunt/random",

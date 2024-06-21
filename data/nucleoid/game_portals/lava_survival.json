@@ -1,0 +1,17 @@
+{
+  "type": "nucleoid_extras:styled/simple_menu",
+  "icon": "minecraft:lava_bucket",
+  "games": [
+    "lavasurvival:normal",
+    "lavasurvival:armageddon",
+    "lavasurvival:long",
+    "lavasurvival:micro",
+    "lavasurvival:the_nether",
+    "lavasurvival:the_nether_armageddon",
+    "lavasurvival:the_nether_long",
+    "lavasurvival:the_nether_micro"
+  ],
+  "name": {
+    "translate": "gameType.lavasurvival.lavasurvival"
+  }
+}

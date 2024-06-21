@@ -7,6 +7,10 @@
   "entries": [
     {
       "type": "plasmid:portal",
+      "portal": "nucleoid:blockhunt"
+    },
+    {
+      "type": "plasmid:portal",
       "portal": "build_rush:root"
     },
     {
@@ -20,6 +24,10 @@
       "message": {
         "translate": "text.nucleoid_extras.ui.action.maps"
       }
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:lava_survival"
     },
     {
       "type": "nucleoid_extras:quick_portal",
@@ -52,10 +60,6 @@
     {
       "type": "plasmid:portal",
       "portal": "nucleoid:quakecraft/root"
-    },
-    {
-      "type": "plasmid:portal",
-      "portal": "nucleoid:cavern_crawler"
     },
     {
       "type": "plasmid:portal",
