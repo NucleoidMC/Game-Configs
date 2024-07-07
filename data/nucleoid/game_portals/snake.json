@@ -1,10 +1,13 @@
 {
-  "type": "plasmid:menu",
-  "icon": "minecraft:iron_hoe",
+  "type": "nucleoid_extras:styled/simple_menu",
+  "icon": "minecraft:green_candle",
   "games": [
     "nucleoid:snake/random",
     "snake:standard",
-    "snake:catacombs"
+    "snake:catacombs",
+    "snake:racetrack",
+    "snake:parking",
+    "snake:circuit"
   ],
   "name": {
     "translate": "gameType.snake.snake"

@@ -1,20 +1,20 @@
 {
-  "type": "plasmid:advanced_menu",
+  "type": "nucleoid_extras:styled/advanced_menu",
   "name": {
     "translate": "gameType.bedwars.bed_wars"
   },
   "icon": "minecraft:red_bed",
   "entries": [
     {
-      "type": "plasmid:portal_gui",
+      "type": "plasmid:portal",
       "portal": "nucleoid:bedwars_two_teams"
     },
     {
-      "type": "plasmid:portal_gui",
+      "type": "plasmid:portal",
       "portal": "nucleoid:bedwars_four_teams"
     },
     {
-      "type": "plasmid:portal_gui",
+      "type": "plasmid:portal",
       "portal": "nucleoid:bedwars_eight_teams"
     }
   ]

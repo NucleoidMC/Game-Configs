@@ -9,6 +9,6 @@
     "max": 32,
     "threshold": 2
   },
-  "playerBlocks": "minecraft:slabs",
+  "player_blocks": "#minecraft:slabs",
   "icon": "smooth_stone_slab"
 }

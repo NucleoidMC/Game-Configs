@@ -1,6 +1,7 @@
 {
   "type": "plasmid:random",
   "games": [
+    "destroy_the_monument:concrete",
     "destroy_the_monument:cubes",
     "destroy_the_monument:dimensions",
     "destroy_the_monument:honey",

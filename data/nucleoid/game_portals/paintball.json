@@ -1,7 +1,9 @@
 {
-  "type": "plasmid:on_demand",
+  "type": "nucleoid_extras:styled/simple_menu",
   "icon": "minecraft:red_dye",
-  "game": "paintball:garden_paintball",
+  "games": [
+	"paintball:garden_paintball"
+  ],
   "name": {
     "translate": "gameType.paintball.paintball"
   }

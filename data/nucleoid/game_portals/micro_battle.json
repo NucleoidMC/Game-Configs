@@ -1,5 +1,5 @@
 {
-  "type": "plasmid:menu",
+  "type": "nucleoid_extras:styled/simple_menu",
   "icon": "minecraft:netherite_axe",
   "games": [
     "nucleoid:micro_battle/random",

@@ -1,0 +1,12 @@
+{
+  "type": "consolebox:console_box",
+  "name": "Hammer Joe (<c:#86c06c>WASM-4<r>)",
+  "description": [
+	"Pest are comming from the pipes!",
+	"Hit them with a hammer, before they touch you!",
+	"Developed by: MFauzan26"
+  ],
+  "icon": "minecraft:iron_pickaxe",
+  "game": "nucleoid:hammer-joe",
+  "players": 1
+}
