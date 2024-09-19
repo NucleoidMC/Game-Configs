@@ -12,22 +12,6 @@
     "4:1": {
       "type": "plasmid:portal",
       "portal": "nucleoid:top_level/categories/casual"
-    },
-    "6:1": {
-      "type": "nucleoid_extras:quick_portal",
-      "portal": "nucleoid:top_level/categories/party",
-      "quick_portal": "nucleoid:party",
-      "message": {
-        "translate": "text.nucleoid_extras.ui.action.party_games"
-      }
-    },
-    "3:3": {
-      "type": "plasmid:portal",
-      "portal": "nucleoid:top_level/categories/tabletop"
-    },
-    "5:3": {
-      "type": "plasmid:portal",
-      "portal": "nucleoid:top_level/categories/miscellaneous"
     }
   }
 }

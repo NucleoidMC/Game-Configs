@@ -7,63 +7,11 @@
   "entries": [
     {
       "type": "plasmid:portal",
-      "portal": "nucleoid:blockhunt"
-    },
-    {
-      "type": "plasmid:portal",
-      "portal": "build_rush:root"
-    },
-    {
-      "type": "plasmid:portal",
-      "portal": "nucleoid:build_battle"
-    },
-    {
-      "type": "nucleoid_extras:quick_portal",
-      "portal": "nucleoid:infinite_parkour/root",
-      "quick_portal": "nucleoid:infinite_parkour/random",
-      "message": {
-        "translate": "text.nucleoid_extras.ui.action.maps"
-      }
-    },
-    {
-      "type": "plasmid:portal",
-      "portal": "nucleoid:lava_survival"
-    },
-    {
-      "type": "nucleoid_extras:quick_portal",
-      "portal": "nucleoid:parkour_race/root",
-      "quick_portal": "nucleoid:parkour_race/random",
-      "message": {
-        "translate": "text.nucleoid_extras.ui.action.maps"
-      }
-    },
-    {
-      "type": "plasmid:portal",
-      "portal": "nucleoid:parkour_run"
-    },
-    {
-      "type": "plasmid:portal",
       "portal": "nucleoid:item_hunt"
-    },
-    {
-      "type": "nucleoid_extras:quick_portal",
-      "portal": "nucleoid:murder_mystery/root",
-      "quick_portal": "nucleoid:murder_mystery/random",
-      "message": {
-        "translate": "text.nucleoid_extras.ui.action.maps"
-      }
-    },
-    {
-      "type": "plasmid:portal",
-      "portal": "nucleoid:wave_defense"
     },
     {
       "type": "plasmid:portal",
       "portal": "nucleoid:quakecraft/root"
-    },
-    {
-      "type": "plasmid:portal",
-      "portal": "nucleoid:creeperfall"
     },
     {
       "type": "nucleoid_extras:quick_portal",
@@ -76,18 +24,6 @@
     {
       "type": "plasmid:portal",
       "portal": "nucleoid:spleef/root"
-    },
-    {
-      "type": "plasmid:portal",
-      "portal": "nucleoid:rocketspleef"
-    },
-    {
-      "type": "plasmid:portal",
-      "portal": "nucleoid:paintball"
-    },
-    {
-      "type": "plasmid:portal",
-      "portal": "nucleoid:volleyball"
     }
   ]
 }

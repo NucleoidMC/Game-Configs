@@ -1,8 +1,0 @@
-{
-  "type": "nucleoid_extras:server_change",
-  "icon": "minecraft:ender_eye",
-  "server_id": "play",
-  "name": {
-    "translate": "server.nucleoid.play"
-  }
-}
