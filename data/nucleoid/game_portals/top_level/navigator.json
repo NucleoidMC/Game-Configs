@@ -5,11 +5,11 @@
   },
   "icon": "minecraft:compass",
   "entries": {
-    "2:1": {
+    "3:2": {
       "type": "plasmid:portal",
       "portal": "nucleoid:top_level/categories/combat"
     },
-    "4:1": {
+    "5:2": {
       "type": "plasmid:portal",
       "portal": "nucleoid:top_level/categories/casual"
     }
