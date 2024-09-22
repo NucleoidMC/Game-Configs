@@ -1,0 +1,10 @@
+{
+    "type": "blockhunt:blockhunt",
+    "games": [
+      "blockhunt:italy"
+    ],
+    "name": {
+      "translate": "game.blockhunt.blockhunt"
+    },
+    "icon": "minecraft:campfire"
+}
