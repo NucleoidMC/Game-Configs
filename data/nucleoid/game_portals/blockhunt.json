@@ -5,6 +5,6 @@
       "blockhunt:italy"
     ],
     "name": {
-      "translate": "gameType.blockhunt.blockhunt"
+      "translate": "gameType.blockhunt.normal"
     }
   }
