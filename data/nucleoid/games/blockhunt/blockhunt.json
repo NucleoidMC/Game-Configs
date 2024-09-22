@@ -4,7 +4,7 @@
       "blockhunt:italy"
     ],
     "name": {
-      "translate": "game.blockhunt.normal"
+      "translate": "game.blockhunt.standard"
     },
     "icon": "minecraft:campfire"
 }
