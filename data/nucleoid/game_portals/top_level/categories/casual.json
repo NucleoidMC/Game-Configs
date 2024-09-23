@@ -24,6 +24,10 @@
     {
       "type": "plasmid:portal",
       "portal": "nucleoid:spleef/root"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:blockhunt"
     }
   ]
 }
