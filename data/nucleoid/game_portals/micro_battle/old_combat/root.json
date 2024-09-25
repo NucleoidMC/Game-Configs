@@ -1,13 +1,40 @@
 {
-  "type": "nucleoid_extras:styled/simple_menu",
-  "icon": "minecraft:diamond_axe",
-  "games": [
-    "microbattle:old_combat_standard_micro_battle",
-    "microbattle:old_combat_soul_micro_battle",
-    "microbattle:old_combat_respawner_micro_battle",
-    "microbattle:old_combat_soul_respawner_micro_battle"
-  ],
+  "type": "nucleoid_extras:styled/advanced_menu",
   "name": {
-    "translate": "game.nucleoid.old_combat"
-  }
+    "translate": "gameType.microbattle.micro_battle"
+  },
+  "icon": "minecraft:diamond_axe",
+  "entries": [
+    {
+      "type": "nucleoid_extras:quick_portal",
+      "portal": "nucleoid:micro_battle/old_combat/ffa/root",
+      "quick_portal": "nucleoid:micro_battle/old_combat/ffa/random",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.maps"
+      }
+    },
+    {
+      "type": "nucleoid_extras:quick_portal",
+      "portal": "nucleoid:micro_battle/old_combat/two_teams/root",
+      "quick_portal": "nucleoid:micro_battle/old_combat/two_teams/random",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.maps"
+      }
+    },
+    {
+      "type": "nucleoid_extras:quick_portal",
+      "portal": "nucleoid:micro_battle/old_combat/four_teams/root",
+      "quick_portal": "nucleoid:micro_battle/old_combat/four_teams/random",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.maps"
+      }
+    },
+    {
+      "type": "nucleoid_extras:quick_portal",
+      "portal": "nucleoid:micro_battle/root",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.maps"
+      }
+    }
+  ]
 }

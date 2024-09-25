@@ -1,0 +1,19 @@
+{
+  "type": "nucleoid_extras:styled/simple_menu",
+  "icon": {
+    "id": "minecraft:purple_bed",
+    "Count": 2
+  },
+  "games": [
+    "bedwars:normal/two_teams/aspen_forest",
+    "bedwars:normal/two_teams/desert",
+    "bedwars:normal/two_teams/forest",
+    "bedwars:normal/two_teams/plains",
+    "bedwars:normal/two_teams/swamp",
+    "bedwars:normal/two_teams/taiga",
+    "bedwars:normal/two_teams/end"
+  ],
+  "name": {
+    "translate": "game.nucleoid.two_teams"
+  }
+}

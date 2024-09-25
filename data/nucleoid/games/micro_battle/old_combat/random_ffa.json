@@ -1,0 +1,13 @@
+{
+  "type": "plasmid:random",
+  "games": [
+    "microbattle:old_combat/ffa/standard_micro_battle",
+    "microbattle:old_combat/ffa/soul_micro_battle",
+    "microbattle:old_combat/ffa/respawner_micro_battle",
+    "microbattle:old_combat/ffa/soul_respawner_micro_battle"
+  ],
+  "name": {
+    "translate": "game.nucleoid.random"
+  },
+  "icon": "nucleoid_extras:lucky_tater"
+}

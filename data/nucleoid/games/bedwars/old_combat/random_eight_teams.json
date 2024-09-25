@@ -1,0 +1,10 @@
+{
+  "type": "plasmid:random",
+  "games": [
+    "bedwars:old_combat/eight_teams/beach"
+  ],
+  "name": {
+    "translate": "game.nucleoid.random"
+  },
+  "icon": "nucleoid_extras:lucky_tater"
+}

@@ -1,0 +1,4 @@
+{
+  "type": "plasmid:concurrent_game",
+  "game": "nucleoid:micro_battle/normal/random_ffa"
+}

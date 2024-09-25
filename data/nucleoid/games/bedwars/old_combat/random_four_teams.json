@@ -1,0 +1,20 @@
+{
+  "type": "plasmid:random",
+  "games": [
+    "bedwars:old_combat/four_teams/aspen_forest",
+    "bedwars:old_combat/four_teams/desert",
+    "bedwars:old_combat/four_teams/forest",
+    "bedwars:old_combat/four_teams/plains",
+    "bedwars:old_combat/four_teams/swamp",
+    "bedwars:old_combat/four_teams/taiga",
+    "bedwars:old_combat/four_teams/cubes",
+    "bedwars:old_combat/four_teams/hellish_nightmare",
+    "bedwars:old_combat/four_teams/logs",
+    "bedwars:old_combat/four_teams/monument",
+    "bedwars:old_combat/four_teams/roadway"
+  ],
+  "name": {
+    "translate": "game.nucleoid.random"
+  },
+  "icon": "nucleoid_extras:lucky_tater"
+}

@@ -1,0 +1,16 @@
+{
+  "type": "plasmid:random",
+  "games": [
+    "bedwars:old_combat/two_teams/aspen_forest",
+    "bedwars:old_combat/two_teams/desert",
+    "bedwars:old_combat/two_teams/forest",
+    "bedwars:old_combat/two_teams/plains",
+    "bedwars:old_combat/two_teams/swamp",
+    "bedwars:old_combat/two_teams/taiga",
+    "bedwars:old_combat/two_teams/end"
+  ],
+  "name": {
+    "translate": "game.nucleoid.random"
+  },
+  "icon": "nucleoid_extras:lucky_tater"
+}

@@ -1,0 +1,33 @@
+{
+  "type": "nucleoid_extras:styled/advanced_menu",
+  "name": {
+    "translate": "gameType.bedwars.bed_wars"
+  },
+  "icon": "minecraft:purple_bed",
+  "entries": [
+    {
+      "type": "nucleoid_extras:quick_portal",
+      "portal": "nucleoid:bedwars/old_combat/two_teams/root",
+      "quick_portal": "nucleoid:bedwars/old_combat/two_teams/random",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.maps"
+      }
+    },
+    {
+      "type": "nucleoid_extras:quick_portal",
+      "portal": "nucleoid:bedwars/old_combat/four_teams/root",
+      "quick_portal": "nucleoid:bedwars/old_combat/four_teams/random",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.maps"
+      }
+    },
+    {
+      "type": "nucleoid_extras:quick_portal",
+      "portal": "nucleoid:bedwars/old_combat/eight_teams/root",
+      "quick_portal": "nucleoid:bedwars/old_combat/eight_teams/random",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.maps"
+      }
+    }
+  ]
+}

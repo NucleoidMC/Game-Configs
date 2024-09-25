@@ -1,0 +1,4 @@
+{
+  "type": "plasmid:concurrent_game",
+  "game": "nucleoid:micro_battle/old_combat/random_two_teams"
+}

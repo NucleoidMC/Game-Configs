@@ -1,0 +1,25 @@
+{
+  "type": "nucleoid_extras:styled/simple_menu",
+  "icon": {
+    "id": "minecraft:purple_bed",
+    "Count": 4
+  },
+  "games": [
+    "bedwars:normal/four_teams/aspen_forest",
+    "bedwars:normal/four_teams/desert",
+    "bedwars:normal/four_teams/forest",
+    "bedwars:normal/four_teams/overgrown",
+    "bedwars:normal/four_teams/modern",
+    "bedwars:normal/four_teams/plains",
+    "bedwars:normal/four_teams/swamp",
+    "bedwars:normal/four_teams/taiga",
+    "bedwars:normal/four_teams/cubes",
+    "bedwars:normal/four_teams/hellish_nightmare",
+    "bedwars:normal/four_teams/logs",
+    "bedwars:normal/four_teams/monument",
+    "bedwars:normal/four_teams/roadway"
+  ],
+  "name": {
+    "translate": "game.nucleoid.four_teams"
+  }
+}

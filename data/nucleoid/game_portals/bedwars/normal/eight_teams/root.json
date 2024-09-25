@@ -1,0 +1,13 @@
+{
+  "type": "nucleoid_extras:styled/simple_menu",
+  "icon": {
+    "id": "minecraft:purple_bed",
+    "Count": 8
+  },
+  "games": [
+    "bedwars:normal/eight_teams/beach"
+  ],
+  "name": {
+    "translate": "game.nucleoid.eight_teams"
+  }
+}
