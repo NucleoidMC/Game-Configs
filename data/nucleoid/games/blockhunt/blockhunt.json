@@ -1,8 +1,7 @@
 {
     "type": "blockhunt:blockhunt",
     "games": [
-      "blockhunt:italy",
-      "blockhunt:fort_du_perdu"
+      "blockhunt:italy"
     ],
     "name": {
       "translate": "game.blockhunt.standard"

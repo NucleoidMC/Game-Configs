@@ -2,8 +2,7 @@
     "type": "nucleoid_extras:styled/simple_menu",
     "icon": "minecraft:pot",
     "games": [
-      "blockhunt:italy",
-      "blockhunt:fort_du_perdu"
+      "blockhunt:italy"
     ],
     "name": {
       "translate": "gameType.blockhunt.standard"
