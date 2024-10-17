@@ -28,6 +28,14 @@
       "name": {
         "translate": "map.sabotage.skybound"
       }
+    },
+    {
+      "type": "plasmid:game",
+      "icon": "minecraft:black_concrete_powder",
+      "game": "sabotage:town",
+      "name": {
+        "translate": "map.sabotage.town"
+      }
     }
   ]
 }
