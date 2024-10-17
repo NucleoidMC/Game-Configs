@@ -68,6 +68,14 @@
     {
       "type": "plasmid:portal",
       "portal": "nucleoid:beacon_breakers/root"
+    },
+    {
+      "type": "nucleoid_extras:quick_portal",
+      "portal": "nucleoid:sabotage/root",
+      "quick_portal": "nucleoid:sabotage",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.maps"
+      }
     }
   ]
 }
