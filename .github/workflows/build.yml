@@ -10,10 +10,10 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - uses: actions/upload-artifact@v2
+      - uses: actions/upload-artifact@v4
         with:
           name: nucleoid-datapack
           path: |
             data/
             pack.mcmeta
-          retention-days: 30
+          retention-days: 90
