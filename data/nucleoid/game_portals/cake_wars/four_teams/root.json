@@ -2,7 +2,7 @@
   "type": "nucleoid_extras:styled/simple_menu",
   "icon": {
     "id": "minecraft:cake",
-    "Count": 4
+    "count": 4
   },
   "games": [
     "cakewars:laboratory_cake_wars",

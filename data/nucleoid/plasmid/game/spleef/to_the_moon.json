@@ -93,7 +93,7 @@
   },
   "tool": {
     "id": "minecraft:gold_shovel",
-    "Count": 1
+    "count": 1
   },
   "icon": "minecraft:calcite"
 }

@@ -69,14 +69,13 @@
   },
   "tool": {
     "id": "minecraft:shears",
-    "Count": 1,
-    "tag": {
-      "Enchantments": [
-        {
-          "id": "minecraft:efficiency",
-          "lvl": 100
+    "count": 1,
+    "components": {
+      "minecraft:enchantments": {
+        "levels": {
+          "minecraft:efficiency": 100
         }
-      ]
+      }
     }
   },
   "icon": "minecraft:nether_star"

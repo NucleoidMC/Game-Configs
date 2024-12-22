@@ -2,7 +2,7 @@
   "type": "nucleoid_extras:styled/simple_menu",
   "icon": {
     "id": "minecraft:red_bed",
-    "Count": 2
+    "count": 2
   },
   "games": [
     "bedwars:two_teams/aspen_forest",

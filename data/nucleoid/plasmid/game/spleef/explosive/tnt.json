@@ -41,23 +41,35 @@
     "restock_interval": 1,
     "stack": {
       "id": "minecraft:tnt",
-      "Count": 1,
-      "tag": {
-        "CanPlaceOn": [
-          "minecraft:obsidian",
-          "minecraft:snow_block",
-          "minecraft:tnt"
-        ]
+      "count": 1,
+      "components": {
+        "minecraft:can_place_on": {
+          "predicates": [
+            {
+              "blocks": "minecraft:obsidian"
+            },
+            {
+              "blocks": "minecraft:snow_block"
+            },
+            {
+              "blocks": "minecraft:tnt"
+            }
+          ]
+        }
       }
     }
   },
   "tool": {
     "id": "minecraft:flint_and_steel",
-    "Count": 1,
-    "tag": {
-      "CanPlaceOn": [
-        "minecraft:tnt"
-      ]
+    "count": 1,
+    "components": {
+      "minecraft:can_place_on": {
+        "predicates": [
+          {
+            "blocks": "minecraft:tnt"
+          }
+        ]
+      }
     }
   },
   "lava_rise": {

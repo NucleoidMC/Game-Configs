@@ -22,7 +22,7 @@
   },
   "tool": {
     "id": "minecraft:shears",
-    "Count": 1
+    "count": 1
   },
   "icon": "minecraft:slime_block"
 }

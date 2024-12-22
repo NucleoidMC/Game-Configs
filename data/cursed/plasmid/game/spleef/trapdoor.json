@@ -30,7 +30,7 @@
   },
   "tool": {
     "id": "minecraft:netherite_axe",
-    "Count": 1
+    "count": 1
   },
   "icon": "minecraft:oak_trapdoor"
 }

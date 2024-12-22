@@ -11,13 +11,13 @@
   "projectile": {
     "restock_interval": 1,
     "stack": {
-      "id": "egg",
-      "Count": 1
+      "id": "minecraft:egg",
+      "count": 1
     }
   },
   "tool": {
     "id": "minecraft:air",
-    "Count": 0
+    "count": 0
   },
   "players": {
     "min": 1,

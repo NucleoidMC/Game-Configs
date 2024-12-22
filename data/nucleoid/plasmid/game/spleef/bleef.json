@@ -17,21 +17,20 @@
   "projectile": {
     "restock_interval": 1,
     "stack": {
-      "id": "arrow",
-      "Count": 1
+      "id": "minecraft:arrow",
+      "count": 1
     },
     "radius": 2
   },
   "tool": {
     "id": "minecraft:bow",
-    "Count": 1,
-    "tag": {
-      "Enchantments": [
-        {
-          "id": "minecraft:infinity",
-          "lvl": 1
+    "count": 1,
+    "components": {
+      "minecraft:enchantments": {
+        "levels": {
+          "minecraft:infinity": 1
         }
-      ]
+      }
     }
   },
   "players": {
@@ -41,14 +40,13 @@
   },
   "icon": {
     "id": "minecraft:bow",
-    "Count": 1,
-    "tag": {
-      "Enchantments": [
-        {
-          "id": "minecraft:infinity",
-          "lvl": 1
+    "count": 1,
+    "components": {
+      "minecraft:enchantments": {
+        "levels": {
+          "minecraft:infinity": 1
         }
-      ]
+      }
     }
   }
 }

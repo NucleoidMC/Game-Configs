@@ -50,7 +50,7 @@
   "level_break_interval": 1200,
   "tool": {
     "id": "minecraft:air",
-    "Count": 1
+    "count": 1
   },
   "icon": "minecraft:stone_brick_wall"
 }
