@@ -2,7 +2,7 @@
   "type": "nucleoid_extras:styled/simple_menu",
   "icon": {
     "id": "minecraft:diamond_sword",
-    "Count": 4
+    "count": 4
   },
   "games": [
     "destroy_the_monument:forest4"

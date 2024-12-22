@@ -22,7 +22,7 @@
   },
   "tool": {
     "id": "minecraft:diamond_shovel",
-    "Count": 1
+    "count": 1
   },
   "icon": "minecraft:moss_carpet"
 }

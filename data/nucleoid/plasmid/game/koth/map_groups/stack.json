@@ -6,13 +6,13 @@
     "koth:stack_leap"
   ],
   "icon": {
-    "id": "minecraft:stick",
-    "Count": 1,
     "Enchantments": [
       {
         "id": "minecraft:knockback",
         "lvl": 1
       }
-    ]
+    ],
+    "id": "minecraft:stick",
+    "count": 1
   }
 }

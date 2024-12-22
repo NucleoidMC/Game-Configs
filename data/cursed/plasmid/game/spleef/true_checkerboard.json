@@ -41,8 +41,8 @@
   "projectile": {
     "restock_interval": 20,
     "stack": {
-      "id": "ender_pearl",
-      "Count": 1
+      "id": "minecraft:ender_pearl",
+      "count": 1
     },
     "radius": 0
   },

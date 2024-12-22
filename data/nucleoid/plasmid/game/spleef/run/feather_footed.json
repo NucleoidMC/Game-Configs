@@ -50,16 +50,16 @@
   "level_break_interval": 1200,
   "tool": {
     "id": "minecraft:air",
-    "Count": 1
+    "count": 1
   },
   "icon": {
-    "id": "minecraft:iron_boots",
-    "Count": 1,
     "Enchantments": [
       {
         "id": "minecraft:feather_falling",
         "lvl": 4
       }
-    ]
+    ],
+    "id": "minecraft:iron_boots",
+    "count": 1
   }
 }
