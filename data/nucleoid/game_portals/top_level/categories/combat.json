@@ -67,6 +67,10 @@
     },
     {
       "type": "plasmid:portal",
+      "portal": "nucleoid:dicey_heights/root"
+    },
+    {
+      "type": "plasmid:portal",
       "portal": "nucleoid:beacon_breakers/root"
     }
   ]

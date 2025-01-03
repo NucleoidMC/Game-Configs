@@ -1,0 +1,20 @@
+{
+  "type": "nucleoid_extras:styled/simple_menu",
+  "icon": {
+    "id": "minecraft:dispenser",
+    "count": 4
+  },
+  "games": [
+    "diceyheights:standard_dicey_heights_4_teams",
+    "diceyheights:separate_dicey_heights_4_teams",
+    "diceyheights:overload_dicey_heights_4_teams",
+    "diceyheights:separate_overload_dicey_heights_4_teams",
+    "diceyheights:standard_pillar_spawning_dicey_heights_4_teams",
+    "diceyheights:separate_pillar_spawning_dicey_heights_4_teams",
+    "diceyheights:overload_pillar_spawning_dicey_heights_4_teams",
+    "diceyheights:separate_overload_pillar_spawning_dicey_heights_4_teams"
+  ],
+  "name": {
+    "translate": "game.nucleoid.four_teams"
+  }
+}
