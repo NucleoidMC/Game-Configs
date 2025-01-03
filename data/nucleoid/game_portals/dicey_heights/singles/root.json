@@ -1,0 +1,17 @@
+{
+  "type": "nucleoid_extras:styled/simple_menu",
+  "icon": "minecraft:dispenser",
+  "games": [
+    "diceyheights:standard_dicey_heights",
+    "diceyheights:separate_dicey_heights",
+    "diceyheights:overload_dicey_heights",
+    "diceyheights:separate_overload_dicey_heights",
+    "diceyheights:standard_pillar_spawning_dicey_heights",
+    "diceyheights:separate_pillar_spawning_dicey_heights",
+    "diceyheights:overload_pillar_spawning_dicey_heights",
+    "diceyheights:separate_overload_pillar_spawning_dicey_heights"
+  ],
+  "name": {
+    "translate": "game.nucleoid.singles"
+  }
+}
