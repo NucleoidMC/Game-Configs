@@ -5,7 +5,7 @@
     "z": 8,
     "x_scale": 8,
     "z_scale": 8,
-    "platformBlocks": "minecraft:slabs",
+    "platform_blocks": "#minecraft:slabs",
     "initial_state_provider": {
       "type": "minecraft:simple_state_provider",
       "state": {
