@@ -1,13 +1,13 @@
 {
   "type": "colorswap:color_swap",
+  "swap_time": 25,
+  "erase_time": 15,
   "map": {
     "x": 4,
     "z": 4,
     "x_scale": 2,
     "z_scale": 2,
-    "swap_time": 25,
-    "erase_time": 15,
-    "platformBlocks": "colorswap:platform_blocks"
+    "platform_blocks": "#colorswap:platform_blocks"
   },
   "players": {
     "min": 1,
