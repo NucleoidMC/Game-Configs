@@ -3,7 +3,8 @@
   "games": [
     "sabotage:village",
     "sabotage:skybound",
-    "sabotage:hellbound"
+    "sabotage:hellbound",
+    "sabotage:town"
   ],
   "name": {
     "translate": "gameType.sabotage.sabotage"
