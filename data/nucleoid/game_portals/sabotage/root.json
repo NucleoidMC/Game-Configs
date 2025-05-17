@@ -8,7 +8,7 @@
     {
       "type": "nucleoid_extras:quick_portal",
       "icon": "sabotage:sabotage_chest",
-      "portal": "nucleoid:sabotage/maps",
+      "portal": "nucleoid:sabotage/maps/root",
       "quick_portal": "nucleoid:sabotage/random",
       "message": {
         "translate": "text.nucleoid_extras.ui.action.maps"

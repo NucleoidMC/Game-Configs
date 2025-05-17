@@ -28,6 +28,14 @@
       "name": {
         "translate": "map.sabotage.skybound"
       }
+    },
+    {
+      "type": "plasmid:game",
+      "icon": "minecraft:oak_door",
+      "game": "sabotage:town",
+      "name": {
+        "translate": "map.sabotage.town"
+      }
     }
   ]
 }
