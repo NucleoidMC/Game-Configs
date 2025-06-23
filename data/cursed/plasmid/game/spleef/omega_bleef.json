@@ -27,9 +27,7 @@
     "count": 1,
     "components": {
       "minecraft:enchantments": {
-        "levels": {
-          "minecraft:infinity": 1
-        }
+        "minecraft:infinity": 1
       }
     }
   },

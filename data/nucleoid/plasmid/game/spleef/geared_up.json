@@ -96,9 +96,7 @@
     "count": 1,
     "components": {
       "minecraft:enchantments": {
-        "levels": {
-          "minecraft:efficiency": 100
-        }
+        "minecraft:efficiency": 100
       }
     }
   },
