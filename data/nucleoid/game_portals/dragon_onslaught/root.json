@@ -7,8 +7,8 @@
   "entries": [
     {
       "type": "nucleoid_extras:quick_portal",
-      "portal": "nucleoid:dicey_heights/singles/root",
-      "quick_portal": "nucleoid:dicey_heights/singles/quick",
+      "portal": "nucleoid:dragon_onslaught/singles/root",
+      "quick_portal": "nucleoid:dragon_onslaught/singles/quick",
       "message": {
         "translate": "text.nucleoid_extras.ui.action.modes"
       }
