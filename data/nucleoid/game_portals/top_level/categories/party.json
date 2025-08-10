@@ -63,6 +63,10 @@
     },
     {
       "type": "plasmid:portal",
+      "portal": "nucleoid:dragon_onslaught"
+    },
+    {
+      "type": "plasmid:portal",
       "portal": "nucleoid:electric_floor"
     },
     {
@@ -124,10 +128,6 @@
     {
       "type": "plasmid:portal",
       "portal": "nucleoid:snowball_fight"
-    },
-    {
-      "type": "plasmid:portal",
-      "portal": "nucleoid:dragon_onslaught"
     },
     {
       "type": "plasmid:portal",
