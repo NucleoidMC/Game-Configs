@@ -1,0 +1,17 @@
+{
+  "type": "nucleoid_extras:styled/simple_menu",
+  "icon": "minecraft:map",
+  "games": [
+    "bingo:bingo",
+    "bingo:lockout_bingo",
+    "bingo:separate_bingo",
+    "bingo:hard_bingo",
+    "bingo:hard_lockout_bingo",
+    "bingo:hard_separate_bingo",
+    "bingo:hard_separate_lockout_bingo",
+    "bingo:separate_lockout_bingo"
+  ],
+  "name": {
+    "translate": "game.nucleoid.singles"
+  }
+}
