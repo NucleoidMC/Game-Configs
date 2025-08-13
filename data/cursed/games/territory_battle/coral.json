@@ -9,6 +9,6 @@
     "max": 32,
     "threshold": 2
   },
-  "playerBlocks": "minecraft:coral_blocks",
+  "player_blocks": "#minecraft:coral_blocks",
   "icon": "brain_coral_block"
 }

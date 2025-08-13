@@ -1,0 +1,11 @@
+{
+  "type": "consolebox:console_box",
+  "name": "Ping (<c:#86c06c>WASM-4<r>)",
+  "description": [
+	"Sophesticated ping pong game.",
+	"Developed by: Cannon Tuttle"
+  ],
+  "icon": "minecraft:slime_block",
+  "game": "nucleoid:ping",
+  "players": 1
+}

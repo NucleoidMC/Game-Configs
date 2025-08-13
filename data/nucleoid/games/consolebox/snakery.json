@@ -1,0 +1,11 @@
+{
+  "type": "consolebox:console_box",
+  "name": "Snakery (<c:#86c06c>WASM-4<r>)",
+  "description": [
+	"Grid based puzzle game. Collect all the $ to solve each level.",
+	"Developed by: hahahahaman"
+  ],
+  "icon": "minecraft:lime_candle",
+  "game": "nucleoid:snakery",
+  "players": 1
+}
