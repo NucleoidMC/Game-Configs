@@ -2,7 +2,10 @@
   "type": "nucleoid_extras:styled/simple_menu",
   "icon": {
     "id": "minecraft:red_bed",
-    "count": 4
+    "count": 4,
+    "components": {
+      "max_stack_size": 99
+    }
   },
   "games": [
     "bedwars:four_teams/aspen_forest",

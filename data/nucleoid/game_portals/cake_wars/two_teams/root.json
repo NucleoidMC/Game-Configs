@@ -2,7 +2,10 @@
   "type": "nucleoid_extras:styled/simple_menu",
   "icon": {
     "id": "minecraft:cake",
-    "count": 2
+    "count": 2,
+    "components": {
+      "max_stack_size": 99
+    }
   },
   "games": [
     "cakewars:beehive_cake_wars",

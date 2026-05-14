@@ -2,7 +2,10 @@
   "type": "nucleoid_extras:styled/simple_menu",
   "icon": {
     "id": "minecraft:red_bed",
-    "count": 8
+    "count": 8,
+    "components": {
+      "max_stack_size": 99
+    }
   },
   "games": [
     "bedwars:eight_teams/beach"

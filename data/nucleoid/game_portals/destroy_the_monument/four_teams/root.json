@@ -2,7 +2,11 @@
   "type": "nucleoid_extras:styled/simple_menu",
   "icon": {
     "id": "minecraft:diamond_sword",
-    "count": 4
+    "count": 4,
+    "components": {
+      "max_stack_size": 99,
+      "!max_damage": {}
+    }
   },
   "games": [
     "destroy_the_monument:forest4"
