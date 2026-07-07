@@ -38,6 +38,10 @@
       "portal": "nucleoid:cabinfever"
     },
     {
+      "type": "plasmid:portal",
+      "portal": "cooking_frenzy:cooking_frenzy"
+    },
+    {
       "type": "nucleoid_extras:quick_portal",
       "portal": "nucleoid:color_swap/root",
       "quick_portal": "nucleoid:color_swap/random",
