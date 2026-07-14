@@ -1,0 +1,33 @@
+{
+  "type": "nucleoid_extras:styled/advanced_menu",
+  "name": {
+    "translate": "gameType.dragononslaught.dragon_onslaught"
+  },
+  "icon": "minecraft:ender_dragon_spawn_egg",
+  "entries": [
+    {
+      "type": "nucleoid_extras:quick_portal",
+      "portal": "nucleoid:dragon_onslaught/singles/root",
+      "quick_portal": "nucleoid:dragon_onslaught/singles/quick",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.modes"
+      }
+    },
+    {
+      "type": "nucleoid_extras:quick_portal",
+      "portal": "nucleoid:dragon_onslaught/two_teams/root",
+      "quick_portal": "nucleoid:dragon_onslaught/two_teams/quick",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.modes"
+      }
+    },
+    {
+      "type": "nucleoid_extras:quick_portal",
+      "portal": "nucleoid:dragon_onslaught/four_teams/root",
+      "quick_portal": "nucleoid:dragon_onslaught/four_teams/quick",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.modes"
+      }
+    }
+  ]
+}

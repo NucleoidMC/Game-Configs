@@ -67,6 +67,10 @@
     },
     {
       "type": "plasmid:portal",
+      "portal": "nucleoid:dragon_onslaught"
+    },
+    {
+      "type": "plasmid:portal",
       "portal": "nucleoid:electric_floor"
     },
     {
