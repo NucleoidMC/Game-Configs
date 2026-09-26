@@ -7,13 +7,13 @@
       "layers": [
         {
           "state": {
-            "Name": "minecraft:air"
+            "id": "minecraft:air"
           },
           "start_y": 0
         },
         {
           "state": {
-            "Name": "minecraft:barrier"
+            "id": "minecraft:barrier"
           },
           "start_y": 60
         }

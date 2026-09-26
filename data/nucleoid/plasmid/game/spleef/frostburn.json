@@ -12,13 +12,13 @@
         {
           "weight": 1,
           "data": {
-            "Name": "minecraft:magma_block"
+            "id": "minecraft:magma_block"
           }
         },
         {
           "weight": 1,
           "data": {
-            "Name": "minecraft:blue_ice"
+            "id": "minecraft:blue_ice"
           }
         }
       ]

@@ -21,7 +21,7 @@
     "wall_provider": {
       "type": "minecraft:simple_state_provider",
       "state": {
-        "Name": "minecraft:white_terracotta"
+        "id": "minecraft:white_terracotta"
       }
     },
     "levels": 4,

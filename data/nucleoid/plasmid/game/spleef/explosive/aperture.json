@@ -65,7 +65,7 @@
     "wall_provider": {
       "type": "minecraft:simple_state_provider",
       "state": {
-        "Name": "minecraftobsidian"
+        "id": "minecraftobsidian"
       }
     },
     "levels": 4,

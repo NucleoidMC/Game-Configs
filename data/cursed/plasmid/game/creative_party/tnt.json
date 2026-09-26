@@ -7,14 +7,14 @@
       "layers": [
         {
           "state": {
-            "Name": "minecraft:air"
+            "id": "minecraft:air"
           },
           "start_y": 0
         },
         {
           "state": {
-            "Name": "minecraft:tnt",
-            "Properties": {
+            "id": "minecraft:tnt",
+            "properties": {
               "unstable": "false"
             }
           },

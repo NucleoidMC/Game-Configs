@@ -22,14 +22,14 @@
     "wall_provider": {
       "type": "minecraft:simple_state_provider",
       "state": {
-        "Name": "minecraft:white_terracotta"
+        "id": "minecraft:white_terracotta"
       }
     },
     "floor_provider": {
       "type": "minecraft:simple_state_provider",
       "state": {
-        "Name": "minecraft:tnt",
-        "Properties": {
+        "id": "minecraft:tnt",
+        "properties": {
           "unstable": "false"
         }
       }

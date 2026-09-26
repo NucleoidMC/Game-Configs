@@ -7,32 +7,32 @@
       "layers": [
         {
           "state": {
-            "Name": "minecraft:bedrock"
+            "id": "minecraft:bedrock"
           },
           "start_y": 0
         },
         {
           "state": {
-            "Name": "minecraft:stone"
+            "id": "minecraft:stone"
           },
           "start_y": 1
         },
         {
           "state": {
-            "Name": "minecraft:gravel"
+            "id": "minecraft:gravel"
           },
           "start_y": 29
         },
         {
           "state": {
-            "Name": "minecraft:seagrass"
+            "id": "minecraft:seagrass"
           },
           "start_y": 32
         },
         {
           "state": {
-            "Name": "minecraft:water",
-            "Properties": {
+            "id": "minecraft:water",
+            "properties": {
               "level": "0"
             }
           },

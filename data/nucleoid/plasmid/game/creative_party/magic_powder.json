@@ -7,43 +7,43 @@
       "layers": [
         {
           "state": {
-            "Name": "minecraft:purple_concrete_powder"
+            "id": "minecraft:purple_concrete_powder"
           },
           "start_y": 0
         },
         {
           "state": {
-            "Name": "minecraft:blue_concrete_powder"
+            "id": "minecraft:blue_concrete_powder"
           },
           "start_y": 7
         },
         {
           "state": {
-            "Name": "minecraft:light_blue_concrete_powder"
+            "id": "minecraft:light_blue_concrete_powder"
           },
           "start_y": 14
         },
         {
           "state": {
-            "Name": "minecraft:lime_concrete_powder"
+            "id": "minecraft:lime_concrete_powder"
           },
           "start_y": 21
         },
         {
           "state": {
-            "Name": "minecraft:yellow_concrete_powder"
+            "id": "minecraft:yellow_concrete_powder"
           },
           "start_y": 28
         },
         {
           "state": {
-            "Name": "minecraft:orange_concrete_powder"
+            "id": "minecraft:orange_concrete_powder"
           },
           "start_y": 35
         },
         {
           "state": {
-            "Name": "minecraft:red_concrete_powder"
+            "id": "minecraft:red_concrete_powder"
           },
           "start_y": 42
         }

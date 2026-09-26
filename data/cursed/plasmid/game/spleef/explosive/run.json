@@ -15,13 +15,13 @@
         {
           "weight": 100000,
           "data": {
-            "Name": "minecraft:snow_block"
+            "id": "minecraft:snow_block"
           }
         },
         {
           "weight": 1,
           "data": {
-            "Name": "minecraft:tnt"
+            "id": "minecraft:tnt"
           }
         }
       ]
@@ -29,7 +29,7 @@
     "wall_provider": {
       "type": "minecraft:simple_state_provider",
       "state": {
-        "Name": "minecraft:obsidian"
+        "id": "minecraft:obsidian"
       }
     }
   },

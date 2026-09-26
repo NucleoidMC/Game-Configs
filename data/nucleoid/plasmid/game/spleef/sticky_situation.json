@@ -12,13 +12,13 @@
         {
           "weight": 1,
           "data": {
-            "Name": "minecraft:honey_block"
+            "id": "minecraft:honey_block"
           }
         },
         {
           "weight": 1,
           "data": {
-            "Name": "minecraft:slime_block"
+            "id": "minecraft:slime_block"
           }
         }
       ]

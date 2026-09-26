@@ -7,26 +7,26 @@
       "layers": [
         {
           "state": {
-            "Name": "minecraft:bedrock"
+            "id": "minecraft:bedrock"
           },
           "start_y": 0
         },
         {
           "state": {
-            "Name": "minecraft:stone"
+            "id": "minecraft:stone"
           },
           "start_y": 1
         },
         {
           "state": {
-            "Name": "minecraft:dirt"
+            "id": "minecraft:dirt"
           },
           "start_y": 60
         },
         {
           "state": {
-            "Name": "minecraft:grass_block",
-            "Properties": {
+            "id": "minecraft:grass_block",
+            "properties": {
               "snowy": "false"
             }
           },
@@ -34,7 +34,7 @@
         },
         {
           "state": {
-            "Name": "minecraft:grass"
+            "id": "minecraft:grass"
           },
           "start_y": 64
         }

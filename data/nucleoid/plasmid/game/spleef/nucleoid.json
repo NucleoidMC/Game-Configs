@@ -70,7 +70,7 @@
     "wall_provider": {
       "type": "minecraft:simple_state_provider",
       "state": {
-        "Name": "minecraft:black_concrete"
+        "id": "minecraft:black_concrete"
       }
     },
     "floor_provider": {
@@ -80,13 +80,13 @@
         {
           "weight": 14,
           "data": {
-            "Name": "minecraft:green_wool"
+            "id": "minecraft:green_wool"
           }
         },
         {
           "weight": 1,
           "data": {
-            "Name": "minecraft:lime_wool"
+            "id": "minecraft:lime_wool"
           }
         }
       ]

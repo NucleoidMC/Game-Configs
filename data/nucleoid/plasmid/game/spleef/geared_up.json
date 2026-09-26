@@ -74,13 +74,13 @@
     "wall_provider": {
       "type": "minecraft:simple_state_provider",
       "state": {
-        "Name": "minecraft:copper_block"
+        "id": "minecraft:copper_block"
       }
     },
     "floor_provider": {
       "type": "minecraft:simple_state_provider",
       "state": {
-        "Name": "minecraft:iron_block"
+        "id": "minecraft:iron_block"
       }
     },
     "levels": 4,

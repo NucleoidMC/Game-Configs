@@ -92,7 +92,7 @@
     "floor_provider": {
       "type": "minecraft:simple_state_provider",
       "state": {
-        "Name": "minecraft:quartz_bricks"
+        "id": "minecraft:quartz_bricks"
       }
     },
     "levels": 1,

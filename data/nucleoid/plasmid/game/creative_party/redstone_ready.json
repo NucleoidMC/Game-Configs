@@ -7,13 +7,13 @@
       "layers": [
         {
           "state": {
-            "Name": "minecraft:bedrock"
+            "id": "minecraft:bedrock"
           },
           "start_y": 0
         },
         {
           "state": {
-            "Name": "minecraft:sandstone"
+            "id": "minecraft:sandstone"
           },
           "start_y": 1
         }

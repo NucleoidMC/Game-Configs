@@ -26,7 +26,7 @@
     "wall_provider": {
       "type": "minecraft:simple_state_provider",
       "state": {
-        "Name": "minecraft:black_concrete"
+        "id": "minecraft:black_concrete"
       }
     },
     "levels": 4,
