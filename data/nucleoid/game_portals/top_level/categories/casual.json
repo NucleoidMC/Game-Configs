@@ -46,6 +46,10 @@
       "portal": "nucleoid:item_hunt"
     },
     {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:bingo"
+    },
+    {
       "type": "nucleoid_extras:quick_portal",
       "portal": "nucleoid:murder_mystery/root",
       "quick_portal": "nucleoid:murder_mystery/random",
