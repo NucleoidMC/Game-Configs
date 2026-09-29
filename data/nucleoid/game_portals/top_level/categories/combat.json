@@ -27,7 +27,7 @@
     },
     {
       "type": "plasmid:portal",
-      "portal": "nucleoid:duels"
+      "portal": "duels:duels/root"
     },
     {
       "type": "plasmid:portal",
