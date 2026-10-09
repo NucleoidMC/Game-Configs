@@ -50,14 +50,6 @@
       }
     },
     {
-      "type": "nucleoid_extras:quick_portal",
-      "portal": "nucleoid:cornmaze/root",
-      "quick_portal": "nucleoid:cornmaze/random",
-      "message": {
-        "translate": "text.nucleoid_extras.ui.action.maps"
-      }
-    },
-    {
       "type": "plasmid:portal",
       "portal": "nucleoid:deacoudre/root"
     },
@@ -78,10 +70,6 @@
       "portal": "nucleoid:elytron"
     },
     {
-      "type": "plasmid:portal",
-      "portal": "nucleoid:irritater_run"
-    },
-    {
       "type": "nucleoid_extras:quick_portal",
       "portal": "nucleoid:koth/root",
       "quick_portal": "nucleoid:koth/random",
@@ -96,10 +84,6 @@
     {
       "type": "plasmid:portal",
       "portal": "nucleoid:minefield"
-    },
-    {
-      "type": "plasmid:portal",
-      "portal": "nucleoid:mineout"
     },
     {
       "type": "nucleoid_extras:quick_portal",
@@ -136,14 +120,6 @@
     {
       "type": "plasmid:portal",
       "portal": "nucleoid:territory_battle"
-    },
-    {
-      "type": "nucleoid_extras:quick_portal",
-      "portal": "nucleoid:totem_hunt/root",
-      "quick_portal": "nucleoid:totem_hunt/random",
-      "message": {
-        "translate": "text.nucleoid_extras.ui.action.maps"
-      }
     }
   ]
 }

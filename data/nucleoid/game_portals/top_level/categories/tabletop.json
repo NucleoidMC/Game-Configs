@@ -23,15 +23,7 @@
     },
     {
       "type": "plasmid:portal",
-      "portal": "nucleoid:codebreaker"
-    },
-    {
-      "type": "plasmid:portal",
       "portal": "nucleoid:withersweeper"
-    },
-    {
-      "type": "plasmid:portal",
-      "portal": "nucleoid:werewolf"
     }
   ]
 }

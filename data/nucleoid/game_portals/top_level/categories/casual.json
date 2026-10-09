@@ -30,14 +30,6 @@
       "portal": "nucleoid:lava_survival"
     },
     {
-      "type": "nucleoid_extras:quick_portal",
-      "portal": "nucleoid:parkour_race/root",
-      "quick_portal": "nucleoid:parkour_race/random",
-      "message": {
-        "translate": "text.nucleoid_extras.ui.action.maps"
-      }
-    },
-    {
       "type": "plasmid:portal",
       "portal": "nucleoid:parkour_run"
     },
@@ -48,14 +40,6 @@
     {
       "type": "plasmid:portal",
       "portal": "nucleoid:bingo"
-    },
-    {
-      "type": "nucleoid_extras:quick_portal",
-      "portal": "nucleoid:murder_mystery/root",
-      "quick_portal": "nucleoid:murder_mystery/random",
-      "message": {
-        "translate": "text.nucleoid_extras.ui.action.maps"
-      }
     },
     {
       "type": "plasmid:portal",

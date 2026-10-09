@@ -15,10 +15,6 @@
     },
     {
       "type": "plasmid:portal",
-      "portal": "nucleoid:cake_wars/root"
-    },
-    {
-      "type": "plasmid:portal",
       "portal": "nucleoid:destroy_the_monument/root"
     },
     {
