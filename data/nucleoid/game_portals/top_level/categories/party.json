@@ -59,7 +59,7 @@
     },
     {
       "type": "plasmid:portal",
-      "portal": "nucleoid:dragon_onslaught"
+      "portal": "nucleoid:dragon_onslaught/root"
     },
     {
       "type": "plasmid:portal",
