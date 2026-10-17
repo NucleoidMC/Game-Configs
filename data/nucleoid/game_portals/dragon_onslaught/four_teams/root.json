@@ -6,6 +6,6 @@
   },
   "games": ["dragononslaught:divided_dragon_onslaught_4_teams"],
   "name": {
-    "translate": "game.nucleoid.two_teams"
+    "translate": "game.nucleoid.four_teams"
   }
 }
