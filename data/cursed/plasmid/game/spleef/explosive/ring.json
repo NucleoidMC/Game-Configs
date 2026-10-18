@@ -50,18 +50,17 @@
     "id": "minecraft:flint_and_steel",
     "count": 1,
     "components": {
-      "minecraft:can_place_on": {
-        "predicates": [
-          {
-            "blocks": "minecraft:tnt"
-          }
-        ]
-      }
-    },
-    "lava_rise": {
-      "ticks_per_level": 60
-    },
-    "level_break_interval": 400,
-    "unstable_tnt": false,
-    "icon": "minecraft:gold_block"
-  }
+      "minecraft:can_place_on": [
+        {
+          "blocks": "minecraft:tnt"
+        }
+      ]
+    }
+  },
+  "lava_rise": {
+    "ticks_per_level": 60
+  },
+  "level_break_interval": 400,
+  "unstable_tnt": false,
+  "icon": "minecraft:gold_block"
+}
