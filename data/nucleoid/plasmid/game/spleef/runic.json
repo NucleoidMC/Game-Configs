@@ -31,8 +31,8 @@
       "tile_size": 2
     },
     "wall_provider": {
-      "type": "minecraft:weighted_state_provider",
-      "name": "minecraft:weighted_state_provider",
+      "type": "minecraft:weighted",
+      "name": "minecraft:weighted",
       "entries": [
         {
           "weight": 2,

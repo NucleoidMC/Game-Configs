@@ -6,8 +6,8 @@
       "radius": 16
     },
     "floor_provider": {
-      "type": "minecraft:weighted_state_provider",
-      "name": "minecraft:weighted_state_provider",
+      "type": "minecraft:weighted",
+      "name": "minecraft:weighted",
       "entries": [
         {
           "weight": 6,

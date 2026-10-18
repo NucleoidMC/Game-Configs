@@ -24,7 +24,7 @@
       "tile_size": 2
     },
     "wall_provider": {
-      "type": "minecraft:simple_state_provider",
+      "type": "minecraft:simple",
       "state": {
         "id": "minecraft:black_concrete"
       }
