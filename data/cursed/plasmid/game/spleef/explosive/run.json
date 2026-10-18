@@ -44,19 +44,17 @@
       "id": "minecraft:tnt",
       "count": 1,
       "components": {
-        "minecraft:can_place_on": {
-          "predicates": [
-            {
-              "blocks": "minecraft:obsidian"
-            },
-            {
-              "blocks": "minecraft:snow_block"
-            },
-            {
-              "blocks": "minecraft:tnt"
-            }
-          ]
-        }
+        "minecraft:can_place_on": [
+          {
+            "blocks": "minecraft:obsidian"
+          },
+          {
+            "blocks": "minecraft:snow_block"
+          },
+          {
+            "blocks": "minecraft:tnt"
+          }
+        ]
       }
     }
   },

@@ -32,19 +32,17 @@
       "id": "minecraft:tnt",
       "count": 1,
       "components": {
-        "minecraft:can_place_on": {
-          "predicates": [
-            {
-              "blocks": "minecraft:obsidian"
-            },
-            {
-              "blocks": "minecraft:snow_block"
-            },
-            {
-              "blocks": "minecraft:tnt"
-            }
-          ]
-        }
+        "minecraft:can_place_on": [
+          {
+            "blocks": "minecraft:obsidian"
+          },
+          {
+            "blocks": "minecraft:snow_block"
+          },
+          {
+            "blocks": "minecraft:tnt"
+          }
+        ]
       }
     }
   },
@@ -59,12 +57,11 @@
           }
         ]
       }
-    }
-  },
-  "lava_rise": {
-    "ticks_per_level": 60
-  },
-  "level_break_interval": 400,
-  "unstable_tnt": false,
-  "icon": "minecraft:gold_block"
-}
+    },
+    "lava_rise": {
+      "ticks_per_level": 60
+    },
+    "level_break_interval": 400,
+    "unstable_tnt": false,
+    "icon": "minecraft:gold_block"
+  }

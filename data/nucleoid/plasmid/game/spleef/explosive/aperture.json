@@ -82,19 +82,17 @@
       "id": "minecraft:tnt",
       "count": 1,
       "components": {
-        "minecraft:can_place_on": {
-          "predicates": [
-            {
-              "blocks": "minecraft:obsidian"
-            },
-            {
-              "blocks": "minecraft:snow_block"
-            },
-            {
-              "blocks": "minecraft:tnt"
-            }
-          ]
-        }
+        "minecraft:can_place_on": [
+          {
+            "blocks": "minecraft:obsidian"
+          },
+          {
+            "blocks": "minecraft:snow_block"
+          },
+          {
+            "blocks": "minecraft:tnt"
+          }
+        ]
       }
     }
   },
@@ -102,13 +100,11 @@
     "id": "minecraft:flint_and_steel",
     "count": 1,
     "components": {
-      "minecraft:can_place_on": {
-        "predicates": [
-          {
-            "blocks": "minecraft:tnt"
-          }
-        ]
-      }
+      "minecraft:can_place_on": [
+        {
+          "blocks": "minecraft:tnt"
+        }
+      ]
     }
   },
   "lava_rise": {
