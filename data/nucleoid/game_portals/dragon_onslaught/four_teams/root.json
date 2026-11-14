@@ -4,7 +4,11 @@
     "id": "minecraft:ender_dragon_spawn_egg",
     "count": 4
   },
-  "games": ["dragononslaught:divided_dragon_onslaught_4_teams"],
+  "games": [
+    "dragononslaught:divided_dragon_onslaught_4_teams",
+    "dragononslaught:birdie_beach_dragon_onslaught_4_teams",
+    "dragononslaught:town_dragon_onslaught_4_teams"
+  ],
   "name": {
     "translate": "game.nucleoid.four_teams"
   }
