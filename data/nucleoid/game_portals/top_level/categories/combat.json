@@ -68,6 +68,10 @@
     {
       "type": "plasmid:portal",
       "portal": "nucleoid:beacon_breakers/root"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "turfwars:turfwars"
     }
   ]
 }
