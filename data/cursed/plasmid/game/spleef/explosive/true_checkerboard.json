@@ -62,11 +62,16 @@
     "id": "minecraft:flint_and_steel",
     "count": 1,
     "components": {
-      "minecraft:can_place_on": [
-        {
-          "blocks": "minecraft:tnt"
-        }
-      ]
+      "minecraft:can_place_on": {
+        "blocks": "minecraft:tnt"
+      },
+	  "minecraft:can_break": {
+        "blocks": "minecraft:tnt"
+      },
+	  "minecraft:tool": {
+		"rules": [],
+		"default_mining_speed": 0
+	  }
     }
   },
   "lava_rise": {

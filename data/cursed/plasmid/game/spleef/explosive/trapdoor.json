@@ -61,12 +61,15 @@
     "count": 1,
     "components": {
       "minecraft:can_place_on": {
-        "predicates": [
-          {
-            "blocks": "minecraft:tnt"
-          }
-        ]
-      }
+        "blocks": "minecraft:tnt"
+      },
+	  "minecraft:can_break": {
+        "blocks": "minecraft:tnt"
+      },
+	  "minecraft:tool": {
+		"rules": [],
+		"default_mining_speed": 0
+	  }
     }
   },
   "lava_rise": {
