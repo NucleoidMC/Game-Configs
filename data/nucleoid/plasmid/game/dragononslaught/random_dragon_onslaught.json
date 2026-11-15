@@ -1,0 +1,12 @@
+{
+  "type": "plasmid:random",
+  "games": [
+    "dragononslaught:divided_dragon_onslaught",
+    "dragononslaught:birdie_beach_dragon_onslaught",
+    "dragononslaught:town_dragon_onslaught"
+  ],
+  "name": {
+    "translate": "game.nucleoid.random"
+  },
+  "icon": "nucleoid_extras:lucky_tater"
+}
